@@ -9,7 +9,7 @@ const config = {
     logo: '',
     logoLink: '',
     title: 'PMD1 DX Wiki',
-    githubUrl: 'https://github.com/SharkSnack/pmd-1-dx',
+    githubUrl: 'https://github.com/SharkSnack/pmd1-dx',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -53,8 +53,8 @@ const config = {
     title: 'PMD1 DX Wiki | SharkSnack',
     description: 'Documentation built with mdx.',
     ogImage: null,
-    docsLocation: 'https://github.com/sharksnack/pmd-1-dx/tree/main/content',
-    favicon: 'https://raw.githubusercontent.com/SharkSnack/pmd-1-dx/main/src/components/images/favicon-32x32.png',
+    docsLocation: 'https://github.com/sharksnack/pmd1-dx/tree/main/content',
+    favicon: 'https://raw.githubusercontent.com/SharkSnack/pmd1-dx/main/src/components/images/favicon-32x32.png',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
