@@ -8,7 +8,7 @@ metaDescription: "Frosty Forest dungeon guide for Pokemon Mystery Dungeon: Rescu
   <img src="../images/areas/frosty_forest.jpg"/><img src="../images/areas/frosty_forest_2.jpg"/>
 </div>
 
-[Introduction]
+Dungeon featuring some evolved Pokemon with stronger attacks, along with Ditto.<br/>Ditto is usually disguised as an item at the start of a floor, and appears when you try to pick the item up.<br/>It only knows the move Transform, which can leave other party members confused when used by an enemy.<br/>When a Pokemon transforms, most characteristics are copied except for the Pokemon's stats.<br/>There's a checkpoint during the first clear between 9F and 10F, and Articuno appears as a boss on 14F.<br/>Absol joins your team after clearing this dungeon, and always has Squeeze Out as a Rare Quality.
 
 # Overview
 
@@ -64,7 +64,7 @@ metaDescription: "Frosty Forest dungeon guide for Pokemon Mystery Dungeon: Rescu
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_3.jpg"/></td>
     <th>Reward</th>
     <td>Absol joins<br/>Unlock Mt. Freeze</td>
   </tr>
@@ -108,24 +108,24 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 
 |Floor|Image|Name|Rate|Lv|HP|Atk|Def|SpA|SpD|Spe|Exp|Ability + Moves|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|1-3|![Furret](../images/pokemon/162.png)|Furret<br/>![Normal](../images/type/normal.gif)|%|20|55<br/><span class="redText">65</span>|34<br/><span class="redText">33</span>|31<br/><span class="redText">24</span>|28<br/><span class="redText">34</span>|28<br/><span class="redText">25</span>|36|42|Run Away or Keen Eye<br/>Scratch / Foresight / Defense Curl /<br/>Agility / Quick Attack / Fury Swipes /<br/>Coil / Helping Hand|
-|1-4|![Snorunt](../images/pokemon/361.png)|Snorunt<br/>![Ice](../images/type/ice.gif)|%|20|55<br/><span class="redText">67</span>|35<br/><span class="redText">36</span>|34<br/><span class="redText">25</span>|34<br/><span class="redText">35</span>|31<br/><span class="redText">26</span>|35|48|Inner Focus or Ice Body<br/>Ice Shard / Leer / Double Team /<br/>Bite / Powder Snow / Icy Wind|
-|1-6|![Azurill](../images/pokemon/298.png)|Azurill<br/>![Normal](../images/type/normal.gif) ![Fairy](../images/type/fairy.gif)|%|20|55<br/><span class="redText">68</span>|24<br/><span class="redText">34</span>|28<br/><span class="redText">23</span>|24<br/><span class="redText">24</span>|28<br/><span class="redText">26</span>|30|40|Thick Fat or Huge Power<br/>Splash / Water Gun / Slam / Charm /<br/>Water Sport / Bubble / Bubble Beam /<br/>Helping Hand / Tail Whip|
-|3-6|![Piloswine](../images/pokemon/221.png)|Piloswine<br/>![Ice](../images/type/ice.gif) ![Ground](../images/type/ground.gif)|%|33|76<br/><span class="redText">80</span>|63<br/><span class="redText">39</span>|52<br/><span class="redText">25</span>|46<br/><span class="redText">35</span>|46<br/><span class="redText">29</span>|53|53|Oblivious or Snow Cloak<br/>Ancient Power / Peck / Odor Sleuth /<br/>Mud Sport / Ice Fang / Mud-Slap /<br/>Endure / Fury Attack / Mud Bomb /<br/>Icy Wind / Powder Snow / Take Down|
-|4<br/>6<br/>10-13<br/><span class="highlightOrange">Foe</span>|![Spinda](../images/pokemon/327.png)<br/><br/>![Shiny](../images/shiny/327.png)|Spinda<br/>![Normal](../images/type/normal.gif)|%|20|56<br/><span class="redText">333</span>|32<br/><span class="redText">75</span>|32<br/><span class="redText">44</span>|32<br/><span class="redText">77</span>|32<br/><span class="redText">44</span>|33|500|Own Tempo or Tangled Feet<br/>Tackle / Copycat / Feint Attack /<br/>Psybeam / Hypnosis|
-|4-7<br/>12-13<br/>Rare|![Ditto](../images/pokemon/132.png)|Ditto<br/>![Normal](../images/type/normal.gif)|%|20|52<br/><span class="redText">66</span>|32<br/><span class="redText">33</span>|28<br/><span class="redText">26</span>|28<br/><span class="redText">33</span>|28<br/><span class="redText">26</span>|33|21|Limber<br/>Transform|
-|4-9|![Nosepass](../images/pokemon/299.png)|Nosepass<br/>![Rock](../images/type/rock.gif)|%|20|55<br/><span class="redText">69</span>|31<br/><span class="redText">37</span>|47<br/><span class="redText">22</span>|34<br/><span class="redText">35</span>|46<br/><span class="redText">33</span>|30|45|Sturdy or Magnet Pull<br/>Tackle / Harden / Block / Rest /<br/>Rock Throw / Thunder Wave / Spark|
-|7-9|![Mightyena](../images/pokemon/262.png)|Mightyena<br/>![Dark](../images/type/dark.gif)|%|20|55<br/><span class="redText">70</span>|42<br/><span class="redText">39</span>|31<br/><span class="redText">23</span>|30<br/><span class="redText">36</span>|30<br/><span class="redText">28</span>|34|40|Intimidate or Quick Feet<br/>Snarl / Fire Fang / Thunder Fang /<br/>Ice Fang / Crunch / Thief / Tackle /<br/>Howl / Bite / Sand Attack / Roar /<br/>Odor Sleuth / Swagger|
-|10-13|![Lairon](../images/pokemon/305.png)|Lairon<br/>![Steel](../images/type/steel.gif) ![Rock](../images/type/rock.gif)|%|32|66<br/><span class="redText">85</span>|62<br/><span class="redText">38</span>|66<br/><span class="redText">28</span>|41<br/><span class="redText">35</span>|41<br/><span class="redText">32</span>|46|48|Sturdy or Rock Head<br/>Tackle / Harden / Mud-Slap / Roar /<br/>Metal Claw / Rock Tomb / Protect /<br/>Iron Head / Rock Slide / Take Down<br/>Headbutt / Metal Sound|
-|10-13|![Rhyhorn](../images/pokemon/111.png)|Rhyhorn<br/>![Ground](../images/type/ground.gif) ![Rock](../images/type/rock.gif)|%|20|63<br/><span class="redText">70</span>|49<br/><span class="redText">42</span>|42<br/><span class="redText">25</span>|27<br/><span class="redText">38</span>|27<br/><span class="redText">28</span>|30|55|Lightning Rod or Rock Head<br/>Horn Attack / Stomp / Fury Attack /<br/>Scary Face / Smack Down / Tail Whip|
-|10-13|![Metang](../images/pokemon/375.png)|Metang<br/>![Steel](../images/type/steel.gif) ![Psychic](../images/type/psychic.gif)|%|20|55<br/><span class="redText">70</span>|35<br/><span class="redText">39</span>|36<br/><span class="redText">26</span>|31<br/><span class="redText">35</span>|32<br/><span class="redText">30</span>|32|49|Clear Body<br/>Confusion / Take Down / Metal Claw /<br/>Magnet Rise|
+|1-3|![Furret](../images/pokemon/162.png)|Furret<br/>![Normal](../images/type/normal.gif)|10.8%|20|55<br/><span class="redText">65</span>|34<br/><span class="redText">33</span>|31<br/><span class="redText">24</span>|28<br/><span class="redText">34</span>|28<br/><span class="redText">25</span>|36<br/><span class="redText">36</span>|42|Run Away or Keen Eye<br/>Scratch / Foresight / <span class="boost">Defense Curl</span> /<br/><span class="boost">Agility</span> / Quick Attack / <span class="extreme">Fury Swipes</span> /<br/><span class="boost">Coil</span> / Helping Hand|
+|1-4|![Snorunt](../images/pokemon/361.png)|Snorunt<br/>![Ice](../images/type/ice.gif)|10.8%|20|55<br/><span class="redText">67</span>|35<br/><span class="redText">36</span>|34<br/><span class="redText">25</span>|34<br/><span class="redText">35</span>|31<br/><span class="redText">26</span>|35<br/><span class="redText">35</span>|48|Inner Focus or Ice Body<br/>Ice Shard / Leer / Double Team /<br/>Bite / Powder Snow / <span class="caution">Icy Wind</span>|
+|1-6|![Azurill](../images/pokemon/298.png)|Azurill<br/>![Normal](../images/type/normal.gif) ![Fairy](../images/type/fairy.gif)|10.8%|20|55<br/><span class="redText">68</span>|24<br/><span class="redText">34</span>|28<br/><span class="redText">23</span>|24<br/><span class="redText">24</span>|28<br/><span class="redText">26</span>|30<br/><span class="redText">30</span>|40|Thick Fat or <span class="highlightOrange">Huge Power</span><br/>Splash / Water Gun / <span class="caution">Slam</span> / <span class="extreme">Charm</span> /<br/>Water Sport / Bubble / Bubble Beam /<br/>Helping Hand / Tail Whip|
+|3-6|![Piloswine](../images/pokemon/221.png)|Piloswine<br/>![Ice](../images/type/ice.gif) ![Ground](../images/type/ground.gif)|10.8%|33|76<br/><span class="redText">80</span>|63<br/><span class="redText">39</span>|52<br/><span class="redText">25</span>|46<br/><span class="redText">35</span>|46<br/><span class="redText">29</span>|53<br/><span class="redText">50</span>|53|Oblivious or Snow Cloak<br/>Ancient Power / Peck / Odor Sleuth /<br/>Mud Sport / <span class="caution">Ice Fang</span> / Mud-Slap /<br/>Endure / <span class="extreme">Fury Attack</span> / Mud Bomb /<br/><span class="caution">Icy Wind</span> / Powder Snow / Take Down|
+|4<br/>6<br/>10-13<br/><span class="highlightOrange">Foe</span>|![Spinda](../images/pokemon/327.png)<br/><br/>![Shiny](../images/shiny/327.png)|Spinda<br/>![Normal](../images/type/normal.gif)|-6.4%|20|56<br/><span class="redText">333</span>|32<br/><span class="redText">75</span>|32<br/><span class="redText">44</span>|32<br/><span class="redText">77</span>|32<br/><span class="redText">44</span>|33<br/><span class="redText">33</span>|500|<span class="highlightYellow">Own Tempo</span> or Tangled Feet<br/>Tackle / Copycat / Feint Attack /<br/><span class="extreme">Psybeam</span> / <span class="extreme">Hypnosis</span><br/><span class="orangeText">※ Friend Bow required to recruit.</span>|
+|4-7<br/>12-13<br/>Rare|![Ditto](../images/pokemon/132.png)|Ditto<br/>![Normal](../images/type/normal.gif)|10.8%|20|52<br/><span class="redText">66</span>|32<br/><span class="redText">33</span>|28<br/><span class="redText">26</span>|28<br/><span class="redText">33</span>|28<br/><span class="redText">26</span>|33<br/><span class="redText">33</span>|21|<span class="highlightYellow">Limber</span><br/><span class="extreme">Transform</span>|
+|4-9|![Nosepass](../images/pokemon/299.png)|Nosepass<br/>![Rock](../images/type/rock.gif)|10.8%|20|55<br/><span class="redText">69</span>|31<br/><span class="redText">37</span>|47<br/><span class="redText">22</span>|34<br/><span class="redText">35</span>|46<br/><span class="redText">33</span>|30<br/><span class="redText">30</span>|45|<span class="highlightYellow">Sturdy</span> or Magnet Pull<br/>Tackle / <span class="boost">Harden</span> / <span class="caution">Block</span> / Rest /<br/>Rock Throw / <span class="extreme">Thunder Wave</span> / Spark|
+|7-9|![Mightyena](../images/pokemon/262.png)|Mightyena<br/>![Dark](../images/type/dark.gif)|10.8%|20|55<br/><span class="redText">70</span>|42<br/><span class="redText">39</span>|31<br/><span class="redText">23</span>|30<br/><span class="redText">36</span>|30<br/><span class="redText">28</span>|34<br/><span class="redText">34</span>|40|<span class="highlightYellow">Intimidate</span> or Quick Feet<br/><span class="caution">Snarl</span> / Fire Fang / Thunder Fang /<br/>Ice Fang / <span class="extreme">Crunch</span> / <span class="extreme">Thief</span> / Tackle /<br/><span class="boost">Howl</span> / <span class="caution">Bite</span> / Sand Attack / Roar /<br/>Odor Sleuth / <span class="extreme">Swagger</span>|
+|10-13|![Lairon](../images/pokemon/305.png)|Lairon<br/>![Steel](../images/type/steel.gif) ![Rock](../images/type/rock.gif)|10.8%|32|66<br/><span class="redText">85</span>|62<br/><span class="redText">38</span>|66<br/><span class="redText">28</span>|41<br/><span class="redText">35</span>|41<br/><span class="redText">32</span>|46<br/><span class="redText">46</span>|48|<span class="highlightYellow">Sturdy</span> or Rock Head<br/>Tackle / <span class="boost">Harden</span> / Mud-Slap / Roar /<br/>Metal Claw / <span class="caution">Rock Tomb</span> / Protect /<br/><span class="caution">Iron Head</span> / <span class="caution">Rock Slide</span> / Take Down<br/>Headbutt / Metal Sound|
+|10-13|![Rhyhorn](../images/pokemon/111.png)|Rhyhorn<br/>![Ground](../images/type/ground.gif) ![Rock](../images/type/rock.gif)|10.8%|20|63<br/><span class="redText">70</span>|49<br/><span class="redText">42</span>|42<br/><span class="redText">25</span>|27<br/><span class="redText">38</span>|27<br/><span class="redText">28</span>|30<br/><span class="redText">30</span>|55|<span class="highlightOrange">Lightning Rod</span> or Rock Head<br/>Horn Attack / Stomp / <span class="extreme">Fury Attack</span> /<br/>Scary Face / <span class="caution">Smack Down</span> / Tail Whip|
+|10-13|![Metang](../images/pokemon/375.png)|Metang<br/>![Steel](../images/type/steel.gif) ![Psychic](../images/type/psychic.gif)|10.8%|20|55<br/><span class="redText">70</span>|35<br/><span class="redText">39</span>|36<br/><span class="redText">26</span>|31<br/><span class="redText">35</span>|32<br/><span class="redText">30</span>|32<br/><span class="redText">32</span>|49|<span class="highlightYellow">Clear Body</span><br/>Confusion / Take Down / Metal Claw /<br/>Magnet Rise|
 
 #### Boss
 
 |Floor|Image|Name|Rate|Lv|HP|Atk|Def|SpA|SpD|Spe|Exp|Ability + Moves|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|14|![Articuno](../images/pokemon/144.png)|Articuno<br/>![Ice](../images/type/ice.gif) ![Flying](../images/type/flying.gif)|-|22|66<br/><span class="redText">766</span>|38<br/><span class="redText">38</span>|38<br/><span class="redText">38</span>|46<br/><span class="redText">46</span>|46<br/><span class="redText">46</span>|41|0|<span class="highlightYellow">Pressure</span><br/>Icy Wind / Ice Shard / Mist /<br/>Powder Snow<br/><span class="orangeText">※ First clear.</span>|
-|14<br/><span class="highlightOrange">Rematch</span>|![Articuno](../images/pokemon/144.png)|Articuno<br/>![Ice](../images/type/ice.gif) ![Flying](../images/type/flying.gif)|100%|50|87<br/><span class="redText">2187</span>|65<br/><span class="redText">85</span>|57<br/><span class="redText">77</span>|75<br/><span class="redText">75</span>|67<br/><span class="redText">67</span>|84|0|<span class="highlightYellow">Pressure</span><br/>Freeze-Dry / Reflect / Mist /<br/>Blizzard<br/><span class="orangeText">※ Available post-game.</span><br/><span class="orangeText">※ Rare Quality: Squeeze Out</span>|
+|14|![Articuno](../images/pokemon/144.png)|Articuno<br/>![Ice](../images/type/ice.gif) ![Flying](../images/type/flying.gif)|-|22|66<br/><span class="redText">766</span>|38<br/><span class="redText">38</span>|38<br/><span class="redText">38</span>|46<br/><span class="redText">46</span>|46<br/><span class="redText">46</span>|41<br/><span class="redText">41</span>|0|<span class="highlightYellow">Pressure</span><br/><span class="caution">Icy Wind</span> / <span class="caution">Ice Shard</span> / Mist /<br/><span class="caution">Powder Snow</span><br/><span class="orangeText">※ First clear.</span>|
+|14<br/><span class="highlightOrange">Rematch</span>|![Articuno](../images/pokemon/144.png)|Articuno<br/>![Ice](../images/type/ice.gif) ![Flying](../images/type/flying.gif)|100%|50|87<br/><span class="redText">2187</span>|65<br/><span class="redText">85</span>|57<br/><span class="redText">77</span>|75<br/><span class="redText">75</span>|67<br/><span class="redText">67</span>|84<br/><span class="redText">84</span>|0|<span class="highlightYellow">Pressure</span><br/><span class="caution">Freeze-Dry</span> / <span class="boost">Reflect</span> / Mist /<br/><span class="extreme">Blizzard</span><br/><span class="orangeText">※ Available post-game.</span><br/><span class="orangeText">※ Rare Quality: Squeeze Out</span>|
 
 #### Fainted
 
@@ -254,39 +254,6 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 |Switcher Wand|0.00302%|
 |Tunnel Wand|0.00302%|
 |Whirlwind Wand|0.00302%|
-
-#### Pretty Box
-
-|Name|Rate|
-|-|-|
-|Bronze Dojo Ticket|30.8%|
-|Oran Berry|11.5%|
-|Calcium|0.689%|
-|Carbos|0.689%|
-|Iron|0.689%|
-|Protein|0.689%|
-|Rainbow Gummi|34.4%|
-|Sitrus Berry|0.689%|
-|Zinc|0.689%|
-|(Random TM)|19.2%|
-
-#### Deluxe Box
-
-|Name|Rate|
-|-|-|
-|Gold Dojo Ticket|3.48%|
-|Silver Dojo Ticket|13.9%|
-|Reviver Seed|6.5%|
-|Tiny Reviver Seed|6.5%|
-|Calcium|0.934%|
-|Carbos|0.934%|
-|DX Gummi|23.3%|
-|Iron|0.934%|
-|Protein|0.934%|
-|Rainbow Gummi|23.3%|
-|Sitrus Berry|0.934%|
-|Zinc|0.934%|
-|(Random TM)|17.4%|
 
 # Traps
 

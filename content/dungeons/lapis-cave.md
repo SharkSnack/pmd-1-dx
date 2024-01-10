@@ -8,7 +8,7 @@ metaDescription: "Lapis Cave dungeon guide for Pokemon Mystery Dungeon: Rescue T
   <img src="../images/areas/lapis_cave.jpg"/><img src="../images/areas/lapis_cave_2.jpg"/>
 </div>
 
-[Introduction]
+First dungeon of the fugitive arc, and the player's visibility in hallways is limited to a 2 tile radius.<br/>However, story dungeons always have Radar and Scanning active, so you can still see enemies on the map.<br/>If you wipe out, you'll be given an option to challenge the easier optional dungeon Rock Path instead.<br/>A wider variety of items including orbs and Link Boxes can be found on the ground.
 
 # Overview
 
@@ -102,14 +102,14 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 
 |Floor|Image|Name|Rate|Lv|HP|Atk|Def|SpA|SpD|Spe|Exp|Ability + Moves|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|1-3|![Zubat](../images/pokemon/041.png)|Zubat<br/>![Poison](../images/type/poison.gif) ![Flying](../images/type/flying.gif)|%|17|52<br/><span class="redText">65</span>|30<br/><span class="redText">41</span>|27<br/><span class="redText">19</span>|26<br/><span class="redText">28</span>|27<br/><span class="redText">21</span>|32|30|Inner Focus<br/>Absorb / Supersonic / Astonish / Bite /<br/>Wing Attack / Confuse Ray|
-|1-8|![Nidorina](../images/pokemon/030.png)|Nidorina<br/>![Poison](../images/type/poison.gif)|%|17|52<br/><span class="redText">63</span>|28<br/><span class="redText">32</span>|27<br/><span class="redText">25</span>|27<br/><span class="redText">31</span>|24<br/><span class="redText">25</span>|28|41|Poison Point or Rivalry<br/>Scratch / Tail Whip / Double Kick /<br/>Growl / Poison Sting|
-|4-8|![Illumise](../images/pokemon/314.png)|Illumise<br/>![Bug](../images/type/bug.gif)|%|17|54<br/><span class="redText">64</span>|28<br/><span class="redText">31</span>|28<br/><span class="redText">22</span>|32<br/><span class="redText">30</span>|28<br/><span class="redText">19</span>|34|39|Oblivious or Tinted Lens<br/>Play Nice / Tackle / Sweet Scent /<br/>Charm / Quick Attack / Struggle Bug|
-|4-8|![Nidorino](../images/pokemon/033.png)|Nidorino<br/>![Poison](../images/type/poison.gif)|%|17|52<br/><span class="redText">65</span>|31<br/><span class="redText">37</span>|27<br/><span class="redText">23</span>|27<br/><span class="redText">33</span>|24<br/><span class="redText">21</span>|31|38|Poison Point or Rivalry<br/>Peck / Focus Energy / Double Kick /<br/>Leer / Poison Sting|
-|4-14<br/><span class="highlightOrange">Foe</span>|![Noctowl](../images/pokemon/164.png)<br/><br/>![Shiny](../images/shiny/164.png)|Noctowl<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|%|20|63<br/><span class="redText">210</span>|31<br/><span class="redText">65</span>|28<br/><span class="redText">40</span>|34<br/><span class="redText">65</span>|34<br/><span class="redText">40</span>|35|400|Insomnia or Keen Eye<br/>Dream Eater / Sky Attack / Tackle /<br/>Foresight / Hypnosis / Confusion /<br/>Growl / Echoed Voice / Zen Headbutt /<br/>Peck / Psycho Shift<br/><span class="orangeText">※ Friend Bow required to recruit.</span>|
-|9-14|![Tangela](../images/pokemon/114.png)|Tangela<br/>![Grass](../images/type/grass.gif)|%|17|59<br/><span class="redText">66</span>|36<br/><span class="redText">32</span>|38<br/><span class="redText">22</span>|38<br/><span class="redText">29</span>|24<br/><span class="redText">21</span>|29|49|Chlorophyll or Leaf Guard<br/>Ingrain / Constrict / Sleep Powder /<br/>Poison Powder / Bind / Vine Whip|
-|9-14|![Golbat](../images/pokemon/042.png)|Golbat<br/>![Poison](../images/type/poison.gif) ![Flying](../images/type/flying.gif)|%|22|57<br/><span class="redText">67</span>|37<br/><span class="redText">46</span>|34<br/><span class="redText">24</span>|33<br/><span class="redText">52</span>|34<br/><span class="redText">25</span>|40|40|Inner Focus<br/>Screech / Absorb / Supersonic / Bite /<br/>Astonish / Wing Attack / Air Cutter /<br/>Confuse Ray|
-|9-14<br/>Rare|![Bagon](../images/pokemon/371.png)|Bagon<br/>![Dragon](../images/type/dragon.gif)|%|17|52<br/><span class="redText">59</span>|37<br/><span class="redText">43</span>|31<br/><span class="redText">26</span>|27<br/><span class="redText">38</span>|23<br/><span class="redText">27</span>|29|50|Rock Head<br/>Rage / Ember / Leer / Dragon Breath /<br/>Bite / Headbutt|
+|1-3|![Zubat](../images/pokemon/041.png)|Zubat<br/>![Poison](../images/type/poison.gif) ![Flying](../images/type/flying.gif)|10.8%|17|52<br/><span class="redText">65</span>|30<br/><span class="redText">41</span>|27<br/><span class="redText">19</span>|26<br/><span class="redText">28</span>|27<br/><span class="redText">21</span>|32<br/><span class="redText">32</span>|30|Inner Focus<br/>Absorb / <span class="extreme">Supersonic</span> / Astonish / Bite /<br/><span class="caution">Wing Attack</span> / <span class="extreme">Confuse Ray</span>|
+|1-8|![Nidorina](../images/pokemon/030.png)|Nidorina<br/>![Poison](../images/type/poison.gif)|10.8%|17|52<br/><span class="redText">63</span>|28<br/><span class="redText">32</span>|27<br/><span class="redText">25</span>|27<br/><span class="redText">31</span>|24<br/><span class="redText">25</span>|28<br/><span class="redText">27</span>|41|<span class="highlightYellow">Poison Point</span> or Rivalry<br/>Scratch / Tail Whip / <span class="caution">Double Kick</span> /<br/>Growl / Poison Sting|
+|4-8|![Illumise](../images/pokemon/314.png)|Illumise<br/>![Bug](../images/type/bug.gif)|10.8%|17|54<br/><span class="redText">64</span>|28<br/><span class="redText">31</span>|28<br/><span class="redText">22</span>|32<br/><span class="redText">30</span>|28<br/><span class="redText">19</span>|34<br/><span class="redText">26</span>|39|Oblivious or <span class="highlightYellow">Tinted Lens</span><br/>Play Nice / Tackle / Sweet Scent /<br/><span class="extreme">Charm</span> / Quick Attack / <span class="caution">Struggle Bug</span>|
+|4-8|![Nidorino](../images/pokemon/033.png)|Nidorino<br/>![Poison](../images/type/poison.gif)|10.8%|17|52<br/><span class="redText">65</span>|31<br/><span class="redText">37</span>|27<br/><span class="redText">23</span>|27<br/><span class="redText">33</span>|24<br/><span class="redText">21</span>|31<br/><span class="redText">29</span>|38|<span class="highlightYellow">Poison Point</span> or Rivalry<br/>Peck / Focus Energy / <span class="caution">Double Kick</span> /<br/>Leer / Poison Sting|
+|4-14<br/><span class="highlightOrange">Foe</span>|![Noctowl](../images/pokemon/164.png)<br/><br/>![Shiny](../images/shiny/164.png)|Noctowl<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|-6.4%|20|63<br/><span class="redText">210</span>|31<br/><span class="redText">65</span>|28<br/><span class="redText">40</span>|34<br/><span class="redText">65</span>|34<br/><span class="redText">40</span>|35<br/><span class="redText">35</span>|400|<span class="highlightOrange">Insomnia</span> or Keen Eye<br/><span class="caution">Dream Eater</span> / <span class="extreme">Sky Attack</span> / Tackle /<br/>Foresight / <span class="extreme">Hypnosis</span> / Confusion /<br/>Growl / <span class="extreme">Echoed Voice</span> / Zen Headbutt /<br/>Peck / Psycho Shift<br/><span class="orangeText">※ Friend Bow required to recruit.</span>|
+|9-14|![Tangela](../images/pokemon/114.png)|Tangela<br/>![Grass](../images/type/grass.gif)|10.8%|17|59<br/><span class="redText">66</span>|36<br/><span class="redText">32</span>|38<br/><span class="redText">22</span>|38<br/><span class="redText">29</span>|24<br/><span class="redText">21</span>|29<br/><span class="redText">21</span>|49|Chlorophyll or Leaf Guard<br/>Ingrain / Constrict / <span class="extreme">Sleep Powder</span> /<br/><span class="caution">Poison Powder</span> / Bind / Vine Whip|
+|9-14|![Golbat](../images/pokemon/042.png)|Golbat<br/>![Poison](../images/type/poison.gif) ![Flying](../images/type/flying.gif)|10.8%|22|57<br/><span class="redText">67</span>|37<br/><span class="redText">46</span>|34<br/><span class="redText">24</span>|33<br/><span class="redText">52</span>|34<br/><span class="redText">25</span>|40<br/><span class="redText">40</span>|40|Inner Focus<br/><span class="extreme">Screech</span> / Absorb / <span class="extreme">Supersonic</span> / Bite /<br/>Astonish / <span class="caution">Wing Attack</span> / Air Cutter /<br/><span class="extreme">Confuse Ray</span>|
+|9-14<br/>Rare|![Bagon](../images/pokemon/371.png)|Bagon<br/>![Dragon](../images/type/dragon.gif)|10.8%|17|52<br/><span class="redText">59</span>|37<br/><span class="redText">43</span>|31<br/><span class="redText">26</span>|27<br/><span class="redText">38</span>|23<br/><span class="redText">27</span>|29<br/><span class="redText">21</span>|50|Rock Head<br/>Rage / <span class="caution">Ember</span> / Leer / <span class="extreme">Dragon Breath</span> /<br/>Bite / Headbutt|
 
 #### Fainted
 
@@ -245,39 +245,6 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 |Switcher Wand|0.278%|
 |Tunnel Wand|0.278%|
 |Whirlwind Wand|0.278%|
-
-#### Pretty Box
-
-|Name|Rate|
-|-|-|
-|Bronze Dojo Ticket|30.8%|
-|Oran Berry|11.5%|
-|Calcium|0.689%|
-|Carbos|0.689%|
-|Iron|0.689%|
-|Protein|0.689%|
-|Rainbow Gummi|34.4%|
-|Sitrus Berry|0.689%|
-|Zinc|0.689%|
-|(Random TM)|19.2%|
-
-#### Deluxe Box
-
-|Name|Rate|
-|-|-|
-|Gold Dojo Ticket|3.48%|
-|Silver Dojo Ticket|13.9%|
-|Reviver Seed|6.5%|
-|Tiny Reviver Seed|6.5%|
-|Calcium|0.934%|
-|Carbos|0.934%|
-|DX Gummi|23.3%|
-|Iron|0.934%|
-|Protein|0.934%|
-|Rainbow Gummi|23.3%|
-|Sitrus Berry|0.934%|
-|Zinc|0.934%|
-|(Random TM)|17.4%|
 
 # Traps
 

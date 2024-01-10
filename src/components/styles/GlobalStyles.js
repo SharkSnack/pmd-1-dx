@@ -587,7 +587,7 @@ export const baseStyles = css`
   }
 
   table tr th {
-    font-weight: bold;
+    font-weight: normal;
     border: 1px solid #919191;
     text-align: left;
     margin: 0;
@@ -1069,9 +1069,26 @@ export const baseStyles = css`
     text-align: center;
     padding: 2px;
   }
+  .learnTable th {
+    font-weight: normal;
+    text-align: center;
+    padding: 3px;
+  }
+  .learnTable td {
+    text-align: center;
+    padding: 3px;
+  }
+  .learnTable td:nth-of-type(1){
+    text-align: left;
+  }
+  .learnTable td:nth-of-type(31){
+    text-align: left;
+  }
   .statusTable th {
     font-weight: normal;
-    padding: 3px;
+    text-align: center;
+  }
+  .statusTable td {
   }
   .baseTable th {
     text-align: center;
@@ -1080,20 +1097,21 @@ export const baseStyles = css`
   .baseTable td {
     padding: 0;
   }
-  .statusTable td {
-    padding: 3px;
+  .rankTable th {
+    text-align: center;
+    font-weight: normal;
   }
-  .trophyTable th {
-    padding: 3px;
+  .rankTable td {
+    text-align: center;
   }
-  .trophyTable td {
-    padding: 3px;
+  .rankTable td:nth-of-type(1){
+    padding: 0;
   }
-  .trophyTable img {
-    position: relative !important;
+  .rankTable td:nth-of-type(8){
+    text-align: left;
   }
-  .trophyImageTd {
-    padding: 0px !important;
+  .rankTable img {
+    height: 54px !important;
   }
   .centeredTd {
     text-align: center;
@@ -1151,6 +1169,17 @@ export const baseStyles = css`
   }
   .trapTable img {
     position: relative !important;
+  }
+  .typeTable th {
+    text-align: center;
+    font-weight: normal;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .typeTable td {
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
   }
   .moveTable img {
     vertical-align: middle;
@@ -1315,6 +1344,9 @@ export const baseStyles = css`
   .low {
     background-color: #fff;
   }
+  .strong {
+    font-weight: bold;
+  }
   .status {
     background-color: #fffff4;
   }
@@ -1362,6 +1394,9 @@ export const baseStyles = css`
   }
   .highlightBlue {
     background-color: #a3e0fd !important;
+  }
+  .highlightBlue2 {
+    background-color: #a3b5fd;
   }
   .highlightBlack {
     background-color: #333333 !important;
@@ -1585,11 +1620,59 @@ export const baseStyles = css`
   .emphasis {
     font-weight: bold;
   }
+  .normal {
+    background-color: #ecece7;
+  }
+  .fire {
+    background-color: #f1bcb6;
+  }
+  .water {
+    background-color: #c7e2f6;
+  }
   .grass {
-    color: #008a20;
+    background-color: #d4e8c9;
+  }
+  .electric {
+    background-color: #f9edc9;
+  }
+  .ice {
+    background-color: #e2f5f5;
+  }
+  .fighting {
+    background-color: #cfaeac;
   }
   .poison {
-    color: #9d338b;
+    background-color: #d7bfdb;
+  }
+  .ground {
+    background-color: #f3ead1;
+  }
+  .flying {
+    background-color: #e0e4f6;
+  }
+  .psychic {
+    background-color: #f3c4d7;
+  }
+  .bug {
+    background-color: #e4e2bf;
+  }
+  .rock {
+    background-color: #e6dbbf;
+  }
+  .ghost {
+    background-color: #c4c4d9;
+  }
+  .dragon {
+    background-color: #c1cff3;
+  }
+  .dark {
+    background-color: #c4bcb8;
+  }
+  .steel {
+    background-color: #e8edf2;
+  }
+  .fairy {
+    background-color: #ffcccc;
   }
   .goldText {
     color: #8a7500;
@@ -1642,11 +1725,38 @@ export const baseStyles = css`
   .boost {
     color: #5d8fea;
   }
+  .boss {
+    color: #1daebd;
+  }
   .caution {
     color: #f063a9;
   }
   .extreme {
     color: #e32a2a;
+  }
+  .blue {
+    color: blue;
+  }
+  .green {
+    color: green;
+  }
+  .purple {
+    color: purple;
+  }
+  .lightblue {
+    color: #4ba9c8;
+  }
+  .orange {
+    color: orange;
+  }
+  .red {
+    color: red;
+  }
+  .good {
+    background-color: #e4eeff;
+  }
+  .bad {
+    background-color: #ffe8d3;
   }
   .limitBreak {
     color: #ff46a3;
@@ -1780,8 +1890,11 @@ export const baseStyles = css`
     position: relative !important;
     background-color: #555;
   }
+  .boxArt {
+    padding: 0;
+  }
   .boxArt img {
-    height: 150px !important;
+    height: 160px !important;
     position: relative !important;
   }
   .relativeImage img {

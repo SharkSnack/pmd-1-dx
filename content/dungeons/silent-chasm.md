@@ -8,7 +8,7 @@ metaDescription: "Silent Chasm dungeon guide for Pokemon Mystery Dungeon: Rescue
   <img src="../images/areas/silent_chasm.jpg"/><img src="../images/areas/silent_chasm_2.jpg"/>
 </div>
 
-[Introduction]
+This time there isn't a boss fight, so the goal is to simply reach the target depth.<br/>Weedle can eat food and seed items (including Tiny Reviver Seeds) in your Toolbox using Bug Bite.<br/>Teddiursa, Farfetch'd, and Beedrill can have powerful multi-hit attacks that potentially one-shot you.<br/>Beedrill in particular can use Twineedle from up to 4 tiles away, so beware if you're a Grass type.
 
 # Overview
 
@@ -106,19 +106,19 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 
 |Floor|Image|Name|Rate|Lv|HP|Atk|Def|SpA|SpD|Spe|Exp|Ability + Moves|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|1-3|![Teddiursa](../images/pokemon/216.png)|Teddiursa<br/>![Normal](../images/type/normal.gif)|14.4%|13|55<br/><span class="redText">50</span>|34<br/><span class="redText">29</span>|22<br/><span class="redText">22</span>|24<br/><span class="redText">33</span>|22<br/><span class="redText">15</span>|22|21|Pickup or Quick Feet<br/>Fling / <span class="item">Covet</span> / Scratch / Fake Tears /<br/>Baby-Doll Eyes / Lick / <span class="extreme">Fury Swipes</span>|
-|1-6|![Weedle](../images/pokemon/013.png)|Weedle<br/>![Bug](../images/type/bug.gif) ![Poison](../images/type/poison.gif)|14.4%|13|47<br/><span class="redText">45</span>|18<br/><span class="redText">25</span>|20<br/><span class="redText">20</span>|16<br/><span class="redText">25</span>|16<br/><span class="redText">20</span>|22|23|Shield Dust<br/>Poison Sting / <span class="caution">String Shot</span> / <span class="item">Bug Bite</span>|
-|1-9<br/>Rare|![Gloom](../images/pokemon/044.png)|Gloom<br/>![Grass](../images/type/grass.gif) ![Poison](../images/type/poison.gif)|14.4%|21|56<br/><span class="redText">70</span>|33<br/><span class="redText">33</span>|33<br/><span class="redText">22</span>|37<br/><span class="redText">37</span>|33<br/><span class="redText">24</span>|32|45|Chlorophyll<br/><span class="caution">Poison Powder</span> / Sweet Scent / Acid /<br/>Absorb / <span class="boost">Growth</span> / <span class="extreme">Stun Spore</span> /<br/><span class="extreme">Sleep Powder</span> / <span class="caution">Mega Drain</span>|
-|1-9<br/>Rare|![Dustox](../images/pokemon/269.png)|Dustox<br/>![Bug](../images/type/bug.gif) ![Poison](../images/type/poison.gif)|14.4%|11|45<br/><span class="redText">47</span>|17<br/><span class="redText">30</span>|19<br/><span class="redText">21</span>|14<br/><span class="redText">29</span>|14<br/><span class="redText">20</span>|16|20|Shield Dust<br/>Gust|
-|3-5<br/>Rare|![Farfetch'd](../images/pokemon/083.png)|Farfetch'd<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|14.4%|13|47<br/><span class="redText">50</span>|23<br/><span class="redText">30</span>|23<br/><span class="redText">24</span>|23<br/><span class="redText">30</span>|23<br/><span class="redText">24</span>|24|18|Keen Eye or Inner Focus<br/><span class="extreme">Brave Bird</span> / Poison Jab / <span class="caution">Aerial Ace</span> /<br/>Leer / Fury Cutter / <span class="extreme">Fury Attack</span> / Peck /<br/><span class="caution">Knock Off</span> / Sand Attack|
-|4-6<br/>Rare|![Yanma](../images/pokemon/193.png)|Yanma<br/>![Bug](../images/type/bug.gif) ![Flying](../images/type/flying.gif)|14.4%|13|55<br/><span class="redText">56</span>|25<br/><span class="redText">24</span>|24<br/><span class="redText">23</span>|32<br/><span class="redText">28</span>|20<br/><span class="redText">15</span>|28|21|<span class="highlightYellow">Speed Boost</span><br/>Tackle / Foresight / Quick Attack /<br/><span class="boost">Double Team</span>|
-|4-7|![Poliwag](../images/pokemon/060.png)|Poliwag<br/>![Water](../images/type/water.gif)|14.4%|13|49<br/><span class="redText">65</span>|23<br/><span class="redText">28</span>|22<br/><span class="redText">18</span>|20<br/><span class="redText">27</span>|20<br/><span class="redText">18</span>|28|36|<span class="highlightYellow">Water Absorb</span> or Damp<br/>Water Sport / Water Gun / <span class="extreme">Hypnosis</span> /<br/>Bubble|
-|5-9|![Houndour](../images/pokemon/228.png)|Houndour<br/>![Dark](../images/type/dark.gif) ![Fire](../images/type/fire.gif)|14.4%|14|50<br/><span class="redText">55</span>|31<br/><span class="redText">31</span>|21<br/><span class="redText">25</span>|32<br/><span class="redText">31</span>|23<br/><span class="redText">25</span>|29|36|Early Bird or <span class="highlightYellow">Flash Fire</span><br/>Leer / Ember / <span class="boost">Howl</span> / Smog / Roar|
-|6<br/>8-9<br/><span class="highlightOrange">Foe</span>|![Metagross](../images/pokemon/376.png)<br/><br/>![Shiny](../images/shiny/376.png)|Metagross<br/>![Steel](../images/type/steel.gif) ![Psychic](../images/type/psychic.gif)|-6.4%|45|76<br/><span class="redText">180</span>|73<br/><span class="redText">65</span>|55<br/><span class="redText">35</span>|62<br/><span class="redText">60</span>|50<br/><span class="redText">35</span>|62|250|<span class="highlightYellow">Clear Body</span><br/>Hammer Arm / Confusion / Metal Claw /<br/>Magnet Rise / Take Down / <span class="extreme">Agility</span> /<br/><span class="caution">Pursuit</span> / Miracle Eye / <span class="caution">Zen Headbutt</span> /<br/>Scary Face / <span class="extreme">Psychic</span> / <span class="caution">Bullet Punch</span> /<br/><span class="extreme">Meteor Mash</span><br/><span class="orangeText">※ Friend Bow required to recruit.</span><br/><span class="orangeText">※ Can Mega Evolve.</span>|
-|6-9|![Paras](../images/pokemon/046.png)|Paras<br/>![Bug](../images/type/bug.gif) ![Grass](../images/type/grass.gif)|14.4%|14|50<br/><span class="redText">52</span>|32<br/><span class="redText">35</span>|26<br/><span class="redText">26</span>|23<br/><span class="redText">29</span>|23<br/><span class="redText">19</span>|23|25|<span class="highlightYellow">Effect Spore</span> or Dry Skin<br/>Scratch / <span class="extreme">Stun Spore</span> / <span class="caution">Poison Powder</span> /<br/>Absorb|
-|7-9|![Spinarak](../images/pokemon/167.png)|Spinarak<br/>![Bug](../images/type/bug.gif) ![Poison](../images/type/poison.gif)|14.4%|14|50<br/><span class="redText">50</span>|31<br/><span class="redText">26</span>|23<br/><span class="redText">17</span>|23<br/><span class="redText">26</span>|23<br/><span class="redText">17</span>|23|23|Swarm or Insomnia<br/>Poison Sting / <span class="caution">String Shot</span> / Constrict /<br/>Absorb / Infestation / Scary Face|
-|8-9|![Beedrill](../images/pokemon/015.png)|Beedrill<br/>![Bug](../images/type/bug.gif) ![Poison](../images/type/poison.gif)|14.4%|14|47<br/><span class="redText">65</span>|19<br/><span class="redText">36</span>|21<br/><span class="redText">18</span>|17<br/><span class="redText">26</span>|17<br/><span class="redText">23</span>|24|46|Swarm<br/><span class="extreme">Twineedle</span> / <span class="extreme">Fury Attack</span> / Rage<br/><span class="orangeText">※ Can Mega Evolve.</span>|
-|8-9|![Trapinch](../images/pokemon/328.png)|Trapinch<br/>![Ground](../images/type/ground.gif)|14.4%|14|47<br/><span class="redText">55</span>|29<br/><span class="redText">37</span>|21<br/><span class="redText">25</span>|21<br/><span class="redText">30</span>|21<br/><span class="redText">18</span>|24|24|Hyper Cutter or <span class="highlightYellow">Arena Trap</span><br/>Sand Attack / Bite / <span class="extreme">Bulldoze</span> / Bide /<br/>Mud-Slap / Feint Attack / Sand Tomb|
+|1-3|![Teddiursa](../images/pokemon/216.png)|Teddiursa<br/>![Normal](../images/type/normal.gif)|14.4%|13|55<br/><span class="redText">50</span>|34<br/><span class="redText">29</span>|22<br/><span class="redText">22</span>|24<br/><span class="redText">33</span>|22<br/><span class="redText">15</span>|22<br/><span class="redText">22</span>|21|Pickup or Quick Feet<br/>Fling / <span class="item">Covet</span> / Scratch / Fake Tears /<br/>Baby-Doll Eyes / Lick / <span class="extreme">Fury Swipes</span>|
+|1-6|![Weedle](../images/pokemon/013.png)|Weedle<br/>![Bug](../images/type/bug.gif) ![Poison](../images/type/poison.gif)|14.4%|13|47<br/><span class="redText">45</span>|18<br/><span class="redText">25</span>|20<br/><span class="redText">20</span>|16<br/><span class="redText">25</span>|16<br/><span class="redText">20</span>|22<br/><span class="redText">22</span>|23|Shield Dust<br/>Poison Sting / <span class="caution">String Shot</span> / <span class="item">Bug Bite</span>|
+|1-9<br/>Rare|![Gloom](../images/pokemon/044.png)|Gloom<br/>![Grass](../images/type/grass.gif) ![Poison](../images/type/poison.gif)|14.4%|21|56<br/><span class="redText">70</span>|33<br/><span class="redText">33</span>|33<br/><span class="redText">22</span>|37<br/><span class="redText">37</span>|33<br/><span class="redText">24</span>|32<br/><span class="redText">32</span>|45|Chlorophyll<br/><span class="caution">Poison Powder</span> / Sweet Scent / Acid /<br/>Absorb / <span class="boost">Growth</span> / <span class="extreme">Stun Spore</span> /<br/><span class="extreme">Sleep Powder</span> / <span class="caution">Mega Drain</span>|
+|1-9<br/>Rare|![Dustox](../images/pokemon/269.png)|Dustox<br/>![Bug](../images/type/bug.gif) ![Poison](../images/type/poison.gif)|14.4%|11|45<br/><span class="redText">47</span>|17<br/><span class="redText">30</span>|19<br/><span class="redText">21</span>|14<br/><span class="redText">29</span>|14<br/><span class="redText">20</span>|16<br/><span class="redText">16</span>|20|Shield Dust<br/>Gust|
+|3-5<br/>Rare|![Farfetch'd](../images/pokemon/083.png)|Farfetch'd<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|14.4%|13|47<br/><span class="redText">50</span>|23<br/><span class="redText">30</span>|23<br/><span class="redText">24</span>|23<br/><span class="redText">30</span>|23<br/><span class="redText">24</span>|24<br/><span class="redText">24</span>|18|Keen Eye or Inner Focus<br/><span class="extreme">Brave Bird</span> / Poison Jab / <span class="caution">Aerial Ace</span> /<br/>Leer / Fury Cutter / <span class="extreme">Fury Attack</span> / Peck /<br/><span class="caution">Knock Off</span> / Sand Attack|
+|4-6<br/>Rare|![Yanma](../images/pokemon/193.png)|Yanma<br/>![Bug](../images/type/bug.gif) ![Flying](../images/type/flying.gif)|14.4%|13|55<br/><span class="redText">56</span>|25<br/><span class="redText">24</span>|24<br/><span class="redText">23</span>|32<br/><span class="redText">28</span>|20<br/><span class="redText">15</span>|28<br/><span class="redText">28</span>|21|<span class="highlightYellow">Speed Boost</span> or Compound Eyes<br/>Tackle / Foresight / Quick Attack /<br/><span class="boost">Double Team</span>|
+|4-7|![Poliwag](../images/pokemon/060.png)|Poliwag<br/>![Water](../images/type/water.gif)|14.4%|13|49<br/><span class="redText">65</span>|23<br/><span class="redText">28</span>|22<br/><span class="redText">18</span>|20<br/><span class="redText">27</span>|20<br/><span class="redText">18</span>|28<br/><span class="redText">28</span>|36|<span class="highlightYellow">Water Absorb</span> or Damp<br/>Water Sport / Water Gun / <span class="extreme">Hypnosis</span> /<br/>Bubble|
+|5-9|![Houndour](../images/pokemon/228.png)|Houndour<br/>![Dark](../images/type/dark.gif) ![Fire](../images/type/fire.gif)|14.4%|14|50<br/><span class="redText">55</span>|31<br/><span class="redText">31</span>|21<br/><span class="redText">25</span>|32<br/><span class="redText">31</span>|23<br/><span class="redText">25</span>|29<br/><span class="redText">29</span>|36|Early Bird or <span class="highlightYellow">Flash Fire</span><br/>Leer / Ember / <span class="boost">Howl</span> / Smog / Roar|
+|6<br/>8-9<br/><span class="highlightOrange">Foe</span>|![Metagross](../images/pokemon/376.png)<br/><br/>![Shiny](../images/shiny/376.png)|Metagross<br/>![Steel](../images/type/steel.gif) ![Psychic](../images/type/psychic.gif)|-6.4%|45|76<br/><span class="redText">180</span>|73<br/><span class="redText">65</span>|55<br/><span class="redText">35</span>|62<br/><span class="redText">60</span>|50<br/><span class="redText">35</span>|62<br/><span class="redText">62</span>|250|<span class="highlightYellow">Clear Body</span><br/>Hammer Arm / Confusion / Metal Claw /<br/>Magnet Rise / Take Down / <span class="extreme">Agility</span> /<br/><span class="caution">Pursuit</span> / Miracle Eye / <span class="caution">Zen Headbutt</span> /<br/>Scary Face / <span class="extreme">Psychic</span> / <span class="caution">Bullet Punch</span> /<br/><span class="extreme">Meteor Mash</span><br/><span class="orangeText">※ Friend Bow required to recruit.</span><br/><span class="orangeText">※ Can Mega Evolve.</span>|
+|6-9|![Paras](../images/pokemon/046.png)|Paras<br/>![Bug](../images/type/bug.gif) ![Grass](../images/type/grass.gif)|14.4%|14|50<br/><span class="redText">52</span>|32<br/><span class="redText">35</span>|26<br/><span class="redText">26</span>|23<br/><span class="redText">29</span>|23<br/><span class="redText">19</span>|23<br/><span class="redText">23</span>|25|<span class="highlightYellow">Effect Spore</span> or Dry Skin<br/>Scratch / <span class="extreme">Stun Spore</span> / <span class="caution">Poison Powder</span> /<br/>Absorb|
+|7-9|![Spinarak](../images/pokemon/167.png)|Spinarak<br/>![Bug](../images/type/bug.gif) ![Poison](../images/type/poison.gif)|14.4%|14|50<br/><span class="redText">50</span>|31<br/><span class="redText">26</span>|23<br/><span class="redText">17</span>|23<br/><span class="redText">26</span>|23<br/><span class="redText">17</span>|23<br/><span class="redText">23</span>|23|Swarm or Insomnia<br/>Poison Sting / <span class="caution">String Shot</span> / Constrict /<br/>Absorb / Infestation / Scary Face|
+|8-9|![Beedrill](../images/pokemon/015.png)|Beedrill<br/>![Bug](../images/type/bug.gif) ![Poison](../images/type/poison.gif)|14.4%|14|47<br/><span class="redText">65</span>|19<br/><span class="redText">36</span>|21<br/><span class="redText">18</span>|17<br/><span class="redText">26</span>|17<br/><span class="redText">23</span>|24<br/><span class="redText">24</span>|46|Swarm<br/><span class="extreme">Twineedle</span> / <span class="extreme">Fury Attack</span> / Rage<br/><span class="orangeText">※ Can Mega Evolve.</span>|
+|8-9|![Trapinch](../images/pokemon/328.png)|Trapinch<br/>![Ground](../images/type/ground.gif)|14.4%|14|47<br/><span class="redText">55</span>|29<br/><span class="redText">37</span>|21<br/><span class="redText">25</span>|21<br/><span class="redText">30</span>|21<br/><span class="redText">18</span>|24<br/><span class="redText">24</span>|24|Hyper Cutter or <span class="highlightYellow">Arena Trap</span><br/>Sand Attack / Bite / <span class="extreme">Bulldoze</span> / Bide /<br/>Mud-Slap / Feint Attack / Sand Tomb|
 
 #### Fainted
 
@@ -215,39 +215,6 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 |Tiny Reviver Seed|5.64%|
 |Training Seed|0.404%|
 |Gravelerock|21.2%|
-
-#### Pretty Box
-
-|Name|Rate|
-|-|-|
-|Bronze Dojo Ticket|30.8%|
-|Oran Berry|11.5%|
-|Calcium|0.689%|
-|Carbos|0.689%|
-|Iron|0.689%|
-|Protein|0.689%|
-|Rainbow Gummi|34.4%|
-|Sitrus Berry|0.689%|
-|Zinc|0.689%|
-|(Random TM)|19.2%|
-
-#### Deluxe Box
-
-|Name|Rate|
-|-|-|
-|Gold Dojo Ticket|3.48%|
-|Silver Dojo Ticket|13.9%|
-|Reviver Seed|6.5%|
-|Tiny Reviver Seed|6.5%|
-|Calcium|0.934%|
-|Carbos|0.934%|
-|DX Gummi|23.3%|
-|Iron|0.934%|
-|Protein|0.934%|
-|Rainbow Gummi|23.3%|
-|Sitrus Berry|0.934%|
-|Zinc|0.934%|
-|(Random TM)|17.4%|
 
 # Traps
 

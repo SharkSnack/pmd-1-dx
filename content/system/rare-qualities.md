@@ -6,7 +6,7 @@ metaDescription: "Rare Quality details for Pokemon Mystery Dungeon: Rescue Team 
 
 # Overview
 
-# List
+# RQ List
 
 Blue name = Rare quality that is only available in post-game dungeons for Recruited / Fainted pokemon.
 

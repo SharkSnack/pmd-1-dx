@@ -8,7 +8,9 @@ metaDescription: "Mt. Steel dungeon guide for Pokemon Mystery Dungeon: Rescue Te
   <img src="../images/areas/mt_steel.jpg"/><img src="../images/areas/mt_steel_2.jpg"/>
 </div>
 
-[Introduction]
+Dungeon that slightly dials up the difficulty with a simple boss fight at the end.<br/>The party's HP, PP, and Belly is fully restored before the boss, so there's no need to heal up beforehand.<br/>You can be rescued by another player in this game even if you wipe out during a boss fight,<br/>so there isn't a whole lot of danger of losing items unless you choose not to use rescues.
+
+If you return to this dungeon after clearing it, you might run into a Rapidash Strong Foe.<br/>Strong Foes are powerful pokemon that you should generally run away from at this point in the game.<br/>They always drop a Deluxe Box and offer a lot of experience points if you manage to defeat them,<br/>but they can't be recruited unless you have a Friend Bow (obtained in a post-game dungeon).
 
 # Overview
 
@@ -106,23 +108,23 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 
 |Floor|Image|Name|Rate|Lv|HP|Atk|Def|SpA|SpD|Spe|Exp|Ability + Moves|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|1-8|![Baltoy](../images/pokemon/343.png)|Baltoy<br/>![Ground](../images/type/ground.gif) ![Psychic](../images/type/psychic.gif)|14.4%|9|45<br/><span class="redText">28</span>|18<br/><span class="redText">22</span>|22<br/><span class="redText">14</span>|16<br/><span class="redText">18</span>|22<br/><span class="redText">13</span>|19|15|<span class="highlightYellow">Levitate</span><br/>Harden / Confusion / Rapid Spin / Mud-Slap|
-|1-8<br/>Rare|![Beldum](../images/pokemon/374.png)|Beldum<br/>![Steel](../images/type/steel.gif) ![Psychic](../images/type/psychic.gif)|14.4%|10|46<br/><span class="redText">38</span>|21<br/><span class="redText">22</span>|22<br/><span class="redText">14</span>|18<br/><span class="redText">16</span>|19<br/><span class="redText">14</span>|18|17|Clear Body<br/><span class="caution">Take Down</span>|
-|1-8|![Tyrogue](../images/pokemon/236.png)|Tyrogue<br/>![Fighting](../images/type/fighting.gif)|14.4%|10|44<br/><span class="redText">30</span>|24<br/><span class="redText">18</span>|16<br/><span class="redText">12</span>|16<br/><span class="redText">16</span>|22<br/><span class="redText">10</span>|20|10|<span class="highlightYellow">Guts</span> or Steadfast<br/>Tackle / Helping Hand / Fake Out / Foresight|
-|2-8|![Meditite](../images/pokemon/307.png)|Meditite<br/>![Fighting](../images/type/fighting.gif) ![Psychic](../images/type/psychic.gif)|14.4%|10|46<br/><span class="redText">34</span>|18<br/><span class="redText">18</span>|19<br/><span class="redText">15</span>|18<br/><span class="redText">17</span>|18<br/><span class="redText">11</span>|21|12|<span class="highlightYellow">Pure Power</span><br/>Bide / Meditate / Confusion / <span class="boost">Detect</span>|
-|2-8<br/>Rare|![Spearow](../images/pokemon/021.png)|Spearow<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|14.4%|9|45<br/><span class="redText">30</span>|22<br/><span class="redText">21</span>|16<br/><span class="redText">11</span>|16<br/><span class="redText">16</span>|15<br/><span class="redText">12</span>|21|13|Keen Eye<br/>Peck / Growl / Leer / Pursuit|
-|2-8<br/>Rare|![Zigzagoon](../images/pokemon/263.png)|Zigzagoon<br/>![Normal](../images/type/normal.gif)|14.4%|9|45<br/><span class="redText">33</span>|18<br/><span class="redText">17</span>|16<br/><span class="redText">12</span>|13<br/><span class="redText">19</span>|16<br/><span class="redText">12</span>|20|11|Pickup or Gluttony<br/>Tackle / Growl / Tail Whip / Sand Attack|
-|4-8|![Geodude](../images/pokemon/074.png)|Geodude<br/>![Rock](../images/type/rock.gif) ![Ground](../images/type/ground.gif)|14.4%|9|44<br/><span class="redText">40</span>|23<br/><span class="redText">23</span>|23<br/><span class="redText">20</span>|13<br/><span class="redText">18</span>|13<br/><span class="redText">16</span>|15|20|Rock Head or <span class="highlightYellow">Sturdy</span><br/>Tackle / Defense Curl / Mud Sport / <span class="boost">Rock Polish</span>|
-|4-8<br/>Rare|![Aron](../images/pokemon/304.png)|Aron<br/>![Steel](../images/type/steel.gif) ![Rock](../images/type/rock.gif)|14.4%|9|45<br/><span class="redText">44</span>|23<br/><span class="redText">28</span>|25<br/><span class="redText">15</span>|15<br/><span class="redText">23</span>|15<br/><span class="redText">18</span>|16|14|Rock Head or <span class="highlightYellow">Sturdy</span><br/>Tackle / Harden / Mud-Slap / Headbutt|
-|5-8|![Mime Jr.](../images/pokemon/439.png)|Mime Jr.<br/>![Psychic](../images/type/psychic.gif) ![Fairy](../images/type/fairy.gif)|16.9%|9|41<br/><span class="redText">30</span>|13<br/><span class="redText">16</span>|16<br/><span class="redText">14</span>|22<br/><span class="redText">14</span>|23<br/><span class="redText">16</span>|20|16|Soundproof or <span class="highlightYellow">Filter</span><br/>Tickle / <span class="boost">Barrier</span> / Pound / Confusion / Copycat /<br/>Meditate<br/><span class="orangeText">※ Mime Jr. Statue required to spawn.</span>|
-|6-8<br/><span class="highlightOrange">Foe</span>|![Rapidash](../images/pokemon/078.png)<br/><br/>![Shiny](../images/shiny/078.png)|Rapidash<br/>![Fire](../images/type/fire.gif)|-6.4%|40|72<br/><span class="redText">170</span>|67<br/><span class="redText">60</span>|49<br/><span class="redText">31</span>|57<br/><span class="redText">60</span>|48<br/><span class="redText">31</span>|76|158|Run Away or <span class="highlightYellow">Flash Fire</span><br/>Poison Jab / Megahorn / <span class="caution">Quick Attack</span> / Growl /<br/>Tail Whip / <span class="caution">Ember</span> / Flame Wheel / Stomp /<br/>Flame Charge / Fire Spin / Take Down / Inferno /<br/><span class="boost">Agility</span> / <span class="extreme">Fury Attack</span><br/><span class="orangeText">※ Friend Bow required to recruit.</span>|
-|7-8|![Pinsir](../images/pokemon/127.png)|Pinsir<br/>![Bug](../images/type/bug.gif)|14.4%|9|47<br/><span class="redText">45</span>|28<br/><span class="redText">30</span>|21<br/><span class="redText">22</span>|18<br/><span class="redText">23</span>|18<br/><span class="redText">18</span>|23|35|Hyper Cutter or Mold Breaker<br/>Vise Grip / Focus Energy / Bind / <span class="caution">Seismic Toss</span><br/><span class="orangeText">※ Can Mega Evolve.</span>|
+|1-8|![Baltoy](../images/pokemon/343.png)|Baltoy<br/>![Ground](../images/type/ground.gif) ![Psychic](../images/type/psychic.gif)|14.4%|9|45<br/><span class="redText">28</span>|18<br/><span class="redText">22</span>|22<br/><span class="redText">14</span>|16<br/><span class="redText">18</span>|22<br/><span class="redText">13</span>|19<br/><span class="redText">19</span>|15|<span class="highlightYellow">Levitate</span><br/>Harden / Confusion / Rapid Spin / Mud-Slap|
+|1-8<br/>Rare|![Beldum](../images/pokemon/374.png)|Beldum<br/>![Steel](../images/type/steel.gif) ![Psychic](../images/type/psychic.gif)|14.4%|10|46<br/><span class="redText">38</span>|21<br/><span class="redText">22</span>|22<br/><span class="redText">14</span>|18<br/><span class="redText">16</span>|19<br/><span class="redText">14</span>|18<br/><span class="redText">18</span>|17|Clear Body<br/><span class="caution">Take Down</span>|
+|1-8|![Tyrogue](../images/pokemon/236.png)|Tyrogue<br/>![Fighting](../images/type/fighting.gif)|14.4%|10|44<br/><span class="redText">30</span>|24<br/><span class="redText">18</span>|16<br/><span class="redText">12</span>|16<br/><span class="redText">16</span>|22<br/><span class="redText">10</span>|20<br/><span class="redText">20</span>|10|<span class="highlightYellow">Guts</span> or Steadfast<br/>Tackle / Helping Hand / Fake Out / Foresight|
+|2-8|![Meditite](../images/pokemon/307.png)|Meditite<br/>![Fighting](../images/type/fighting.gif) ![Psychic](../images/type/psychic.gif)|14.4%|10|46<br/><span class="redText">34</span>|18<br/><span class="redText">18</span>|19<br/><span class="redText">15</span>|18<br/><span class="redText">17</span>|18<br/><span class="redText">11</span>|21<br/><span class="redText">21</span>|12|<span class="highlightYellow">Pure Power</span><br/>Bide / Meditate / Confusion / <span class="boost">Detect</span>|
+|2-8<br/>Rare|![Spearow](../images/pokemon/021.png)|Spearow<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|14.4%|9|45<br/><span class="redText">30</span>|22<br/><span class="redText">21</span>|16<br/><span class="redText">11</span>|16<br/><span class="redText">16</span>|15<br/><span class="redText">12</span>|21<br/><span class="redText">21</span>|13|Keen Eye<br/>Peck / Growl / Leer / Pursuit|
+|2-8<br/>Rare|![Zigzagoon](../images/pokemon/263.png)|Zigzagoon<br/>![Normal](../images/type/normal.gif)|14.4%|9|45<br/><span class="redText">33</span>|18<br/><span class="redText">17</span>|16<br/><span class="redText">12</span>|13<br/><span class="redText">19</span>|16<br/><span class="redText">12</span>|20<br/><span class="redText">20</span>|11|Pickup or Gluttony<br/>Tackle / Growl / Tail Whip / Sand Attack|
+|4-8|![Geodude](../images/pokemon/074.png)|Geodude<br/>![Rock](../images/type/rock.gif) ![Ground](../images/type/ground.gif)|14.4%|9|44<br/><span class="redText">40</span>|23<br/><span class="redText">23</span>|23<br/><span class="redText">20</span>|13<br/><span class="redText">18</span>|13<br/><span class="redText">16</span>|15<br/><span class="redText">15</span>|20|Rock Head or <span class="highlightYellow">Sturdy</span><br/>Tackle / Defense Curl / Mud Sport / <span class="boost">Rock Polish</span>|
+|4-8<br/>Rare|![Aron](../images/pokemon/304.png)|Aron<br/>![Steel](../images/type/steel.gif) ![Rock](../images/type/rock.gif)|14.4%|9|45<br/><span class="redText">44</span>|23<br/><span class="redText">28</span>|25<br/><span class="redText">15</span>|15<br/><span class="redText">23</span>|15<br/><span class="redText">18</span>|16<br/><span class="redText">16</span>|14|Rock Head or <span class="highlightYellow">Sturdy</span><br/>Tackle / Harden / Mud-Slap / Headbutt|
+|5-8|![Mime Jr.](../images/pokemon/439.png)|Mime Jr.<br/>![Psychic](../images/type/psychic.gif) ![Fairy](../images/type/fairy.gif)|16.9%|9|41<br/><span class="redText">30</span>|13<br/><span class="redText">16</span>|16<br/><span class="redText">14</span>|22<br/><span class="redText">14</span>|23<br/><span class="redText">16</span>|20<br/><span class="redText">24</span>|16|Soundproof or <span class="highlightYellow">Filter</span><br/>Tickle / <span class="boost">Barrier</span> / Pound / Confusion / Copycat /<br/>Meditate<br/><span class="orangeText">※ Mime Jr. Statue required to spawn.</span>|
+|6-8<br/><span class="highlightOrange">Foe</span>|![Rapidash](../images/pokemon/078.png)<br/><br/>![Shiny](../images/shiny/078.png)|Rapidash<br/>![Fire](../images/type/fire.gif)|-6.4%|40|72<br/><span class="redText">170</span>|67<br/><span class="redText">60</span>|49<br/><span class="redText">31</span>|57<br/><span class="redText">60</span>|48<br/><span class="redText">31</span>|76<br/><span class="redText">76</span>|158|Run Away or <span class="highlightYellow">Flash Fire</span><br/>Poison Jab / Megahorn / <span class="caution">Quick Attack</span> / Growl /<br/>Tail Whip / <span class="caution">Ember</span> / Flame Wheel / Stomp /<br/>Flame Charge / Fire Spin / Take Down / Inferno /<br/><span class="boost">Agility</span> / <span class="extreme">Fury Attack</span><br/><span class="orangeText">※ Friend Bow required to recruit.</span>|
+|7-8|![Pinsir](../images/pokemon/127.png)|Pinsir<br/>![Bug](../images/type/bug.gif)|14.4%|9|47<br/><span class="redText">45</span>|28<br/><span class="redText">30</span>|21<br/><span class="redText">22</span>|18<br/><span class="redText">23</span>|18<br/><span class="redText">18</span>|23<br/><span class="redText">23</span>|35|Hyper Cutter or Mold Breaker<br/>Vise Grip / Focus Energy / Bind / <span class="caution">Seismic Toss</span><br/><span class="orangeText">※ Can Mega Evolve.</span>|
 
 #### Boss
 
 |Floor|Image|Name|Rate|Lv|HP|Atk|Def|SpA|SpD|Spe|Exp|Ability + Moves|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|9|![Skarmory](../images/pokemon/227.png)|Skarmory<br/>![Steel](../images/type/steel.gif) ![Flying](../images/type/flying.gif)|-|11|49<br/><span class="redText">179</span>|23<br/><span class="redText">23</span>|31<br/><span class="redText">31</span>|17<br/><span class="redText">17</span>|20<br/><span class="redText">20</span>|23|0|Keen Eye<br/>Leer / Peck / Metal Claw / Air Cutter<br/><span class="orangeText">※ First clear.</span>|
+|9|![Skarmory](../images/pokemon/227.png)|Skarmory<br/>![Steel](../images/type/steel.gif) ![Flying](../images/type/flying.gif)|-|11|49<br/><span class="redText">179</span>|23<br/><span class="redText">23</span>|31<br/><span class="redText">31</span>|17<br/><span class="redText">17</span>|20<br/><span class="redText">20</span>|23<br/><span class="redText">23</span>|0|Keen Eye<br/>Leer / Peck / Metal Claw / Air Cutter<br/><span class="orangeText">※ First clear.</span>|
 
 #### Fainted
 
@@ -173,39 +175,6 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 |Sleep Seed|2.15%|
 |Tiny Reviver Seed|7.52%|
 |Gravelerock|26.8%|
-
-#### Pretty Box
-
-|Name|Rate|
-|-|-|
-|Bronze Dojo Ticket|30.8%|
-|Oran Berry|11.5%|
-|Calcium|0.689%|
-|Carbos|0.689%|
-|Iron|0.689%|
-|Protein|0.689%|
-|Rainbow Gummi|34.4%|
-|Sitrus Berry|0.689%|
-|Zinc|0.689%|
-|(Random TM)|19.2%|
-
-#### Deluxe Box
-
-|Name|Rate|
-|-|-|
-|Gold Dojo Ticket|3.48%|
-|Silver Dojo Ticket|13.9%|
-|Reviver Seed|6.5%|
-|Tiny Reviver Seed|6.5%|
-|Calcium|0.934%|
-|Carbos|0.934%|
-|DX Gummi|23.3%|
-|Iron|0.934%|
-|Protein|0.934%|
-|Rainbow Gummi|23.3%|
-|Sitrus Berry|0.934%|
-|Zinc|0.934%|
-|(Random TM)|17.4%|
 
 # Traps
 

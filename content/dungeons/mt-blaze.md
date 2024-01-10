@@ -8,7 +8,7 @@ metaDescription: "Mt. Blaze dungeon guide for Pokemon Mystery Dungeon: Rescue Te
   <img src="../images/areas/mt_blaze.jpg"/><img src="../images/areas/mt_blaze_2.jpg"/>
 </div>
 
-[Introduction]
+Dungeon that introduces weather, with specific floors having Sunny weather which boosts Fire type attacks.<br/>Lava tiles also make an appearance, which can't be traversed by most non-Fire or Flying type Pokemon.<br/>Enemies that have Flame Body or Magma Armor as an ability are effectively immune to thrown items.<br/>Slugma and Fearow can destroy edible items, and Numel can have a room-wide attack called Magnitude.<br/>There's a checkpoint during the first clear between 12F and 13F, and Moltres appears as a boss on 15F.
 
 # Overview
 
@@ -64,7 +64,7 @@ metaDescription: "Mt. Blaze dungeon guide for Pokemon Mystery Dungeon: Rescue Te
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_2.jpg"/></td>
     <th>Reward</th>
     <td>Unlock Frosty Forest</td>
   </tr>
@@ -103,22 +103,22 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 
 |Floor|Image|Name|Rate|Lv|HP|Atk|Def|SpA|SpD|Spe|Exp|Ability + Moves|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|1-6|![Magby](../images/pokemon/240.png)|Magby<br/>![Fire](../images/type/fire.gif)|%|19|54<br/><span class="redText">64</span>|41<br/><span class="redText">35</span>|30<br/><span class="redText">27</span>|40<br/><span class="redText">27</span>|33<br/><span class="redText">29</span>|37|41|Flame Body<br/>Smog / Leer / Ember / Smokescreen /<br/>Feint Attack / Fire Spin / Clear Smog|
-|1-6<br/>Rare|![Numel](../images/pokemon/322.png)|Numel<br/>![Fire](../images/type/fire.gif) ![Ground](../images/type/ground.gif)|%|19|55<br/><span class="redText">75</span>|40<br/><span class="redText">35</span>|30<br/><span class="redText">26</span>|40<br/><span class="redText">30</span>|30<br/><span class="redText">26</span>|29|35|Oblivious or Simple<br/>Growl / Tackle / Ember / Magnitude /<br/>Focus Energy / Flame Burst / Amnesia|
-|1-11|![Slugma](../images/pokemon/218.png)|Slugma<br/>![Fire](../images/type/fire.gif)|%|19|51<br/><span class="redText">65</span>|30<br/><span class="redText">33</span>|39<br/><span class="redText">28</span>|34<br/><span class="redText">29</span>|30<br/><span class="redText">29</span>|28|40|Magma Armor or Flame Body<br/>Yawn / Smog / Ember / Rock Throw /<br/>Harden / Incinerate|
-|3-7<br/>9-10<br/>12-14<br/><span class="highlightOrange">Foe</span>|![Azumarill](../images/pokemon/184.png)<br/><br/>![Shiny](../images/shiny/184.png)|Azumarill<br/>![Water](../images/type/water.gif) ![Fairy](../images/type/fairy.gif)|%|19|54<br/><span class="redText">222</span>|23<br/><span class="redText">70</span>|27<br/><span class="redText">40</span>|23<br/><span class="redText">65</span>|27<br/><span class="redText">42</span>|28|480|Thick Fat or Huge Power<br/>Tackle / Tail Whip / Water Gun / Bubble /<br/>Water Sport / Defense Curl / Rollout /<br/>Bubble Beam / Helping Hand<br/><span class="orangeText">※ Friend Bow required to recruit.</span>|
-|4-9|![Pidgeot](../images/pokemon/018.png)|Pidgeot<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|%|36|69<br/><span class="redText">65</span>|50<br/><span class="redText">36</span>|47<br/><span class="redText">22</span>|44<br/><span class="redText">36</span>|42<br/><span class="redText">22</span>|56|50|Keen Eye or Tangled Feet<br/>Hurricane / Sand Attack / Gust / Agility /<br/>Whirlwind / Twister / Feather Dance /<br/>Quick Attack / Tackle<br/><span class="orangeText">※ Can Mega Evolve.</span>|
-|9-13|![Torkoal](../images/pokemon/324.png)|Torkoal<br/>![Fire](../images/type/fire.gif)|%|19|55<br/><span class="redText">72</span>|34<br/><span class="redText">36</span>|45<br/><span class="redText">23</span>|34<br/><span class="redText">38</span>|30<br/><span class="redText">20</span>|36|40|White Smoke or Drought<br/>Ember / Smog / Withdraw / Rapid Spin /<br/>Fire Spin / Smokescreen / Flame Wheel|
-|12-14|![Fearow](../images/pokemon/022.png)|Fearow<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|%|20|55<br/><span class="redText">70</span>|42<br/><span class="redText">40</span>|31<br/><span class="redText">27</span>|31<br/><span class="redText">35</span>|30<br/><span class="redText">28</span>|38|55|Keen Eye<br/>Drill Run / Pluck / Peck / Growl / Leer /<br/>Mirror Move / Fury Attack / Aerial Ace /<br/>Pursuit|
-|12-14|![Arcanine](../images/pokemon/059.png)|Arcanine<br/>![Fire](../images/type/fire.gif)|%|19|60<br/><span class="redText">80</span>|44<br/><span class="redText">39</span>|33<br/><span class="redText">28</span>|40<br/><span class="redText">33</span>|30<br/><span class="redText">27</span>|35|49|Intimidate or Flash Fire<br/>Thunder Fang / Bite / Roar / Fire Fang /<br/>Odor Sleuth|
-|12-14<br/>Rare|![Rapidash](../images/pokemon/078.png)|Rapidash<br/>![Fire](../images/type/fire.gif)|%|40|72<br/><span class="redText">105</span>|67<br/><span class="redText">55</span>|49<br/><span class="redText">30</span>|57<br/><span class="redText">50</span>|48<br/><span class="redText">32</span>|76|86|Run Away or Flash Fire<br/>Poison Jab / Quick Attack / Megahorn /<br/>Tail Whip / Ember / Growl / Fury Attack /<br/>Flame Wheel / Flame Charge / Fire Spin /<br/>Take Down / Inferno / Agility / Stomp|
+|1-6|![Magby](../images/pokemon/240.png)|Magby<br/>![Fire](../images/type/fire.gif)|10.8%|19|54<br/><span class="redText">64</span>|41<br/><span class="redText">35</span>|30<br/><span class="redText">27</span>|40<br/><span class="redText">27</span>|33<br/><span class="redText">29</span>|37<br/><span class="redText">37</span>|41|<span class="highlightYellow">Flame Body</span><br/><span class="caution">Smog</span> / Leer / <span class="caution">Ember</span> / Smokescreen /<br/>Feint Attack / Fire Spin / Clear Smog|
+|1-6<br/>Rare|![Numel](../images/pokemon/322.png)|Numel<br/>![Fire](../images/type/fire.gif) ![Ground](../images/type/ground.gif)|10.8%|19|55<br/><span class="redText">75</span>|40<br/><span class="redText">35</span>|30<br/><span class="redText">26</span>|40<br/><span class="redText">30</span>|30<br/><span class="redText">26</span>|29<br/><span class="redText">29</span>|35|Oblivious or <span class="highlightYellow">Simple</span><br/>Growl / Tackle / <span class="caution">Ember</span> / <span class="extreme">Magnitude</span> /<br/>Focus Energy / <span class="extreme">Flame Burst</span> / <span class="boost">Amnesia</span>|
+|1-11|![Slugma](../images/pokemon/218.png)|Slugma<br/>![Fire](../images/type/fire.gif)|10.8%|19|51<br/><span class="redText">65</span>|30<br/><span class="redText">33</span>|39<br/><span class="redText">28</span>|34<br/><span class="redText">29</span>|30<br/><span class="redText">29</span>|28<br/><span class="redText">28</span>|40|<span class="highlightYellow">Magma Armor</span> or <span class="highlightYellow">Flame Body</span><br/>Yawn / <span class="caution">Smog</span> / <span class="caution">Ember</span> / Rock Throw /<br/><span class="boost">Harden</span> / <span class="item">Incinerate</span>|
+|3-7<br/>9-10<br/>12-14<br/><span class="highlightOrange">Foe</span>|![Azumarill](../images/pokemon/184.png)<br/><br/>![Shiny](../images/shiny/184.png)|Azumarill<br/>![Water](../images/type/water.gif) ![Fairy](../images/type/fairy.gif)|-6.4%|19|54<br/><span class="redText">222</span>|23<br/><span class="redText">70</span>|27<br/><span class="redText">40</span>|23<br/><span class="redText">65</span>|27<br/><span class="redText">42</span>|28<br/><span class="redText">28</span>|480|<span class="highlightYellow">Thick Fat</span> or <span class="highlightOrange">Huge Power</span><br/>Tackle / Tail Whip / Water Gun / <span class="caution">Bubble</span> /<br/>Water Sport / <span class="boost">Defense Curl</span> / <span class="extreme">Rollout</span> /<br/><span class="extreme">Bubble Beam</span> / Helping Hand<br/><span class="orangeText">※ Friend Bow required to recruit.</span>|
+|4-9|![Pidgeot](../images/pokemon/018.png)|Pidgeot<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|-2.2%|36|69<br/><span class="redText">65</span>|50<br/><span class="redText">36</span>|47<br/><span class="redText">22</span>|44<br/><span class="redText">36</span>|42<br/><span class="redText">22</span>|56<br/><span class="redText">56</span>|50|Keen Eye or Tangled Feet<br/><span class="extreme">Hurricane</span> / Sand Attack / Gust / <span class="boost">Agility</span> /<br/>Whirlwind / Twister / <span class="caution">Feather Dance</span> /<br/>Quick Attack / Tackle<br/><span class="orangeText">※ Can Mega Evolve.</span>|
+|9-13|![Torkoal](../images/pokemon/324.png)|Torkoal<br/>![Fire](../images/type/fire.gif)|10.8%|19|55<br/><span class="redText">72</span>|34<br/><span class="redText">36</span>|45<br/><span class="redText">23</span>|34<br/><span class="redText">38</span>|30<br/><span class="redText">20</span>|36<br/><span class="redText">26</span>|40|<span class="highlightYellow">White Smoke</span> or <span class="highlightOrange">Drought</span><br/><span class="caution">Ember</span> / <span class="caution">Smog</span> / <span class="boost">Withdraw</span> / Rapid Spin /<br/>Fire Spin / Smokescreen / <span class="caution">Flame Wheel</span>|
+|12-14|![Fearow](../images/pokemon/022.png)|Fearow<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|10.8%|20|55<br/><span class="redText">70</span>|42<br/><span class="redText">40</span>|31<br/><span class="redText">27</span>|31<br/><span class="redText">35</span>|30<br/><span class="redText">28</span>|38<br/><span class="redText">38</span>|55|Keen Eye<br/><span class="caution">Drill Run</span> / <span class="item">Pluck</span> / Peck / Growl / Leer /<br/>Mirror Move / <span class="extreme">Fury Attack</span> / <span class="caution">Aerial Ace</span> /<br/><span class="caution">Pursuit</span>|
+|12-14|![Arcanine](../images/pokemon/059.png)|Arcanine<br/>![Fire](../images/type/fire.gif)|10.8%|19|60<br/><span class="redText">80</span>|44<br/><span class="redText">39</span>|33<br/><span class="redText">28</span>|40<br/><span class="redText">33</span>|30<br/><span class="redText">27</span>|35<br/><span class="redText">35</span>|49|Intimidate or <span class="highlightYellow">Flash Fire</span><br/><span class="caution">Thunder Fang</span> / Bite / Roar / <span class="caution">Fire Fang</span> /<br/>Odor Sleuth|
+|12-14<br/>Rare|![Rapidash](../images/pokemon/078.png)|Rapidash<br/>![Fire](../images/type/fire.gif)|-2.2%|40|72<br/><span class="redText">105</span>|67<br/><span class="redText">55</span>|49<br/><span class="redText">30</span>|57<br/><span class="redText">50</span>|48<br/><span class="redText">32</span>|76<br/><span class="redText">76</span>|86|Run Away or <span class="highlightYellow">Flash Fire</span><br/>Poison Jab / <span class="caution">Quick Attack</span> / Megahorn /<br/>Tail Whip / <span class="caution">Ember</span> / Growl / <span class="extreme">Fury Attack</span> /<br/><span class="extreme">Flame Wheel</span> / <span class="extreme">Flame Charge</span> / <span class="caution">Fire Spin</span> /<br/>Take Down / <span class="extreme">Inferno</span> / <span class="boost">Agility</span> / Stomp|
 
 #### Boss
 
 |Floor|Image|Name|Rate|Lv|HP|Atk|Def|SpA|SpD|Spe|Exp|Ability + Moves|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|15|![Moltres](../images/pokemon/146.png)|Moltres<br/>![Fire](../images/type/fire.gif) ![Flying](../images/type/flying.gif)|-|20|64<br/><span class="redText">664</span>|43<br/><span class="redText">43</span>|36<br/><span class="redText">36</span>|47<br/><span class="redText">47</span>|36<br/><span class="redText">36</span>|38|0|<span class="highlightYellow">Pressure</span><br/>Ember / Wing Attack / Fire Spin /<br/>Agility<br/><span class="orangeText">※ First clear.</span>|
-|15<br/><span class="highlightOrange">Rematch</span>|![Moltres](../images/pokemon/146.png)|Moltres<br/>![Fire](../images/type/fire.gif) ![Flying](../images/type/flying.gif)|100%|50|87<br/><span class="redText">1987</span>|75<br/><span class="redText">95</span>|57<br/><span class="redText">77</span>|82<br/><span class="redText">82</span>|57<br/><span class="redText">57</span>|74|0|<span class="highlightYellow">Pressure</span><br/>Fire Spin / Flamethrower / Air Slash /<br/>Ancient Power<br/><span class="orangeText">※ Available post-game.</span><br/><span class="orangeText">※ Rare Quality: Squeeze Out</span>|
+|15|![Moltres](../images/pokemon/146.png)|Moltres<br/>![Fire](../images/type/fire.gif) ![Flying](../images/type/flying.gif)|-|20|64<br/><span class="redText">664</span>|43<br/><span class="redText">43</span>|36<br/><span class="redText">36</span>|47<br/><span class="redText">47</span>|36<br/><span class="redText">36</span>|38<br/><span class="redText">38</span>|0|<span class="highlightYellow">Pressure</span><br/><span class="caution">Ember</span> / <span class="caution">Wing Attack</span> / <span class="caution">Fire Spin</span> /<br/><span class="boost">Agility</span><br/><span class="orangeText">※ First clear.</span>|
+|15<br/><span class="highlightOrange">Rematch</span>|![Moltres](../images/pokemon/146.png)|Moltres<br/>![Fire](../images/type/fire.gif) ![Flying](../images/type/flying.gif)|100%|50|87<br/><span class="redText">1987</span>|75<br/><span class="redText">95</span>|57<br/><span class="redText">77</span>|82<br/><span class="redText">82</span>|57<br/><span class="redText">57</span>|74<br/><span class="redText">74</span>|0|<span class="highlightYellow">Pressure</span><br/><span class="caution">Fire Spin</span> / <span class="caution">Flamethrower</span> / <span class="caution">Air Slash</span> /<br/>Ancient Power<br/><span class="orangeText">※ Available post-game.</span><br/><span class="orangeText">※ Rare Quality: Squeeze Out</span>|
 
 #### Fainted
 
@@ -207,39 +207,6 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 |Switcher Wand|0.22%|
 |Tunnel Wand|0.22%|
 |Whirlwind Wand|0.22%|
-
-#### Pretty Box
-
-|Name|Rate|
-|-|-|
-|Bronze Dojo Ticket|30.8%|
-|Oran Berry|11.5%|
-|Calcium|0.689%|
-|Carbos|0.689%|
-|Iron|0.689%|
-|Protein|0.689%|
-|Rainbow Gummi|34.4%|
-|Sitrus Berry|0.689%|
-|Zinc|0.689%|
-|(Random TM)|19.2%|
-
-#### Deluxe Box
-
-|Name|Rate|
-|-|-|
-|Gold Dojo Ticket|3.48%|
-|Silver Dojo Ticket|13.9%|
-|Reviver Seed|6.5%|
-|Tiny Reviver Seed|6.5%|
-|Calcium|0.934%|
-|Carbos|0.934%|
-|DX Gummi|23.3%|
-|Iron|0.934%|
-|Protein|0.934%|
-|Rainbow Gummi|23.3%|
-|Sitrus Berry|0.934%|
-|Zinc|0.934%|
-|(Random TM)|17.4%|
 
 # Traps
 

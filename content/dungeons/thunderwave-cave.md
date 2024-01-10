@@ -8,7 +8,7 @@ metaDescription: "Thunderwave Cave dungeon guide for Pokemon Mystery Dungeon: Re
   <img src="../images/areas/thunderwave_cave.jpg"/><img src="../images/areas/thunderwave_cave_2.jpg"/>
 </div>
 
-[Introduction]
+Dungeon that notably introduces some electric type Pokemon who can cause Paralyzed status.<br/>Unlike the DS version, most Electric types here can use Electric type attacks like Thunder Shock or Spark,<br/>so you might want to be a little careful around them if you chose a Water type starter or partner.<br/>Otherwise, the only thing to be careful of is Nidoran♀'s Poison Point ability.
 
 # Overview
 
@@ -100,13 +100,13 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 
 |Floor|Image|Name|Rate|Lv|HP|Atk|Def|SpA|SpD|Spe|Exp|Ability + Moves|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|1-5|![Rattata](../images/pokemon/019.png)|Rattata<br/>![Normal](../images/type/normal.gif)|14.4%|7|42<br/><span class="redText">15</span>|16<br/><span class="redText">10</span>|14<br/><span class="redText">6</span>|11<br/><span class="redText">8</span>|14<br/><span class="redText">6</span>|18|8|Run Away or <span class="highlightYellow">Guts</span><br/>Tackle / Tail Whip / Quick Attack / Focus Energy|
-|1-5|![Nidoran♀](../images/pokemon/029.png)|Nidoran♀<br/>![Poison](../images/type/poison.gif)|14.4%|7|43<br/><span class="redText">20</span>|15<br/><span class="redText">11</span>|14<br/><span class="redText">9</span>|14<br/><span class="redText">8</span>|13<br/><span class="redText">9</span>|14|9|<span class="highlightYellow">Poison Point</span> or Rivalry<br/>Growl / Scratch / Tail Whip|
-|1-5|![Elekid](../images/pokemon/239.png)|Elekid<br/>![Electric](../images/type/electric.gif)|14.4%|7|43<br/><span class="redText">18</span>|16<br/><span class="redText">12</span>|14<br/><span class="redText">8</span>|18<br/><span class="redText">13</span>|15<br/><span class="redText">10</span>|21|11|<span class="highlightOrange">Static</span><br/>Quick Attack / Leer / Thunder Shock|
-|1-5|![Voltorb](../images/pokemon/100.png)|Voltorb<br/>![Electric](../images/type/electric.gif)|14.4%|7|43<br/><span class="redText">15</span>|14<br/><span class="redText">7</span>|14<br/><span class="redText">6</span>|16<br/><span class="redText">12</span>|14<br/><span class="redText">6</span>|21|9|<span class="highlightOrange">Static</span> or Soundproof<br/>Charge / Tackle / <span class="caution">Sonic Boom</span> / Eerie Impulse|
-|3-5<br/>Rare|![Plusle](../images/pokemon/311.png)|Plusle<br/>![Electric](../images/type/electric.gif)|14.4%|8|46<br/><span class="redText">20</span>|16<br/><span class="redText">11</span>|14<br/><span class="redText">10</span>|19<br/><span class="redText">13</span>|16<br/><span class="redText">10</span>|21|14|Plus<br/><span class="extreme">Nuzzle</span> / Play Nice / Growl / <span class="caution">Thunder Wave</span> /<br/>Quick Attack / Helping Hand / Spark|
-|3-5<br/>Rare|![Minun](../images/pokemon/312.png)|Minun<br/>![Electric](../images/type/electric.gif)|14.4%|8|46<br/><span class="redText">20</span>|14<br/><span class="redText">11</span>|14<br/><span class="redText">8</span>|19<br/><span class="redText">12</span>|18<br/><span class="redText">8</span>|21|13|Minus<br/><span class="extreme">Nuzzle</span> / Play Nice / Growl / <span class="caution">Thunder Wave</span> /<br/>Quick Attack / Helping Hand / Spark|
-|4-5|![Poochyena](../images/pokemon/261.png)|Poochyena<br/>![Dark](../images/type/dark.gif)|14.4%|7|43<br/><span class="redText">18</span>|18<br/><span class="redText">12</span>|14<br/><span class="redText">8</span>|12<br/><span class="redText">6</span>|12<br/><span class="redText">8</span>|15|10|Run Away or Quick Feet<br/>Tackle / <span class="boost">Howl</span> / Sand Attack|
+|1-5|![Rattata](../images/pokemon/019.png)|Rattata<br/>![Normal](../images/type/normal.gif)|14.4%|7|42<br/><span class="redText">15</span>|16<br/><span class="redText">10</span>|14<br/><span class="redText">6</span>|11<br/><span class="redText">8</span>|14<br/><span class="redText">6</span>|18<br/><span class="redText">18</span>|8|Run Away or <span class="highlightYellow">Guts</span><br/>Tackle / Tail Whip / Quick Attack / Focus Energy|
+|1-5|![Nidoran♀](../images/pokemon/029.png)|Nidoran♀<br/>![Poison](../images/type/poison.gif)|14.4%|7|43<br/><span class="redText">20</span>|15<br/><span class="redText">11</span>|14<br/><span class="redText">9</span>|14<br/><span class="redText">8</span>|13<br/><span class="redText">9</span>|14<br/><span class="redText">14</span>|9|<span class="highlightYellow">Poison Point</span> or Rivalry<br/>Growl / Scratch / Tail Whip|
+|1-5|![Elekid](../images/pokemon/239.png)|Elekid<br/>![Electric](../images/type/electric.gif)|14.4%|7|43<br/><span class="redText">18</span>|16<br/><span class="redText">12</span>|14<br/><span class="redText">8</span>|18<br/><span class="redText">13</span>|15<br/><span class="redText">10</span>|21<br/><span class="redText">21</span>|11|<span class="highlightOrange">Static</span><br/>Quick Attack / Leer / Thunder Shock|
+|1-5|![Voltorb](../images/pokemon/100.png)|Voltorb<br/>![Electric](../images/type/electric.gif)|14.4%|7|43<br/><span class="redText">15</span>|14<br/><span class="redText">7</span>|14<br/><span class="redText">6</span>|16<br/><span class="redText">12</span>|14<br/><span class="redText">6</span>|21<br/><span class="redText">21</span>|9|<span class="highlightOrange">Static</span> or Soundproof<br/>Charge / Tackle / <span class="caution">Sonic Boom</span> / Eerie Impulse|
+|3-5<br/>Rare|![Plusle](../images/pokemon/311.png)|Plusle<br/>![Electric](../images/type/electric.gif)|14.4%|8|46<br/><span class="redText">20</span>|16<br/><span class="redText">11</span>|14<br/><span class="redText">10</span>|19<br/><span class="redText">13</span>|16<br/><span class="redText">10</span>|21<br/><span class="redText">21</span>|14|Plus<br/><span class="extreme">Nuzzle</span> / Play Nice / Growl / <span class="caution">Thunder Wave</span> /<br/>Quick Attack / Helping Hand / Spark|
+|3-5<br/>Rare|![Minun](../images/pokemon/312.png)|Minun<br/>![Electric](../images/type/electric.gif)|14.4%|8|46<br/><span class="redText">20</span>|14<br/><span class="redText">11</span>|14<br/><span class="redText">8</span>|19<br/><span class="redText">12</span>|18<br/><span class="redText">8</span>|21<br/><span class="redText">21</span>|13|Minus<br/><span class="extreme">Nuzzle</span> / Play Nice / Growl / <span class="caution">Thunder Wave</span> /<br/>Quick Attack / Helping Hand / Spark|
+|4-5|![Poochyena](../images/pokemon/261.png)|Poochyena<br/>![Dark](../images/type/dark.gif)|14.4%|7|43<br/><span class="redText">18</span>|18<br/><span class="redText">12</span>|14<br/><span class="redText">8</span>|12<br/><span class="redText">6</span>|12<br/><span class="redText">8</span>|15<br/><span class="redText">15</span>|10|Run Away or Quick Feet<br/>Tackle / <span class="boost">Howl</span> / Sand Attack|
 
 #### Fainted
 
@@ -136,39 +136,6 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 |Sleep Seed|1-5|1.21%|
 |Tiny Reviver Seed|1-5|3.04%|
 |Gravelerock|1-5|6.06%|
-
-#### Pretty Box
-
-|Name|Rate|
-|-|-|
-|Bronze Dojo Ticket|30.8%|
-|Oran Berry|11.5%|
-|Calcium|0.689%|
-|Carbos|0.689%|
-|Iron|0.689%|
-|Protein|0.689%|
-|Rainbow Gummi|34.4%|
-|Sitrus Berry|0.689%|
-|Zinc|0.689%|
-|(Random TM)|19.2%|
-
-#### Deluxe Box
-
-|Name|Rate|
-|-|-|
-|Gold Dojo Ticket|3.48%|
-|Silver Dojo Ticket|13.9%|
-|Reviver Seed|6.5%|
-|Tiny Reviver Seed|6.5%|
-|Calcium|0.934%|
-|Carbos|0.934%|
-|DX Gummi|23.3%|
-|Iron|0.934%|
-|Protein|0.934%|
-|Rainbow Gummi|23.3%|
-|Sitrus Berry|0.934%|
-|Zinc|0.934%|
-|(Random TM)|17.4%|
 
 # Traps
 

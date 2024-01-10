@@ -15,14 +15,14 @@ metaDescription: "Ability details for Pokemon Mystery Dungeon: Rescue Team DX."
 
 # Quick Links
 
-- [A](#a)　[B](#b)　[C](#c)　[D](#d)　[E](#e)　[F](#f)　[G](#g)　[H](#h)　[I](#i)　[J](#j)　[K](#k)　[L](#l)　[M](#m)　[N](#n)　[O](#o)　[P](#p)　[Q](#q)　[R](#r)　[S](#s)　[T](#t)　[U](#u)　[V](#v)　[W](#w)　[X](#x)　[Y](#y)　[Z](#z)
+- [A](#a)　[B](#b)　[C](#c)　[D](#d)　[E](#e)　[F](#f)　[G](#g)　[H](#h)　[I](#i)　[K](#k)　[L](#l)　[M](#m)　[N](#n)　[O](#o)　[P](#p)　[Q](#q)　[R](#r)　[S](#s)　[T](#t)　[V](#v)　[W](#w)
 
 # Ability List
 
 <table class="abilityTable">
   <tr>
     <th>Ability</th>
-    <th>In-Game Description</th>
+    <th>Description</th>
     <th>Notes</th>
     <th>Pokemon</th>
   </tr>
@@ -240,753 +240,615 @@ metaDescription: "Ability details for Pokemon Mystery Dungeon: Rescue Team DX."
     <td>Shuckle, Zigzagoon, Linoone</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Guts</td>
+    <td>When the Pokemon is affected by a bad status condition, like poison or a burn, the power of its physical moves goes up.</td>
+    <td>Power boost: x1.5</td>
+    <td>Rattata, Raticate, Machop, Machoke, Machamp, Makuhita, Hariyama, Tyrogue, Heracross, Taillow, Swellow, Larvitar, Ursaring</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="h" colspan="4" class="highlightGray centeredText">H</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Huge Power</td>
+    <td>Sometimes the power of the Pokemon's physical moves goes up.</td>
+    <td>-</td>
+    <td>Mega Mawile, Azurill, Marill, Azumarill</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Hustle</td>
+    <td>The power of the Pokemon's physical moves goes up, but the accuracy goes down.</td>
+    <td>-</td>
+    <td>Togepi, Togetic, Togekiss, Delibird, Remoraid, Corsola</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Hydration</td>
+    <td>This Ability heals the Pokemon's bad status conditions, such as being poisoned or paralyzed, when the weather condition is Rain or Heavy Rain.</td>
+    <td>-</td>
+    <td>Seel, Dewgong, Wingull</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Hyper Cutter</td>
+    <td>The Pokemon's Attack won't be lowered.</td>
+    <td>-</td>
+    <td>Krabby, Kingler, Pinsir, Gligar, Gliscor, Corphish, Crawdaunt, Mawile, Trapinch</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="i" colspan="4" class="highlightGray centeredText">I</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Ice Body</td>
+    <td>This Ability helps the Pokemon restore HP naturally more quickly when the weather condition is Hail.</td>
+    <td>-</td>
+    <td>Spheal, Sealeo, Walrein, Snorunt, Glalie</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Illuminate</td>
+    <td>If the Pokemon uses an illuminating move, such as Confuse Ray or Light Screen, the Pokemon will become a Decoy.</td>
+    <td>-</td>
+    <td>Staryu, Starmie, Chinchou, Lanturn, Volbeat</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Immunity</td>
+    <td>It protects the Pokemon from getting Poisoned or Badly Poisoned.</td>
+    <td>-</td>
+    <td>Snorlax, Zangoose</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Inner Focus</td>
+    <td>This Ability protects the Pokemon from the Flinch status condition.</td>
+    <td>-</td>
+    <td>Zubat, Golbat, Crobat, Farfetch'd, Abra, Kadabra, Alakazam, Dragonite, Girafarig, Sneasel, Snorunt, Glalie, Riolu, Lucario, Mega Gallade</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Insomnia</td>
+    <td>The Pokemon won't get the Sleep, Napping, Yawning, or Nightmare condition.</td>
+    <td>-</td>
+    <td>Mega Mewtwo Y, Drowzee, Hypno, Hoothoot, Noctowl, Spinarak, Ariados, Murkrow, Honchkrow, Shuppet, Banette</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Intimidate</td>
+    <td>When the Pokemon is attacked with a physical move by an enemy next to it, the damage is reduced.</td>
+    <td>-</td>
+    <td>Mega Manectric, Ekans, Arbok, Growlithe, Arcanine, Gyarados, Tauros, Stantler, Snubbull, Granbull, Mightyena, Masquerain, Mawile, Hitmontop, Salamence</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Iron Fist</td>
+    <td>The power of punching moves goes up.</td>
+    <td>-</td>
+    <td>Hitmonchan</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="k" colspan="4" class="highlightGray centeredText">K</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Keen Eye</td>
+    <td>The Pokemon's accuracy won't be lowered - never ever! The Pokemon won't be affected by an enemy's boosted evasiveness, either.</td>
+    <td>-</td>
+    <td>Pidgey, Pidgeotto, Pidgeot, Spearow, Fearow, Farfetch'd, Hitmonchan, Sentret, Furret, Hoothoot, Noctowl, Sneasel, Skarmory, Wingull, Pelipper, Sableye</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="l" colspan="4" class="highlightGray centeredText">L</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Leaf Guard</td>
+    <td>The Pokemon is protected from bad status conditions, such as poison or paralysis, during Sunny weather or in Extremely Harsh Sunlight.</td>
+    <td>-</td>
+    <td>Tangela, Tangrowth, Hoppip, Skiploom, Jumpluff, Leafeon</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Levitate</td>
+    <td>Ground-type moves, such as Magnitude, won't damage the Pokemon.</td>
+    <td>-</td>
+    <td>Gastly, Haunter, Koffing, Weezing, Misdreavus, Mismagius, Baltoy, Claydol, Vibrava, Flygon, Chingling, Chimecho, Duskull, Dusclops, Lunatone, Solrock, Unown, Latios, Latias, Mega Latios, Mega Latias</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Lightning Rod</td>
+    <td>The Electric-type moves of enemies in the same room are drawn to the Pokemon and absorbed. When the Pokemon absorbs Electric-type moves, its Sp. Atk goes up.</td>
+    <td>Sp. Atk Boost: 1 stage</td>
+    <td>Mega Sceptile, Cubone, Marowak, Rhyhorn, Rhydon, Rhyperior, Electrike, Manectric</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Limber</td>
+    <td>The Pokemon is protected from Paralysis.</td>
+    <td>-</td>
+    <td>Persian, Hitmonlee, Ditto</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Liquid Ooze</td>
+    <td>When the Pokemon is hit by an HP-absorbing move, the Pokemon's HP is not absorbed and the enemy is damaged instead.</td>
+    <td>-</td>
+    <td>Tentacool, Tentacruel, Gulpin, Swalot</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="m" colspan="4" class="highlightGray centeredText">M</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Magic Bounce</td>
+    <td>The Pokemon reflects status moves and the effects of wands. Not all moves can be reflected.</td>
+    <td>-</td>
+    <td>Mega Absol, Mega Sableye</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Magic Guard</td>
+    <td>The Pokemon won't take damage from things like the Sandstorm weather condition, Blast Traps, or getting Poisoned.</td>
+    <td>-</td>
+    <td>Cleffa, Clefairy, Clefable</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Magma Armor</td>
+    <td>This Ability protects the Pokemon from getting Frozen. It also burns items thrown at the Pokemon.</td>
+    <td>-</td>
+    <td>Slugma, Magcargo, Camerupt</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Magnet Pull</td>
+    <td>Steel-type enemies next to the Pokemon can't walk. However, in some special cases, this Ability will have no effect.</td>
+    <td>-</td>
+    <td>Megnemite, Magneton, Magnezone, Nosepass, Probopass</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Marvel Scale</td>
+    <td>When the Pokemon gets a bad status condition, such as poison or paralysis, its Defense goes up.</td>
+    <td>-</td>
+    <td>Milotic</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Mega Launcher</td>
+    <td>Aura Sphere and moves with "Pulse" in their names become more powerful.</td>
+    <td>-</td>
+    <td>Mega Blastoise</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Minus</td>
+    <td>If a teammate in the same room has the Plus or Minus Ability, the Pokemon's Sp. Atk goes up.</td>
+    <td>-</td>
+    <td>Minun</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Mold Breaker</td>
+    <td>The Pokemon can deal damage and inflict status conditions on targets regardless of their Abilities. For example, this Pokemon can make a Pokemon with the Sturdy Ability faint in one hit!</td>
+    <td>-</td>
+    <td>Mega Gyarados, Mega Ampharos, Pinsir</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Motor Drive</td>
+    <td>The Pokemon absorbs Electric-type moves to raise its Travel Speed.</td>
+    <td>-</td>
+    <td>Electivire</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="n" colspan="4" class="highlightGray centeredText">N</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Natural Cure</td>
+    <td>This Ability sometimes cures every bad status condition the Pokemon has.</td>
+    <td>-</td>
+    <td>Staryu, Starmie, Happiny, Chansey, Blissey, Corsola, Celebi, Swablu, Altaria, Budew, Roselia, Roserade</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>No Guard</td>
+    <td>When changes to the Pokemon's and its target's accuracy or evasiveness make it more difficult for attacks to land, those changes go away so that the Pokemon can have a fair fight.</td>
+    <td>-</td>
+    <td>Mega Pidgeot, Machop, Machoke, Machamp</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Normalize</td>
+    <td>All moves used by the Pokemon become Normal type and deal more damage.</td>
+    <td>-</td>
+    <td>Skitty, Delcatty</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="o" colspan="4" class="highlightGray centeredText">O</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Oblivious</td>
+    <td>The Pokemon won't get Infatuated. Captivate and Taunt don't work on it, either.</td>
+    <td>-</td>
+    <td>Slowpoke, Slowbro, Slowking, Smoochum, Jynx, Feebas, Lickitung, Lickilicky, Numel, Swinub, Piloswine, Mamoswine, Illumise, Barboach, Whiscash, Wailmer, Wailord</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Overgrow</td>
+    <td>When the Pokemon's HP is low, the power of Grass-type moves goes up.</td>
+    <td>Power Boost: x1.5</td>
+    <td>Bulbasaur, Ivysaur, Venusaur, Chikorita, Bayleef, Meganium, Treecko, Grovyle, Sceptile</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Own Tempo</td>
+    <td>This Ability protects the Pokemon from getting Confused.</td>
+    <td>-</td>
+    <td>Slowpoke, Slowbro, Slowking, Lickitung, Lickilicky, Spinda, Smeargle, Spoink, Grumpig</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="p" colspan="4" class="highlightGray centeredText">P</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Parental Bond</td>
+    <td>Kangaskhan and its young will fight together! This Ability can't be changed or sealed.</td>
+    <td>-</td>
+    <td>Mega Kangaskhan</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Pickup</td>
+    <td>When the Pokemon goes to a different floor, it may pick up an item. However, there will be places where there is nothing for the Pokemon to pick up.</td>
+    <td>-</td>
+    <td>Meowth, Teddiursa, Phanpy, Aipom, Ambipom, Zigzagoon, Linoone, Munchlax</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Pixilate</td>
+    <td>Normal-type moves used by the Pokemon become Fairy type and deal more damage.</td>
+    <td>-</td>
+    <td>Mega Gardevoir, Mega Altaria</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Plus</td>
+    <td>If a teammate in the same room has the Plus or Minus Ability, the Pokemon's Sp. Atk goes up.</td>
+    <td>-</td>
+    <td>Plusle</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Poison Heal</td>
+    <td>The Pokemon absorbs the damage it would usualy take from being Poisoned or Badly Poisoned, instead restoring its own HP.</td>
+    <td>-</td>
+    <td>Shroomish, Breloom</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Poison Point</td>
+    <td>When the Pokemon is hit with a contact move, like Tackle or Scratch, the attacker sometimes gets Poisoned.</td>
+    <td>-</td>
+    <td>Nidoran♀, Nidorina, Nidoqueen, Nidoran♂, Nidorino, Nidoking, Seadra, Qwilfish, Budew, Roselia, Roserade</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Prankster</td>
+    <td>When the Pokemon uses a status move, it uses it 2 times at once but only consumes PP for 1 use! The move won't work if the target is a Dark-type Pokemon, though.</td>
+    <td>-</td>
+    <td>Mega Banette</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Pressure</td>
+    <td>When an enemy uses a move on the Pokemon, the move will cost more PP than usual.</td>
+    <td>-</td>
+    <td>Aerodactyl, Weavile, Absol, Dusclops, Dusknoir, Articuno, Zapdos, Moltres, Mewtwo, Raikou, Entei, Suicune, Lugia, Ho-Oh, Deoxys</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Primordial Sea</td>
+    <td>The floor will have Heavy Rain.</td>
+    <td>-</td>
+    <td>Primal Kyogre</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Pure Power</td>
+    <td>Sometimes the power of the Pokemon's physical moves goes up.</td>
+    <td>-</td>
+    <td>Mega Medicham, Meditite, Medicham</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="q" colspan="4" class="highlightGray centeredText">Q</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Quick Feet</td>
+    <td>When the Pokemon gets a bad status condition, such as poison or paralysis, its Travel Speed goes up for a while.</td>
+    <td>Speed Boost: 1 stage</td>
+    <td>Teddiursa, Ursaring, Granbull, Poochyena, Mightyena</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="r" colspan="4" class="highlightGray centeredText">R</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Rain Dish</td>
+    <td>This Ability helps the Pokemon restore HP naturally more quickly when the weather condition is Rain or Heavy Rain.</td>
+    <td>-</td>
+    <td>Lotad, Lombre, Ludicolo</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Reckless</td>
+    <td>The power of moves with recoil damage and moves that cause the user to take damage if they fail goes up - but the damage the Pokemon takes also goes up. It has no effect on some moves such as Struggle and Final Gambit.</td>
+    <td>-</td>
+    <td>Hitmonlee</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Refrigerate</td>
+    <td>Normal-type moves used by the Pokemon become Ice type and deal more damage.</td>
+    <td>-</td>
+    <td>Mega Glalie</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Rivalry</td>
+    <td>The Pokemon does more damage to targets that share its type.</td>
+    <td>Damage Boost: x1.2</td>
+    <td>Nidoran♀, Nidorina, Nidoqueen, Nidoran♂, Nidorino, Nidoking</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Rock Head</td>
+    <td>The Pokemon won't be hurt when it uses moves that cause recoil damage.</td>
+    <td>-</td>
+    <td>Geodude, Graveler, Golem, Rhyhorn, Rhydon, Cubone, Marowak, Bonsly, Aerodactyl, Onix, Steelix, Sudowoodo, Aron, Lairon, Aggron, Bagon, Shelgon, Relicanth</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Rough Skin</td>
+    <td>When the Pokemon is hit with a contact move, like Tackle or Scratch, the attacker is damaged a little.</td>
+    <td>-</td>
+    <td>Carvanha, Sharpedo</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Run Away</td>
+    <td>The Pokemon won't get Stuck.</td>
+    <td>-</td>
+    <td>Rattata, Raticate, Ponyta, Rapidash, Eevee, Doduo, Dodrio, Sentret, Furret, Dunsparce, Aipom, Snubbull, Poochyena</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="s" colspan="4" class="highlightGray centeredText">S</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Sand Force</td>
+    <td>The Pokemon isn't damaged by the Sandstorm weather condition, and the power of its Rock-, Ground-, and Steel-type moves goes up while a sandstorm is in effect.</td>
+    <td>-</td>
+    <td>Mega Steelix</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Sand Stream</td>
+    <td>The weather condition on the floor will be a Sandstorm.</td>
+    <td>-</td>
+    <td>Tyranitar, Mega Tyranitar</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Sand Veil</td>
+    <td>The Pokemon isn't damaged by the Sandstorm weather condition, and its evasiveness goes up while a sandstorm is in effect.</td>
+    <td>-</td>
+    <td>Sandshrew, Sandslash, Diglett, Dugtrio, Gligar, Gliscor, Cacnea, Cacturne</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Scrappy</td>
+    <td>Ghost-type Pokemon can be hit by Normal- and Fighting-type moves.</td>
+    <td>-</td>
+    <td>Kangaskhan, Miltank</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Serene Grace</td>
+    <td>The Pokemon's moves are more likely to have additional effects.</td>
+    <td>-</td>
+    <td>Happiny, Chansey, Blissey, Togepi, Togetic, Togekiss, Dunsparce, Jirachi</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Shadow Tag</td>
+    <td>Enemies next to the Pokemon can't walk. This Ability has no effect on Ghost-type Pokemon and Pokemon with the Run Away or Shadow Tag Ability.</td>
+    <td>-</td>
+    <td>Wynaut, Wobbuffet, Mega Gengar</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Shed Skin</td>
+    <td>This Ability sometimes cures every bad status condition the Pokemon has.</td>
+    <td>-</td>
+    <td>Metapod, Kakuna, Ekans, Arbok, Dratini, Dragonair, Pupitar, Silcoon, Cascoon, Seviper</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Sheer Force</td>
+    <td>The power of the Pokemon's move goes up, but additional effects are lost. For example, Crush Claw won't lower the target's Defense anymore, but the move will deal more damage.</td>
+    <td>-</td>
+    <td>Mega Camerupt</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Shell Armor</td>
+    <td>Moves are never critical hits against this Pokemon.</td>
+    <td>-</td>
+    <td>Krabby, Kingler, Shellder, Cloyster, Omanyte, Omastar, Clamperl, Corphish, Crawdaunt, Mega Slowbro</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Shield Dust</td>
+    <td>This Ability blocks additional effects when the Pokemon is hit by an attacking move.</td>
+    <td>-</td>
+    <td>Caterpie, Weedle, Venomoth, Wurmple, Dustox</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Simple</td>
+    <td>When the Pokemon's stats change, the amount they change will be doubled. Any decrease in stats will be doubled, too, so be careful!</td>
+    <td>-</td>
+    <td>Numel</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Skill Link</td>
+    <td>When the Pokemon uses a multistrike move, such as Pin Missile or Fury Attack, the move always strikes the maximum number of times.</td>
+    <td>-</td>
+    <td>Shellder, Cloyster, Mega Heracross</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Sniper</td>
+    <td>This Ability increases the damage of moves that result in critical hits.</td>
+    <td>Crit Damage: x1.4 → x1.68</td>
+    <td>Horsea, Seadra, Kingdra, Octillery, Remoraid</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Snow Cloak</td>
+    <td>The Pokemon isn't damaged by Hail, and hailstorms cause the Pokemon's evasiveness to go up.</td>
+    <td>-</td>
+    <td>Swinub, Piloswine, Mamoswine, Glaceon, Froslass</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Solar Power</td>
+    <td>During Sunny weather or in Extremely Harsh Sunlight, the Pokemon's Sp. Atk goes up sharply, but the Pokemon can't restore its HP naturally and keeps taking damage.</td>
+    <td>-</td>
+    <td>Mega Houndoom, Sunkern, Sunflora, Tropius</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Solid Rock</td>
+    <td>The Pokemon takes less damage from super effective moves.</td>
+    <td>~15% damage reduction.</td>
+    <td>Camerupt, Rhyperior</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Soundproof</td>
+    <td>The Pokemon is not affected by the effects of moves that use sound, such as Growl or Uproar. But this also blocks those moves when a teammate uses them.</td>
+    <td>-</td>
+    <td>Voltorb, Electrode, Mime Jr., Mr. Mime, Whismur, Loudred, Exploud</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Speed Boost</td>
+    <td>The Pokemon's travel speed goes up sometimes.</td>
+    <td>Speed Boost: 1 stage<br/>(15 turns after floor start,<br/>then every 10 turns after<br/>returning to normal speed)</td>
+    <td>Mega Blaziken, Yanma, Yanmega, Ninjask</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Stall</td>
+    <td>The Pokemon ambushes and attacks enemies that approach it.</td>
+    <td>-</td>
+    <td>Sableye</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Static</td>
+    <td>When the Pokemon is hit with a contact move, like Tackle or Scratch, the attacker is sometimes afflicted with Paralysis.</td>
+    <td>-</td>
+    <td>Pichu, Pikachu, Raichu, Voltorb, Electrode, Elekid, Electabuzz, Mareep, Flaaffy, Ampharos, Electrike, Manectric</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Steadfast</td>
+    <td>When the Pokemon gets the Flinch condition, its Travel Speed goes up.</td>
+    <td>Speed Boost: 1 stage</td>
+    <td>Mega Mewtwo X, Tyrogue, Gallade, Riolu, Lucario</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Stench</td>
+    <td>When the Pokemon is attacked by an enemy next to it, it sometimes makes the attacker Terrified.</td>
+    <td>-</td>
+    <td>Grimer, Muk</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Sticky Hold</td>
+    <td>The Pokemon won't drop items or have them taken away.</td>
+    <td>-</td>
+    <td>Grimer, Muk, Gulpin, Swalot</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Strong Jaw</td>
+    <td>Moves using jaws or fangs, such as Bite or Fire Fang, become more powerful.</td>
+    <td>-</td>
+    <td>Mega Sharpedo</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Sturdy</td>
+    <td>If the Pokemon's HP is full, moves that would defeat the Pokemon instead leave the Pokemon with 1 HP. This is also effective against moves like Fissure that can cause Pokemon to faint with a single hit.</td>
+    <td>-</td>
+    <td>Geodude, Graveler, Golem, Magnemite, Magneton, Magnezone, Onix, Steelix, Bonsly, Sudowoodo, Skarmory, Pineco, Forretress, Shuckle, Donphan, Nosepass, Probopass, Aron, Lairon, Aggron</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Suction Cups</td>
+    <td>The Pokemon holds tight and can't be blown away or warped.</td>
+    <td>-</td>
+    <td>Octillery, Lileep, Cradily</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Super Luck</td>
+    <td>The Pokemon's moves have a high critical-hit rate.</td>
+    <td>-</td>
+    <td>Murkrow, Honchkrow, Absol</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Swarm</td>
+    <td>When the Pokemon's HP is low, the power of Bug-type moves goes up.</td>
+    <td>Power boost: x1.5</td>
+    <td>Beedrill, Scyther, Scizor, Ledyba, Ledian, Spinarak, Ariados, Heracross, Beautifly, Volbeat</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Swift Swim</td>
+    <td>When the Pokemon uses a move in Rain or Heavy Rain, it uses the move 2 times at once but only consumes PP for 1 use.</td>
+    <td>-</td>
+    <td>Mega Swampert, Magikarp, Goldeen, Seaking, Horsea, Kingdra, Kabuto, Kabutops, Omanyte, Omastar, Qwilfish, Mantyke, Mantine, Luvdisc, Feebas, Lotad, Lombre, Ludicolo, Surskit, Huntail, Gorebyss, Relicanth</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Synchronize</td>
+    <td>When the Pokemon is Poisoned, is Badly Poisoned, has Paralysis, or has a Burn, enemies next to it will get the same status condition.</td>
+    <td>-</td>
+    <td>Abra, Kadabra, Alakazam, Mew, Natu, Xatu, Espeon, Umbreon, Ralts, Kirlia, Gardevoir</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="t" colspan="4" class="highlightGray centeredText">T</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Tangled Feet</td>
+    <td>When the Pokemon is Confused, its evasiveness goes up sharply.</td>
+    <td>-</td>
+    <td>Pidgey, Pidgeotto, Pidgeot, Spinda</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Technician</td>
+    <td>When the Pokemon uses moves with very low power, those moves do more damage.</td>
+    <td>Damage boost: x1.2<br/>(Base power of 5 or less)</td>
+    <td>Meowth, Persian, Scyther, Scizor, Mega Scizor, Smeargle, Hitmontop, Ambipom</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Thick Fat</td>
+    <td>The Pokemon takes less damage from Fire- and Ice-type moves.</td>
+    <td>~30% damage reduction.</td>
+    <td>Mega Venusaur, Seel, Dewgong, Munchlax, Snorlax, Azurill, Marill, Azumarill, Miltank, Spheal, Sealeo, Walrein, Makuhita, Hariyama, Spoink, Grumpig</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Tinted Lens</td>
+    <td>If the Pokemon uses a move that is not very effective, the move's power goes up.</td>
+    <td>Roughly neutral damage.</td>
+    <td>Venonat, Venomoth, Yanmega, Illumise</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Torrent</td>
+    <td>When the Pokemon's HP is low, the power of Water-type moves goes up.</td>
+    <td>Power Boost: x1.5</td>
+    <td>Squirtle, Wartortle, Blastoise, Totodile, Croconaw, Feraligatr, Mudkip, Marshtomp, Swampert</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Tough Claws</td>
+    <td>Contact moves, such as Take Down and Scratch, become more powerful.</td>
+    <td>-</td>
+    <td>Mega Charizard X, Mega Metagross, Mega Aerodactyl</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Trace</td>
+    <td>The Pokemon copies the Ability of a Pokemon that uses a move against it. The Pokemon can copy the Ability of an enemy or a teammate. The effects last until the Pokemon goes to a different floor.</td>
+    <td>-</td>
+    <td>Mega Alakazam, Porygon, Porygon2, Ralts, Kirlia, Gardevoir</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Truant</td>
+    <td>When the Pokemon uses a move, it will get the Truant condition. Also, if an enemy Pokemon is next to a sleeping Pokemon with this Ability, the enemy will sometimes get the Yawning condition.</td>
+    <td>-</td>
+    <td>Slakoth, Slaking</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="v" colspan="4" class="highlightGray centeredText">V</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Vital Spirit</td>
+    <td>The Pokemon is protected from the Sleep, Napping, Yawning, and Nightmare conditions.</td>
+    <td>-</td>
+    <td>Mankey, Primeape, Delibird, Vigoroth</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Volt Absorb</td>
+    <td>The Pokemon absorbs Electric-type moves to restore its HP.</td>
+    <td>Restores 20% HP.</td>
+    <td>Jolteon, Chinchou, Lanturn</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td id="w" colspan="4" class="highlightGray centeredText">W</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Water Absorb</td>
+    <td>The Pokemon absorbs Water-type moves to restore its HP.</td>
+    <td>Restores 20% HP.</td>
+    <td>Poliwag, Poliwhirl, Poliwrath, Politoed, Vaporeon, Lapras, Wooper, Quagsire, Mantyke, Mantine</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Water Veil</td>
+    <td>This Ability protects the Pokemon from getting a Burn.</td>
+    <td>-</td>
+    <td>Goldeen, Seaking, Wailmer, Wailord</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>White Smoke</td>
+    <td>The Pokemon's Attack, Defense, Sp. Atk, Sp. Def, accuracy, and evasiveness won't be lowered.</td>
+    <td>-</td>
+    <td>Torkoal</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Wonder Guard</td>
+    <td>The Pokemon takes no damage from attacks or moves that are not super effective - but it takes damage from other things, such as weather and traps.</td>
+    <td>Can't Skill Swap / Role Play</td>
+    <td>Shedinja</td>
   </tr>
 </table>

@@ -978,7 +978,7 @@ metaDescription: "Camp details for Pokemon Mystery Dungeon: Rescue Team DX."
   </tr>
     <tr>
     <td rowspan="3" class="camp_background"><img src="../images/camps/darkness_ridge.jpg"/></td>
-    <td>Purchase for 800 Poke</td>
+    <td>Purchase for 800 Poke -OR- clear Frosty Forest</td>
   </tr>
   <tr>
     <th>Pokemon</th>

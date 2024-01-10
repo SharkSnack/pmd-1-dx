@@ -8,7 +8,7 @@ metaDescription: "Mt. Freeze dungeon guide for Pokemon Mystery Dungeon: Rescue T
   <img src="../images/areas/mt_freeze.jpg"/><img src="../images/areas/mt_freeze_2.jpg"/>
 </div>
 
-[Introduction]
+Final dungeon of the fugitive arc, and this time there isn't a boss fight at the end.<br/>Once you clear this dungeon, you'll return to your Rescue Team base and can access Pokemon Square again.<br/>Hail and Sandstorm (via Pupitar) weather both appear, so consider bringing orbs or healing items as a counter.<br/>Pineco can know Bug Bite, so use ranged attacks to keep your Oran Berries and Tiny Reviver Seeds safe.<br/>Glalie can know Sheer Cold which instantly KOs a target, so don't let it act when adjacent.
 
 # Overview
 
@@ -108,18 +108,18 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 
 |Floor|Image|Name|Rate|Lv|HP|Atk|Def|SpA|SpD|Spe|Exp|Ability + Moves|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|1-4|![Vigoroth](../images/pokemon/288.png)|Vigoroth<br/>![Normal](../images/type/normal.gif)|%|22|58<br/><span class="redText">72</span>|38<br/><span class="redText">37</span>|38<br/><span class="redText">27</span>|34<br/><span class="redText">34</span>|30<br/><span class="redText">28</span>|40|42|Vital Spirit<br/>Reversal / Scratch / Focus Energy /<br/>Encore / Uproar / Fury Swipes / Endure|
-|1-5|![Seel](../images/pokemon/086.png)|Seel<br/>![Water](../images/type/water.gif)|%|22|65<br/><span class="redText">68</span>|37<br/><span class="redText">36</span>|38<br/><span class="redText">27</span>|34<br/><span class="redText">34</span>|38<br/><span class="redText">27</span>|38|41|Thick Fat or Hydration<br/>Headbutt / Growl / Water Sport / Rest /<br/>Icy Wind / Encore / Ice Shard|
-|1-5|![Zangoose](../images/pokemon/335.png)|Zangoose<br/>![Normal](../images/type/normal.gif)|%|22|58<br/><span class="redText">73</span>|50<br/><span class="redText">40</span>|34<br/><span class="redText">32</span>|34<br/><span class="redText">32</span>|34<br/><span class="redText">30</span>|41|43|Immunity<br/>Scratch / Leer / Quick Attack / Slash /<br/>Fury Cutter / Pursuit / Hone Claws /<br/>Revenge|
-|3-5<br/>7-8<br/>11-20<br/><span class="highlightOrange">Foe</span>|![Lickilicky](../images/pokemon/463.png)<br/><br/>![Shiny](../images/shiny/463.png)|Lickilicky<br/>![Normal](../images/type/normal.gif)|%|22|66<br/><span class="redText">355</span>|38<br/><span class="redText">72</span>|38<br/><span class="redText">45</span>|38<br/><span class="redText">74</span>|38<br/><span class="redText">45</span>|35|550|Own Tempo or Oblivious<br/>Lick / Wring Out / Power Whip / Wrap /<br/>Supersonic / Defense Curl / Stomp /<br/>Knock Off<br/><span class="orangeText">※ Friend Bow required to recruit.</span>|
-|4-8|![Pineco](../images/pokemon/204.png)|Pineco<br/>![Bug](../images/type/bug.gif)|%|22|57<br/><span class="redText">57</span>|45<br/><span class="redText">38</span>|49<br/><span class="redText">31</span>|34<br/><span class="redText">32</span>|34<br/><span class="redText">29</span>|32|44|Sturdy<br/>Tackle / Protect / Bide / Bug Bite /<br/>Take Down / Rapid Spin / Self-Destruct|
-|6-12|![Chimecho](../images/pokemon/358.png)|Chimecho<br/>![Psychic](../images/type/psychic.gif)|%|22|57<br/><span class="redText">65</span>|34<br/><span class="redText">36</span>|34<br/><span class="redText">25</span>|45<br/><span class="redText">39</span>|34<br/><span class="redText">26</span>|38|35|Levitate<br/>Healing Wish / Synchronoise / Wrap /<br/>Growl / Astonish / Confusion / Yawn /<br/>Psywave / Take Down / Extrasensory|
-|6-12|![Pupitar](../images/pokemon/247.png)|Pupitar<br/>![Rock](../images/type/rock.gif) ![Ground](../images/type/ground.gif)|%|30|65<br/><span class="redText">70</span>|50<br/><span class="redText">41</span>|45<br/><span class="redText">27</span>|45<br/><span class="redText">35</span>|45<br/><span class="redText">28</span>|47|40|Shed Skin<br/>Bite / Leer / Sandstorm / Screech /<br/>Chip Away / Rock Slide / Scary Face /<br/>Thrash|
-|7-12|![Swablu](../images/pokemon/333.png)|Swablu<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|%|22|57<br/><span class="redText">80</span>|37<br/><span class="redText">34</span>|38<br/><span class="redText">30</span>|34<br/><span class="redText">35</span>|38<br/><span class="redText">29</span>|38|50|Natural Cure<br/>Peck / Growl / Astonish / Sing / Mist /<br/>Fury Attack / Safeguard / Round /<br/>Disarming Voice / Natural Gift|
-|11-20|![Shelgon](../images/pokemon/372.png)|Shelgon<br/>![Dragon](../images/type/dragon.gif)|%|30|65<br/><span class="redText">66</span>|60<br/><span class="redText">46</span>|50<br/><span class="redText">29</span>|45<br/><span class="redText">42</span>|40<br/><span class="redText">27</span>|47|52|Rock Head<br/>Rage / Ember / Leer / Bite / Protect /<br/>Dragon Breath / Headbutt / Crunch /<br/>Focus Energy / Dragon Claw|
-|13-20|![Seviper](../images/pokemon/336.png)|Seviper<br/>![Poison](../images/type/poison.gif)|%|22|58<br/><span class="redText">75</span>|46<br/><span class="redText">47</span>|34<br/><span class="redText">27</span>|46<br/><span class="redText">40</span>|34<br/><span class="redText">28</span>|38|55|Shed Skin<br/>Wrap / Swagger / Bite / Poison Tail /<br/>Lick / Feint / Screech / Poison Fang /<br/>Glare / Venoshock|
-|13-20|![Slaking](../images/pokemon/289.png)|Slaking<br/>![Normal](../images/type/normal.gif)|%|36|71<br/><span class="redText">70</span>|60<br/><span class="redText">42</span>|52<br/><span class="redText">30</span>|51<br/><span class="redText">45</span>|42<br/><span class="redText">25</span>|59|51|Truant<br/>Swagger / Hammer Arm / Counter /<br/>Fling / Scratch / Yawn / Encore /<br/>Slack Off / Feint Attack / Amnesia /<br/>Covet / Chip Away / Punishment<br/><span class="orangeText">※ Spawns sleeping.</span>|
-|16-20|![Glalie](../images/pokemon/362.png)|Glalie<br/>![Ice](../images/type/ice.gif)|%|42|74<br/><span class="redText">69</span>|59<br/><span class="redText">45</span>|54<br/><span class="redText">28</span>|59<br/><span class="redText">44</span>|49<br/><span class="redText">25</span>|74|59|Inner Focus or Ice Body<br/>Powder Snow / Leer / Double Team /<br/>Sheer Cold / Ice Shard / Freeze-Dry /<br/>Bite / Ice Fang / Headbutt / Protect /<br/>Icy Wind / Forst Breath / Crunch<br/><span class="orangeText">※ Can Mega Evolve.</span>|
+|1-4|![Vigoroth](../images/pokemon/288.png)|Vigoroth<br/>![Normal](../images/type/normal.gif)|10.8%|22|58<br/><span class="redText">72</span>|38<br/><span class="redText">37</span>|38<br/><span class="redText">27</span>|34<br/><span class="redText">34</span>|30<br/><span class="redText">28</span>|40<br/><span class="redText">40</span>|42|<span class="highlightYellow">Vital Spirit</span><br/>Reversal / Scratch / Focus Energy /<br/><span class="caution">Encore</span> / <span class="caution">Uproar</span> / <span class="extreme">Fury Swipes</span> / Endure|
+|1-5|![Seel](../images/pokemon/086.png)|Seel<br/>![Water](../images/type/water.gif)|10.8%|22|65<br/><span class="redText">68</span>|37<br/><span class="redText">36</span>|38<br/><span class="redText">27</span>|34<br/><span class="redText">34</span>|38<br/><span class="redText">27</span>|38<br/><span class="redText">38</span>|41|<span class="highlightYellow">Thick Fat</span> or Hydration<br/>Headbutt / Growl / Water Sport / Rest /<br/><span class="caution">Icy Wind</span> / <span class="caution">Encore</span> / Ice Shard|
+|1-5|![Zangoose](../images/pokemon/335.png)|Zangoose<br/>![Normal](../images/type/normal.gif)|10.8%|22|58<br/><span class="redText">73</span>|50<br/><span class="redText">40</span>|34<br/><span class="redText">32</span>|34<br/><span class="redText">32</span>|34<br/><span class="redText">30</span>|41<br/><span class="redText">41</span>|43|Immunity<br/>Scratch / Leer / Quick Attack / <span class="caution">Slash</span> /<br/>Fury Cutter / Pursuit / <span class="boost">Hone Claws</span> /<br/><span class="caution">Revenge</span>|
+|3-5<br/>7-8<br/>11-20<br/><span class="highlightOrange">Foe</span>|![Lickilicky](../images/pokemon/463.png)<br/><br/>![Shiny](../images/shiny/463.png)|Lickilicky<br/>![Normal](../images/type/normal.gif)|-6.4%|22|66<br/><span class="redText">355</span>|38<br/><span class="redText">72</span>|38<br/><span class="redText">45</span>|38<br/><span class="redText">74</span>|38<br/><span class="redText">45</span>|35<br/><span class="redText">35</span>|550|<span class="highlightYellow">Own Tempo</span> or Oblivious<br/>Lick / <span class="extreme">Wring Out</span> / <span class="caution">Power Whip</span> / Wrap /<br/><span class="extreme">Supersonic</span> / <span class="boost">Defense Curl</span> / Stomp /<br/><span class="caution">Knock Off</span><br/><span class="orangeText">※ Friend Bow required to recruit.</span>|
+|4-8|![Pineco](../images/pokemon/204.png)|Pineco<br/>![Bug](../images/type/bug.gif)|10.8%|22|57<br/><span class="redText">57</span>|45<br/><span class="redText">38</span>|49<br/><span class="redText">31</span>|34<br/><span class="redText">32</span>|34<br/><span class="redText">29</span>|32<br/><span class="redText">32</span>|44|<span class="highlightYellow">Sturdy</span><br/>Tackle / Protect / Bide / <span class="item">Bug Bite</span> /<br/><span class="caution">Take Down</span> / Rapid Spin / Self-Destruct|
+|6-12|![Chimecho](../images/pokemon/358.png)|Chimecho<br/>![Psychic](../images/type/psychic.gif)|10.8%|22|57<br/><span class="redText">65</span>|34<br/><span class="redText">36</span>|34<br/><span class="redText">25</span>|45<br/><span class="redText">39</span>|34<br/><span class="redText">26</span>|38<br/><span class="redText">38</span>|35|<span class="highlightYellow">Levitate</span><br/>Healing Wish / Synchronoise / Wrap /<br/>Growl / Astonish / Confusion / <span class="caution">Yawn</span> /<br/><span class="caution">Psywave</span> / Take Down / <span class="caution">Extrasensory</span>|
+|6-12|![Pupitar](../images/pokemon/247.png)|Pupitar<br/>![Rock](../images/type/rock.gif) ![Ground](../images/type/ground.gif)|10.8%|30|65<br/><span class="redText">70</span>|50<br/><span class="redText">41</span>|45<br/><span class="redText">27</span>|45<br/><span class="redText">35</span>|45<br/><span class="redText">28</span>|47<br/><span class="redText">47</span>|40|<span class="highlightYellow">Shed Skin</span><br/>Bite / Leer / <span class="extreme">Sandstorm</span> / <span class="extreme">Screech</span> /<br/>Chip Away / Rock Slide / Scary Face /<br/><span class="extreme">Thrash</span>|
+|7-12|![Swablu](../images/pokemon/333.png)|Swablu<br/>![Normal](../images/type/normal.gif) ![Flying](../images/type/flying.gif)|10.8%|22|57<br/><span class="redText">80</span>|37<br/><span class="redText">34</span>|38<br/><span class="redText">30</span>|34<br/><span class="redText">35</span>|38<br/><span class="redText">29</span>|38<br/><span class="redText">38</span>|50|<span class="highlightYellow">Natural Cure</span><br/>Peck / Growl / Astonish / <span class="extreme">Sing</span> / Mist /<br/><span class="extreme">Fury Attack</span> / <span class="caution">Safeguard</span> / Round /<br/>Disarming Voice / Natural Gift|
+|11-20|![Shelgon](../images/pokemon/372.png)|Shelgon<br/>![Dragon](../images/type/dragon.gif)|10.8%|30|65<br/><span class="redText">66</span>|60<br/><span class="redText">46</span>|50<br/><span class="redText">29</span>|45<br/><span class="redText">42</span>|40<br/><span class="redText">27</span>|47<br/><span class="redText">47</span>|52|Rock Head<br/>Rage / Ember / Leer / Bite / Protect /<br/><span class="caution">Dragon Breath</span> / Headbutt / Crunch /<br/>Focus Energy / <span class="caution">Dragon Claw</span>|
+|13-20|![Seviper](../images/pokemon/336.png)|Seviper<br/>![Poison](../images/type/poison.gif)|10.8%|22|58<br/><span class="redText">75</span>|46<br/><span class="redText">47</span>|34<br/><span class="redText">27</span>|46<br/><span class="redText">40</span>|34<br/><span class="redText">28</span>|38<br/><span class="redText">38</span>|55|<span class="highlightYellow">Shed Skin</span><br/>Wrap / <span class="extreme">Swagger</span> / Bite / <span class="caution">Poison Tail</span> /<br/>Lick / Feint / <span class="extreme">Screech</span> / <span class="extreme">Poison Fang</span> /<br/><span class="extreme">Glare</span> / Venoshock|
+|13-20|![Slaking](../images/pokemon/289.png)|Slaking<br/>![Normal](../images/type/normal.gif)|10.8%|36|71<br/><span class="redText">70</span>|60<br/><span class="redText">42</span>|52<br/><span class="redText">30</span>|51<br/><span class="redText">45</span>|42<br/><span class="redText">25</span>|59<br/><span class="redText">59</span>|51|<span class="highlightOrange">Truant</span><br/><span class="extreme">Swagger</span> / Hammer Arm / <span class="caution">Counter</span> /<br/>Fling / Scratch / <span class="caution">Yawn</span> / <span class="caution">Encore</span> /<br/>Slack Off / Feint Attack / <span class="boost">Amnesia</span> /<br/><span class="extreme">Covet</span> / <span class="caution">Chip Away</span> / Punishment<br/><span class="orangeText">※ Spawns sleeping.</span>|
+|16-20|![Glalie](../images/pokemon/362.png)|Glalie<br/>![Ice](../images/type/ice.gif)|-2.2%|42|74<br/><span class="redText">69</span>|59<br/><span class="redText">45</span>|54<br/><span class="redText">28</span>|59<br/><span class="redText">44</span>|49<br/><span class="redText">25</span>|74<br/><span class="redText">74</span>|59|Inner Focus or Ice Body<br/>Powder Snow / Leer / Double Team /<br/><span class="extreme">Sheer Cold</span> / Ice Shard / <span class="caution">Freeze-Dry</span> /<br/>Bite / <span class="caution">Ice Fang</span> / Headbutt / Protect /<br/><span class="extreme">Icy Wind</span> / <span class="extreme">Forst Breath</span> / Crunch<br/><span class="orangeText">※ Can Mega Evolve.</span>|
 
 #### Fainted
 
@@ -248,39 +248,6 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 |Switcher Wand|0.00302%|
 |Tunnel Wand|0.00302%|
 |Whirlwind Wand|0.00302%|
-
-#### Pretty Box
-
-|Name|Rate|
-|-|-|
-|Bronze Dojo Ticket|30.8%|
-|Oran Berry|11.5%|
-|Calcium|0.689%|
-|Carbos|0.689%|
-|Iron|0.689%|
-|Protein|0.689%|
-|Rainbow Gummi|34.4%|
-|Sitrus Berry|0.689%|
-|Zinc|0.689%|
-|(Random TM)|19.2%|
-
-#### Deluxe Box
-
-|Name|Rate|
-|-|-|
-|Gold Dojo Ticket|3.48%|
-|Silver Dojo Ticket|13.9%|
-|Reviver Seed|6.5%|
-|Tiny Reviver Seed|6.5%|
-|Calcium|0.934%|
-|Carbos|0.934%|
-|DX Gummi|23.3%|
-|Iron|0.934%|
-|Protein|0.934%|
-|Rainbow Gummi|23.3%|
-|Sitrus Berry|0.934%|
-|Zinc|0.934%|
-|(Random TM)|17.4%|
 
 # Traps
 

@@ -27,12 +27,12 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
   if (hasChildren) {
     switch (items[0].label) {
       case 'blank-scroll-guide': // guides
-        items[0] = { items:[], label: 'blank-scroll-guide', title: 'Blank Scroll', url: '/guides/blank-scroll-guide'};
-        break;
-      case '001': // pokemon
         items = [];
-        items[0] = { items:[], label: 'starters', title: 'Starters', url: '/pokemon/starters'};
-        items[1] = { items:[], label: '001-100', title: 'No. 001 - 100', url: '/pokemon/001-100'};
+        break;
+      case 'best-moves': // pokemon
+        items[0] = { items:[], label: 'pokedex', title: 'Pokedex', url: '/pokemon/pokedex'};
+        items[1] = { items:[], label: 'best-moves', title: 'Best Moves', url: '/pokemon/best-moves'};
+        items[2] = { items:[], label: 'shiny-pokemon', title: 'Shiny', url: '/pokemon/shiny-pokemon'};
         break;
       case 'testest': // items
         items[0] = { items:[], label: 'price-chart', title: 'Price Chart', url: '/items/price-chart'};

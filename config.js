@@ -42,8 +42,7 @@ const config = {
       '/pokemon',
       '/items',
       '/system',
-      '/dungeons',
-      '/other'
+      '/dungeons'
     ],
     collapsedNav: [],
     links: [],
