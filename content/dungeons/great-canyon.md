@@ -8,8 +8,6 @@ metaDescription: "Great Canyon dungeon guide for Pokemon Mystery Dungeon: Rescue
   <img src="../images/areas/great_canyon.jpg"/><img src="../images/areas/great_canyon_2.jpg"/>
 </div>
 
-Another dungeon without a boss fight - The fugitive arc of the story begins after clearing this dungeon.<br/>Once you enter Pokemon Square, you won't be able to visit camps, go to other dungeons, or take on bulletin board jobs.<br/>If your stock of wands, seeds, orbs, and so on are low, consider collecting some items before clearing this dungeon.<br/>Don't forget to use Dojo Tickets if you want to learn a specific level up move before the fugitive arc.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,8 @@ Another dungeon without a boss fight - The fugitive arc of the story begins afte
     <td>Unlock Lapis Cave.</td>
   </tr>
 </table>
+
+Another dungeon without a boss fight - The fugitive arc of the story begins after clearing this dungeon.<br/>Once you enter Pokemon Square, you won't be able to visit camps, go to other dungeons, or take on bulletin board jobs.<br/>If your stock of wands, seeds, orbs, and so on are low, consider collecting some items before clearing this dungeon.<br/>Don't forget to use Dojo Tickets if you want to learn a specific level up move before the fugitive arc.
 
 # Needed Camps
 

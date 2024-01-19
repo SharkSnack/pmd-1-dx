@@ -8,8 +8,6 @@ metaDescription: "Sinister Woods dungeon guide for Pokemon Mystery Dungeon: Resc
   <img src="../images/areas/sinister_woods.jpg"/><img src="../images/areas/sinister_woods_2.jpg"/>
 </div>
 
-Dungeon where you can find Big Apples, and a boss fight against 3 Pokemon appears at the end.<br/>If you want an easier boss fight, you can recruit a Sableye using [Wonder Mail](/system/wonder-mail) and add it to your team.<br/>When attacking Gengar, consider using a weaker move first since Cursed Body can seal the move you use.<br/>Status conditions are basically ineffective against Ekans thanks to its boss properties + Shed Skin.<br/>Medicham can boost its attack via Meditate, so try to take it out quickly.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,23 @@ Dungeon where you can find Big Apples, and a boss fight against 3 Pokemon appear
     <td>Unlock Silent Chasm</td>
   </tr>
 </table>
+
+Dungeon where you can find Big Apples, and a boss fight against 3 Pokemon appears at the end.<br/>If you want an easier boss fight, you can recruit a Sableye using [Wonder Mail](/system/wonder-mail) and add it to your team.<br/>Otherwise, try to recruit guest party members before the boss to gain a numbers advantage.<br/>Blast Seeds are particularly effective against Ekans and Medicham due to their low HP.
+
+# Boss Strategy
+
+#### Gengar (298 HP) - Shadow Punch / Hypnosis / Night Shade / Lick
+
+- Gengar's Cursed Body ability can seal your move, so consider using a weaker move first when attacking.
+- Unlike the originals, Ground type attacks are super effective since Gengar no longer has Levitate.
+
+#### Ekans (149 HP) - Wrap / Leer / Poison Sting / Bite
+
+- Status conditions are not very effective against Ekans thanks to their boss properties + Shed Skin.
+
+#### Medicham (149 HP) - Zen Headbutt / Meditate / Confusion / Feint
+
+- Medicham can boost their attack via Meditate, so try to defeat them quickly.
 
 # Needed Camps
 

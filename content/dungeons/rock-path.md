@@ -8,8 +8,6 @@ metaDescription: "Rock Path dungeon guide for Pokemon Mystery Dungeon: Rescue Te
   <img src="../images/areas/rock_path.jpg"/><img src="../images/areas/rock_path_2.jpg"/>
 </div>
 
-Optional dungeon you can challenge only if you wipe out in Lapis Cave or before you enter Mt. Blaze.<br/>There's a very high chance for a shop to generate on B4F, so the idea is to restock items here if needed.<br/>You just return to the location before you entered Rock Path after clearing it, and there's no reward.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -73,6 +71,8 @@ Optional dungeon you can challenge only if you wipe out in Lapis Cave or before 
     <td>None</td>
   </tr>
 </table>
+
+Optional dungeon you can challenge only if you wipe out in Lapis Cave or before you enter Mt. Blaze.<br/>There's a very high chance for a shop to generate on B4F, so the idea is to restock items here if needed.<br/>You just return to the location before you entered Rock Path after clearing it, and there's no reward.
 
 # Needed Camps
 

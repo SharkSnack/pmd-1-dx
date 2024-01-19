@@ -8,8 +8,6 @@ metaDescription: "Waterfall Pond dungeon guide for Pokemon Mystery Dungeon: Resc
   <img src="../images/areas/waterfall_pond.jpg"/><img src="../images/areas/waterfall_pond_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -30,7 +28,7 @@ metaDescription: "Waterfall Pond dungeon guide for Pokemon Mystery Dungeon: Resc
     <th>Radar / Scanning</th>
     <td>No</td>
     <th>Weather</th>
-    <td>Clear: 1-3, 5-8, 10-13, 15-17F<br/>Rain: 4, 9, 14, 18F</td>
+    <td>Rain: 4, 9, 14, 18F</td>
   </tr>
   <tr>
     <th>Dark Halls</th>
@@ -66,9 +64,16 @@ metaDescription: "Waterfall Pond dungeon guide for Pokemon Mystery Dungeon: Resc
     <th>Clear Icon</th>
     <td>None</td>
     <th>Reward</th>
-    <td>Evolution Crystal x 2<br/>Deluxe Box x 1</td>
+    <td>Evolution Crystal x 2, Deluxe Box x 1</td>
   </tr>
 </table>
+
+Optional post-game dungeon featuring many Water types that don't appear in sea type dungeons.<br/>Gyarados (Strong Foe) often causes accidents thanks to its high stats + Hydro Pump or Hyper Beam.<br/>Food items (including seeds and berries) are shop-exclusive and can't be found on the ground.<br/>Evolution Crystals (1000 Poke) can be found in shops, so don't forget to bring some money.
+
+Enemies with Swift Swim can overlap with some Rain Dance users / rainy weather floors:
+
+- Swift Swim: Lotad (1-3F), Goldeen (1-5F), Surskit (4-7F), Magikarp (7-11F), Lombre (13-16F), Feebas (16-18F)
+- Rain Dance: Lotad (1-3F), Poliwag (1-5F), Gyarados (5-18F), Poliwhirl (9-13F)
 
 # Needed Camps
 

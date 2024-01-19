@@ -8,8 +8,6 @@ metaDescription: "Meteor Cave dungeon guide for Pokemon Mystery Dungeon: Rescue 
   <img src="../images/areas/meteor_cave.jpg"/><img src="../images/areas/meteor_cave_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -64,11 +62,24 @@ metaDescription: "Meteor Cave dungeon guide for Pokemon Mystery Dungeon: Rescue 
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_15.jpg"/></td>
     <th>Reward</th>
     <td>Deoxys joins.</td>
   </tr>
 </table>
+
+Dungeon where Deoxys is the only enemy that spawns, and you can't request a rescue if you faint.<br/>The stairs on each floor is protected by the real Deoxys, which must be defeated before you can advance.<br/>Enemies can catch thrown items, so bring a Pokemon with Thrown Item Boost if you plan to use projectiles.<br/>Deoxys has Pressure as its ability and Speed form has high evasion, so bring lots of Max Ethers / Max Elixirs.<br/>A Dark type Pokemon with Feint Attack can be quite effective, but beware of Attack form's Superpower.<br/>※ None of the wild Deoxys can be recruited in this dungeon.
+
+# Boss Strategy
+
+#### Deoxys (1279 HP) - Cosmic Power / Calm Mind / Recover / Teleport
+
+- The real Deoxys essentially tries to stall while the group of 3 mirage Deoxys attack your team.
+    - Attack form has the strongest attacks, so prioritize defeating it first.
+    - Defense form can use Light Screen, so consider bringing a Ban Seed if you're using special attackers.
+    - Speed form has high evasion, so use 100% accuracy attacks like Swift or Shock Wave if possible.
+    - If all 3 mirage Deoxys are defeated, 3 more mirage Deoxys spawn on the next turn.
+- Nullify Orb can be used to disable Pressure, making it easier to use moves like Discharge or Blizzard.
 
 # Pokemon
 

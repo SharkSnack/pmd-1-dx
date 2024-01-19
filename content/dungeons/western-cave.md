@@ -8,8 +8,6 @@ metaDescription: "Western Cave dungeon guide for Pokemon Mystery Dungeon: Rescue
   <img src="../images/areas/western_cave.jpg"/><img src="../images/areas/western_cave_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -64,11 +62,34 @@ metaDescription: "Western Cave dungeon guide for Pokemon Mystery Dungeon: Rescue
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_10.jpg"/></td>
     <th>Reward</th>
     <td>Mewtwo joins</td>
   </tr>
 </table>
+
+Post-game dungeon featuring Psychic types, along with a boss fight with Mewtwo.<br/>Enemies are Lv60, so it's a nice place to grind experience points if you have XP Boost (Rare Quality).<br/>Like Solar Cave, a Dark type with Brutal Swing or an Ominous Wind user like Masquerain is nice to have,<br/>but remember that Ominous Wind doesn't work on Girafarig, Smeargle, Spinda, or Zangoose without Steamroll.<br/>Zangoose (5-19F) and Lunatone (8-12F) can know <span class="redText">Embargo</span>, which prevents Reviver Seeds from working.<br/>Jynx (1-6F) can know <span class="redText">Perish Song</span>, so it's best to bring an ally with Refresh, Aromatherapy, or Heal Bell.
+
+There's a guaranteed Mystery House on 10F, unless it gets overriden by a rescue job or fainted Pokemon.
+
+# Boss Strategy
+
+#### Mewtwo (2400 HP) - Psychic / Shadow Ball / Aura Sphere / Recover
+
+- Mewtwo has high offensive stats, but all of its damage dealing moves are single-target attacks.
+- Recover is the main threat, since it heals 960 HP and Mewtwo has Pressure as an ability.
+    - Either seal Mewtwo's Recover using a Ban Seed, or use All Power-Up Orbs or such.
+- Once Mewtwo's HP falls to 0, it will Mega Evolve into either Mega Mewtwo X or Mega Mewtwo Y.
+    - The Mega Evolution is randomly selected.
+
+#### Mega Mewtwo X (2405 HP) - Psychic / Shadow Ball / Aura Sphere / Brutal Swing
+
+- Mostly the same as Mewtwo, but Brutal Swing hits targets in a 2 tile radius.
+- Mega Mewtwo X is Psychic / Fighting, so Aura Sphere hits a bit harder.
+
+#### Mega Mewtwo Y (2405 HP) - Psystrike / Shadow Ball / Calm Mind / ?
+
+- Mostly the same as Mewtwo, but can boost its Sp. Atk and Sp. Def with Calm Mind.
 
 # Needed Camps
 

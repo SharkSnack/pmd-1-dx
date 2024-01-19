@@ -8,8 +8,6 @@ metaDescription: "Pitfall Valley dungeon guide for Pokemon Mystery Dungeon: Resc
   <img src="../images/areas/pitfall_valley.jpg"/><img src="../images/areas/pitfall_valley_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -64,11 +62,13 @@ metaDescription: "Pitfall Valley dungeon guide for Pokemon Mystery Dungeon: Resc
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_11.jpg"/></td>
     <th>Reward</th>
     <td>Unlock Joyous Tower and Purity Forest<br/>Begin Wish Cave and Silver Trench events</td>
   </tr>
 </table>
+
+Post-game dungeon featuring mostly Flying types, similar to Northern Range - But there's no boss this time.<br/>Aerodactyl (15-25F) can have Pressure as its ability, so consider bringing more Max Ethers than usual.<br/>Room-wide attackers include Ledyba (1-6F), Butterfree (4-9F), and Masquerain (10-14F).<br/>Overall, the first clear without Exeggutor roaming around shouldn't be very difficult.
 
 # Needed Camps
 

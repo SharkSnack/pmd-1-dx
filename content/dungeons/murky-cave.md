@@ -8,8 +8,6 @@ metaDescription: "Murky Cave dungeon guide for Pokemon Mystery Dungeon: Rescue T
   <img src="../images/areas/murky_cave.jpg"/><img src="../images/areas/murky_cave_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -64,11 +62,13 @@ metaDescription: "Murky Cave dungeon guide for Pokemon Mystery Dungeon: Rescue T
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_13.jpg"/></td>
     <th>Reward</th>
-    <td>Gardevoir joins.<br/>Receive a Mobile Scarf from Gengar.<br/>Vitamins can appear in Pokemon Square's Kecleon Shop.</td>
+    <td>Gardevoir joins.<br/>Receive a Mobile Scarf from Gengar.<br/>Vitamins can appear in Pokemon Square's Shop.</td>
   </tr>
 </table>
+
+Post-game dungeon that concludes the events related to Gengar and Gardevoir from the main story.<br/>The monster table uses Waterfall Pond as a base, but there are a few additions like Typhlosion and Espeon.<br/>Lotad and Lombre's Nature Power changes to Shadow Ball in this dungeon, which Gengar is weak to.<br/>That said, Gengar has decent attack power and uses Shadow Ball a lot, so it shouldn't be very hard.<br/>Goldeen and Magikarp are extremely rare, so it's best to recruit them in Waterfall Pond instead.
 
 # Needed Camps
 

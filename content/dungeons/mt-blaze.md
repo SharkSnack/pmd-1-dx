@@ -8,8 +8,6 @@ metaDescription: "Mt. Blaze dungeon guide for Pokemon Mystery Dungeon: Rescue Te
   <img src="../images/areas/mt_blaze.jpg"/><img src="../images/areas/mt_blaze_2.jpg"/>
 </div>
 
-Dungeon that introduces weather, with specific floors having Sunny weather which boosts Fire type attacks.<br/>Lava tiles also make an appearance, which can't be traversed by most non-Fire or Flying type Pokemon.<br/>Enemies that have Flame Body or Magma Armor as an ability are effectively immune to thrown items.<br/>Slugma and Fearow can destroy edible items, and Numel can have a room-wide attack called Magnitude.<br/>There's a checkpoint during the first clear between 12F and 13F, and Moltres appears as a boss on 15F.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -30,7 +28,7 @@ Dungeon that introduces weather, with specific floors having Sunny weather which
     <th>Radar / Scanning</th>
     <td>Yes</td>
     <th>Weather</th>
-    <td>Clear: 1-4, 6, 8, 10, 12F<br/>Sunny: 5, 7, 9, 11, 13-14F</td>
+    <td>Sunny: 5, 7, 9, 11, 13-14F</td>
   </tr>
   <tr>
     <th>Dark Halls</th>
@@ -69,6 +67,27 @@ Dungeon that introduces weather, with specific floors having Sunny weather which
     <td>Unlock Frosty Forest</td>
   </tr>
 </table>
+
+Dungeon that has Sunny weather on set floors, which boosts Fire attacks and weakens Water attacks.<br/>Lava tiles also make an appearance, which can't be traversed by most non-Fire or Flying type Pokemon.<br/>Slugma and Fearow can destroy edible items, and Numel can know a room-wide attack called Magnitude.<br/>Enemies who have Flame Body or Magma Armor as an ability are effectively immune to thrown items.<br/>There's a checkpoint during the first clear between 12F and 13F, and Moltres appears as a boss on 15F.
+
+# Boss Strategy
+
+### First Clear
+
+#### Moltres (664 HP) - Ember / Wing Attack / Fire Spin / Agility
+
+- Moltres is a large size Pokemon, so Ember can hit multiple targets.
+    - Split up at the start instead of staying in the starting position, even if you have a ranged attack.
+- Blast Seeds and Geo Pebbles can be used instead of moves if you lack decent damage dealing options.
+    - For example, if you chose a Grass starter and only have Grass type attacks.
+
+### Rematch
+
+#### Moltres (1987 HP) - Fire Spin / Flamethrower / Air Slash / Ancient Power
+
+- Similar to the first clear, but Flamethrower has a range of 4 tiles.
+- Ancient Power has a chance of boosting all of Moltres's stats by 1 stage.
+    - To hopefully prevent this, avoid bringing party members who are weak to Rock type attacks.
 
 # Needed Camps
 

@@ -8,8 +8,6 @@ metaDescription: "Remains Island dungeon guide for Pokemon Mystery Dungeon: Resc
   <img src="../images/areas/remains_island.jpg"/><img src="../images/areas/remains_island_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -30,7 +28,7 @@ metaDescription: "Remains Island dungeon guide for Pokemon Mystery Dungeon: Resc
     <th>Radar / Scanning</th>
     <td>No</td>
     <th>Weather</th>
-    <td>Clear: 1, 3-6, 8, 10, 12F<br/>Random: 2, 7, 9, 11F</td>
+    <td>Random: 2, 7, 9, 11F</td>
   </tr>
   <tr>
     <th>Dark Halls</th>
@@ -69,6 +67,12 @@ metaDescription: "Remains Island dungeon guide for Pokemon Mystery Dungeon: Resc
     <td>False Swipe TM x 1<br/>Pretty Box x 2</td>
   </tr>
 </table>
+
+Optional post-game dungeon that is automatically unlocked after clearing Sky Tower.<br/>Enemies offer an average of \~85 experience points, which is much higher than main story dungeons.<br/>Despite the dungeon's depth being a shallow 13 floors, there are 42 Pokemon in the monster table.<br/>Wild encounters for Munchlax, Snubbull, and Chingling are exclusive to this dungeon.
+
+Orbs are shop-exclusive, so don't forget to bring some if you're concerned about Monster Houses.<br/>Shops have a smaller selection of possible TMs instead of the usual random selection from the full list.<br/>Possible TMs = Aurora Veil, Brutal Swing, Dragon Claw, Leech Life, Smart Strike, and Work Up.
+
+The False Swipe TM you get at the end can be taught to Absol to help make it easier to recruit Pokemon.<br/>Overall, it's not a bad place to grind immediately after clearing the main story if you're out of dojo tickets,<br/>but Unown Relic is better if you have a Ghost type recruited and can afford the 9000 Poke to unlock it.
 
 # Needed Camps
 

@@ -8,8 +8,6 @@ metaDescription: "Northwind Field dungeon guide for Pokemon Mystery Dungeon: Res
   <img src="../images/areas/northwind_field.jpg"/><img src="../images/areas/northwind_field_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -30,7 +28,7 @@ metaDescription: "Northwind Field dungeon guide for Pokemon Mystery Dungeon: Res
     <th>Radar / Scanning</th>
     <td>No</td>
     <th>Weather</th>
-    <td>Clear: 1-11, 16-21, 23-29F<br/>Sandstorm: 12-15, 22F</td>
+    <td>Sandstorm: 12-15, 22F</td>
   </tr>
   <tr>
     <th>Dark Halls</th>
@@ -69,6 +67,16 @@ metaDescription: "Northwind Field dungeon guide for Pokemon Mystery Dungeon: Res
     <td>Unlock Mt. Faraway</td>
   </tr>
 </table>
+
+3rd dungeon in the Mirage Pokemon related series of events, featuring quite a few Water types.<br/>The weather is set to Sandstorm on 12-15F (4 floors in a row), so bring a counter for weather damage.<br/>That said, Golduck (6-13F) and Poliwhirl (14-19F) can change the weather, so it's often not as bad as it sounds.<br/>Potential <span class="redText">Perish Song</span> users include Jynx (12-19F) and Politoed (26-29F) - Bring Health Orbs or such as a counter.<br/>Otherwise, similar to other dungeons with many Water types, expect lots of ranged moves like Bubble Beam.
+
+# Boss Strategy
+
+#### Suicune (1887 HP) - Ice Fang / Leer / Bubble Beam / Rain Dance
+
+- Suicune can make it rain to boost the power of its Bubble Beam - Water Absorb (ability) is a great counter.
+- Health Orb turns Leer into a wasted turn, and also prevents Ice Fang from inflicting Frozen status.
+- The rematch version is the exact same fight, but with a 100% recruit rate.
 
 # Needed Camps
 

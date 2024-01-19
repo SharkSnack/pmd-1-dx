@@ -8,10 +8,6 @@ metaDescription: "Mt. Steel dungeon guide for Pokemon Mystery Dungeon: Rescue Te
   <img src="../images/areas/mt_steel.jpg"/><img src="../images/areas/mt_steel_2.jpg"/>
 </div>
 
-Dungeon that slightly dials up the difficulty with a simple boss fight at the end.<br/>The party's HP, PP, and Belly is fully restored before the boss, so there's no need to heal up beforehand.<br/>You can be rescued by another player in this game even if you wipe out during a boss fight,<br/>so there isn't a whole lot of danger of losing items unless you choose not to use rescues.
-
-If you return to this dungeon after clearing it, you might run into a Rapidash Strong Foe.<br/>Strong Foes are powerful pokemon that you should generally run away from at this point in the game.<br/>They always drop a Deluxe Box and offer a lot of experience points if you manage to defeat them,<br/>but they can't be recruited unless you have a Friend Bow (obtained in a post-game dungeon).
-
 # Overview
 
 <table class="dungeonOverview">
@@ -71,6 +67,17 @@ If you return to this dungeon after clearing it, you might run into a Rapidash S
     <td>Unlock Sinister Woods (3 days later)</td>
   </tr>
 </table>
+
+Dungeon that slightly dials up the difficulty with a simple boss fight at the end.<br/>The party's HP, PP, and Belly is fully restored before the boss, so there's no need to heal up beforehand.<br/>You can be rescued by another player in this game even if you wipe out during a boss fight,<br/>so there isn't a whole lot of danger of losing items unless you choose not to use rescues.
+
+If you return to this dungeon after clearing it, you might run into a Rapidash Strong Foe.<br/>Strong Foes are powerful pokemon that you should generally run away from at this point in the game.<br/>They always drop a Deluxe Box and offer a lot of experience points if you manage to defeat them,<br/>but they can't be recruited unless you have a Friend Bow (obtained in a post-game dungeon).
+
+# Boss Strategy
+
+#### Skarmory (179 HP) - Leer / Peck / Metal Claw / Air Cutter
+
+- Blast Seeds make short work of this boss due to its low HP.
+- Otherwise, throw a Slumber Seed to try and prevent the boss from acting.
 
 # Needed Camps
 

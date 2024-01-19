@@ -8,8 +8,6 @@ metaDescription: "Frosty Forest dungeon guide for Pokemon Mystery Dungeon: Rescu
   <img src="../images/areas/frosty_forest.jpg"/><img src="../images/areas/frosty_forest_2.jpg"/>
 </div>
 
-Dungeon featuring some evolved Pokemon with stronger attacks, along with Ditto.<br/>Ditto is usually disguised as an item at the start of a floor, and appears when you try to pick the item up.<br/>It only knows the move Transform, which can leave other party members confused when used by an enemy.<br/>When a Pokemon transforms, most characteristics are copied except for the Pokemon's stats.<br/>There's a checkpoint during the first clear between 9F and 10F, and Articuno appears as a boss on 14F.<br/>Absol joins your team after clearing this dungeon, and always has Squeeze Out as a Rare Quality.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,28 @@ Dungeon featuring some evolved Pokemon with stronger attacks, along with Ditto.<
     <td>Absol joins<br/>Unlock Mt. Freeze</td>
   </tr>
 </table>
+
+Dungeon featuring some evolved Pokemon with stronger attacks, along with Ditto.<br/>Ditto is usually disguised as an item at the start of a floor, and appears when you try to pick the item up.<br/>It only knows the move Transform, which can leave other party members confused when used by an enemy.<br/>When a Pokemon transforms, most characteristics are copied except for the Pokemon's stats.<br/>There's a checkpoint during the first clear between 9F and 10F, and Articuno appears as a boss on 14F.<br/>Absol joins your team after clearing this dungeon, and always has Squeeze Out as a Rare Quality.
+
+# Boss Strategy
+
+### First Clear
+
+#### Articuno (766 HP) - Icy Wind / Ice Shard / Mist / Powder Snow
+
+- Articuno is a large size Pokemon, so Powder Snow can hit multiple targets.
+    - Don't line up in front of Articuno.
+- Mist protects the boss's stats from being lowered.
+
+### Rematch
+
+#### Articuno (2187 HP) - Freeze-Dry / Reflect / Mist / Blizzard
+
+- Blizzard is a room-wide Ice type attack that has a chance to inflict Frozen status.
+- Freeze-Dry is super effective against Water types, despite being an Ice type move.
+    - This move can also inflict Frozen status.
+- If you plan on using physical attacks, bring a Pokemon who knows Brick Break to remove Reflect.
+    - Aggron resists Ice type attacks and gains boosted Sp. Def if you use Sandstorm.
 
 # Needed Camps
 

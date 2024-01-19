@@ -8,8 +8,6 @@ metaDescription: "Northern Range dungeon guide for Pokemon Mystery Dungeon: Resc
   <img src="../images/areas/northern_range.jpg"/><img src="../images/areas/northern_range_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,16 @@ metaDescription: "Northern Range dungeon guide for Pokemon Mystery Dungeon: Resc
     <td>Unlock Pitfall Valley</td>
   </tr>
 </table>
+
+Post-game dungeon featuring lots of Flying types, along with a boss fight with Latios at the end.<br/>A number of enemies can know Pluck or Bug Bite, so carry more Apples and Tiny Reviver Seeds than usual.<br/>Poke is common and shops never generate, so don't count on stocking up on tons of items during the run.<br/>Hail occurs for 3 floors in a row near the end, so it's best to bring something to counter weather damage.<br/>Room-wide attackers include Beautifly (1-6F), Xatu (1-7F), and Ledian (6-11F).
+
+# Boss Strategy
+
+#### Latios (1418 HP) - Dragon Breath / Psywave / Luster Purge / Heal Block
+
+- Latios doesn't have a room-wide move, so you're safe at a distance if you avoid lining up with them.
+- Psywave's damage scales based on level and the boss is only Lv35, so it actually doesn't hit very hard.
+- Heal Block doesn't prevent Tiny Reviver Seeds from working, so don't worry about it too much.
 
 # Needed Camps
 

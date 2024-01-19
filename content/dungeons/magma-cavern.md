@@ -8,10 +8,6 @@ metaDescription: "Magma Cavern dungeon guide for Pokemon Mystery Dungeon: Rescue
   <img src="../images/areas/magma_cavern.jpg"/><img src="../images/areas/magma_cavern_2.jpg"/>
 </div>
 
-Dungeon featuring lots of enemies with room-wide attacks - bring more Tiny Reviver Seeds than usual.<br/>Room-wide attacks include Magnitude (Sandshrew, Graveler, Sandslash, Golem) and Earth Power (Magcargo).<br/>Remember to bring plenty of apples, since the only food item that can be found is Grimy Food.<br/>That said, Sparkling Tiles can have Big Apples, so it's not hopeless if you forget to bring apples.<br/>Similar to Mt. Blaze, don't forget that enemies with Flame Body or Magma Armor burn up thrown items.<br/>Lastly, don't forget to bring an Invitation in case you encounter a Mystery House.
-
-There's a checkpoint during the first clear between 23F and 24F, and Groudon appears as a boss on 26F.<br/>Groudon is far tougher than any of the previous bosses you've fought, so don't hesitate to use items.<br/>Unlike the DS version, orbs are effective during boss fights in this game.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -71,6 +67,36 @@ There's a checkpoint during the first clear between 23F and 24F, and Groudon app
     <td>Unlock Sky Tower</td>
   </tr>
 </table>
+
+Dungeon featuring lots of enemies with room-wide attacks - bring more Tiny Reviver Seeds than usual.<br/>Room-wide attacks include Magnitude (Sandshrew, Graveler, Sandslash, Golem) and Earth Power (Magcargo).<br/>Remember to bring plenty of apples, since the only food item that can be found is Grimy Food.<br/>That said, Sparkling Tiles can have Big Apples, so it's not hopeless if you forget to bring apples.<br/>Similar to Mt. Blaze, don't forget that enemies with Flame Body or Magma Armor burn up thrown items.<br/>Lastly, don't forget to bring an Invitation in case you encounter a Mystery House.
+
+There's a checkpoint during the first clear between 23F and 24F, and Groudon appears as a boss on 26F.<br/>Groudon is far tougher than any of the previous bosses you've fought, so don't hesitate to use items.<br/>Unlike the originals, orbs are effective during boss fights in Rescue Team DX.
+
+# Boss Strategy
+
+### First Clear
+
+#### Groudon (1572 HP) - Roar / Precipice Blades / Hammer Arm / Lava Plume
+
+- Groudon's ability sets the weather to Sunny, so Fire type attacks are boosted.
+    - Water type attacks are technically super effective, but they deal less damage when it's Sunny.
+- The boss might create distance with Roar and snipe the knocked back Pokemon with Precipice Blades.
+    - Precipice Blades has a range of 4 tiles.
+
+### Rematch
+
+#### Groudon (2187 HP) - Eruption / Precipice Blades / Hammer Arm / Earthquake
+
+- Eruption (Fire type) and Earthquake (Ground type) are both room-wide attacks.
+    - If your party's stats are still on the low side, don't forget to bring some All Protect Orbs.
+    - Flygon is immune to Ground type attacks and resists Fire type attacks, making it a great attacker.
+
+#### Primal Groudon (1942 HP) - Eruption / Precipice Blades / Hammer Arm / Earthquake
+
+- The boss is now a dual-type (Ground / Fire) Pokemon.
+    - Eruption hits a bit harder thanks to having a STAB (same type attack bonus) boost.
+- Desolate Land (ability) makes it immune to Water type attacks, and prevents the weather from being changed.
+    - Use a Nullify Orb if you want to use Water type attacks, Rain Dance, or a Rainy Orb.
 
 # Needed Camps
 
@@ -140,7 +166,7 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |26|![Groudon](../images/pokemon/383.png)|Groudon<br/>![Ground](../images/type/ground.gif)|-|28|72<br/><span class="redText">1572</span>|71<br/><span class="redText">71</span>|61<br/><span class="redText">61</span>|56<br/><span class="redText">56</span>|47<br/><span class="redText">47</span>|50<br/><span class="redText">50</span>|0|<span class="highlightOrange">Drought</span><br/>Roar / <span class="caution">Precipice Blades</span> /<br/>Hammer Arm / <span class="caution">Lava Plume</span><br/><span class="orangeText">※ First clear.</span>|
 |26<br/><span class="highlightOrange">Rematch</span><br/><span class="highlightYellow">Phase 1</span>|![Groudon](../images/pokemon/383.png)|Groudon<br/>![Ground](../images/type/ground.gif)|-|50|87<br/><span class="redText">2187</span>|98<br/><span class="redText">118</span>|72<br/><span class="redText">92</span>|75<br/><span class="redText">75</span>|57<br/><span class="redText">57</span>|93<br/><span class="redText">93</span>|0|<span class="highlightOrange">Drought</span><br/><span class="extreme">Eruption</span> / <span class="caution">Precipice Blades</span> /<br/>Hammer Arm / <span class="extreme">Earthquake</span><br/><span class="orangeText">※ Available post-game.</span>|
-|26<br/><span class="highlightOrange">Rematch</span><br/><span class="highlightYellow">Phase 2</span>|![Primal Groudon](../images/pokemon/383-p.jpg)|Primal Groudon<br/>![Ground](../images/type/ground.gif) ![Fire](../images/type/fire.gif)|100%|50|92<br/><span class="redText">1942</span>|95<br/><span class="redText">115</span>|73<br/><span class="redText">93</span>|78<br/><span class="redText">78</span>|62<br/><span class="redText">62</span>|91<br/><span class="redText">91</span>|0|<span class="highlightOrange">Desolate Land</span><br/><span class="extreme">Eruption</span> / <span class="caution">Precipice Blades</span> /<br/>Hammer Arm / <span class="extreme">Earthquake</span><br/><span class="orangeText">※ Rare Quality: Notorious Restoration</span>|
+|26<br/><span class="highlightOrange">Rematch</span><br/><span class="highlightYellow">Phase 2</span>|![Primal Groudon](../images/pokemon/383-p.jpg)|Primal Groudon<br/>![Ground](../images/type/ground.gif) ![Fire](../images/type/fire.gif)|100%|50|92<br/><span class="redText">1942</span>|95<br/><span class="redText">115</span>|73<br/><span class="redText">93</span>|78<br/><span class="redText">78</span>|62<br/><span class="redText">62</span>|91<br/><span class="redText">91</span>|0|<span class="highlightOrange">Desolate Land</span><br/><span class="extreme">Eruption</span> / <span class="caution">Precipice Blades</span> /<br/>Hammer Arm / <span class="extreme">Earthquake</span>|
 
 #### Fainted
 

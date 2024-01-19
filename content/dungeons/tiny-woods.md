@@ -8,8 +8,6 @@ metaDescription: "Tiny Woods dungeon guide for Pokemon Mystery Dungeon: Rescue T
   <img src="../images/areas/tiny_woods.jpg"/><img src="../images/areas/tiny_woods_2.jpg"/>
 </div>
 
-Tutorial dungeon where advice about the basics of dungeon gameplay appears as you progress.<br/>Items you pick up are kept after clearing the dungeon, so be sure to check every room with items.<br/>It's probably safe to say the only way to fail it is if you intentionally collapse.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,8 @@ Tutorial dungeon where advice about the basics of dungeon gameplay appears as yo
     <td>Unlock Thunderwave Cave</td>
   </tr>
 </table>
+
+Tutorial dungeon where advice about the basics of dungeon gameplay is displayed as you progress.<br/>Items you pick up are kept after clearing the dungeon, so be sure to check every room with items.<br/>It's probably safe to say the only way to fail it is if you intentionally collapse.
 
 # Needed Camps
 

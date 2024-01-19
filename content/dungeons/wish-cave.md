@@ -8,8 +8,6 @@ metaDescription: "Wish Cave dungeon guide for Pokemon Mystery Dungeon: Rescue Te
   <img src="../images/areas/wish_cave.jpg"/><img src="../images/areas/wish_cave_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -64,11 +62,15 @@ metaDescription: "Wish Cave dungeon guide for Pokemon Mystery Dungeon: Rescue Te
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_12.jpg"/></td>
     <th>Reward</th>
-    <td>Have a wish granted by Jirachi.</td>
+    <td>Have a wish granted by Jirachi (2nd+).</td>
   </tr>
 </table>
+
+Level reset dungeon where you start at Lv5, but unlike Joyous Tower and Purity Forest, you can bring items.<br/>Enemies who know Bug Bite don't appear until mid game, and there aren't many threats during the first clear.<br/>One strategy to increase consistency is to bring lots of Oran Berries and boost your party's max HP.<br/>Max Elixirs, Perfect Apples, and Link Boxes can't be found at all.
+
+Enemies other than Shedinja will always catch thrown items, except for Silver Spikes.<br/>One option to get around this is to choose a leader who has Thrown Item Boost (Rare Quality).<br/>Keep an eye on the message log so you don't get caught off guard by an item picked up by an enemy.
 
 # Wishes
 
@@ -83,6 +85,14 @@ metaDescription: "Wish Cave dungeon guide for Pokemon Mystery Dungeon: Rescue Te
 |A Camp|Receive a rescue team camp for free.<br/>(Return to wish selection if all camps have already been obtained)|
 |More Strength|Receive 16 items that permanently boost stats.|
 |Something Good!|Receive an option to recruit a random (non-boss / non-Kecleon / non-Gen 4+) Pokemon.<br/>(Pokemon who shows up won't be a duplicate unless all available Pokemon are in the team)|
+
+# Boss Strategy
+
+#### Jirachi (1478 HP) - Zen Headbutt / Confusion / Swift / Lucky Chant
+
+- Jirachi has Serene Grace as an ability, so secondary effects of moves are more likely to occur.
+    - Zen Headbutt can cause flinching, and Confusion can inflict Confused status.
+- Health Orb and All Power-Up Orb are very effective, but Jirachi is immune to Slumber Wand.
 
 # Pokemon
 

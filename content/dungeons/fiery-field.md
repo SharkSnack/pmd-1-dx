@@ -8,8 +8,6 @@ metaDescription: "Fiery Field dungeon guide for Pokemon Mystery Dungeon: Rescue 
   <img src="../images/areas/fiery_field.jpg"/><img src="../images/areas/fiery_field_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -30,7 +28,7 @@ metaDescription: "Fiery Field dungeon guide for Pokemon Mystery Dungeon: Rescue 
     <th>Radar / Scanning</th>
     <td>No</td>
     <th>Weather</th>
-    <td>Clear: 1-6, 10-14, 18-26F<br/>Sunny: 7-9, 15-17, 27-29F</td>
+    <td>Sunny: 7-9, 15-17, 27-29F</td>
   </tr>
   <tr>
     <th>Dark Halls</th>
@@ -69,6 +67,16 @@ metaDescription: "Fiery Field dungeon guide for Pokemon Mystery Dungeon: Rescue 
     <td>Unlock Lightning Field</td>
   </tr>
 </table>
+
+One of the dungeons among the post-game event routes that can be unlocked after clearing Stormy Sea.<br/>Enemies in this dungeon are generally higher level and tougher than Buried Relic and Northern Range.<br/>Room-wide attackers include Numel (1-4F), Torkoal (8-14F), Camerupt (15-21F), and Magcargo (17-23F).<br/>Being a volcano type dungeon, the only proper food item that can be found on the ground is Grimy Food.<br/>However, seeds and berries can still be found, so you won't starve if you have Small Stomach.
+
+# Boss Strategy
+
+#### Entei (1892 HP) - Stomp / Roar / Flamethrower / Fire Spin
+
+- Entei might try to create distance with Roar and snipe the knocked back Pokemon with Flamethrower.
+- It doesn't know Sunny Day, so making it rain via Rain Dance, Rainy Orb, or Drizzle is very effective.
+- The rematch version is the exact same fight, but with a 100% recruit rate.
 
 # Needed Camps
 

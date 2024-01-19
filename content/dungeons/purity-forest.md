@@ -8,8 +8,6 @@ metaDescription: "Purity Forest dungeon guide for Pokemon Mystery Dungeon: Rescu
   <img src="../images/areas/purity_forest.jpg"/><img src="../images/areas/purity_forest_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -64,11 +62,17 @@ metaDescription: "Purity Forest dungeon guide for Pokemon Mystery Dungeon: Rescu
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_16.jpg"/></td>
     <th>Reward</th>
     <td>Celebi joins</td>
   </tr>
 </table>
+
+Level reset dungeon where you begin at Lv5 - Unlike the originals, 99F is a regular dungeon floor in DX.<br/>Only 1 party member is allowed when entering, and you can't bring any items or money into the dungeon.<br/>The leader's Rare Quality remains active, but all moves reset to their level 1 state without any boosts.<br/>The leader's starting moves are randomly selected from their naturally learnable move pool up to level 5.<br/>Enemies can be recruited during the run, but they act as guests instead of full party members,<br/>meaning they have infinite PP, don't gain experience points, and their AI setting can't be changed.
+
+Empowerment Seeds can't be found, so don't try to rely on a strategy that involves a Mega Evolution.<br/>This is the only dungeon in the game where Pierce Band, Phase Ribbon, and Trap Scarf can be obtained.<br/>However, all 3 items are Shop (0.0722%) or Monster House (0.0481%) exclusive and are incredibly rare.
+
+Enemies other than Shedinja will always catch thrown items, except for Silver Spikes.<br/>One option to get around this is to choose a leader who has Thrown Item Boost (Rare Quality).<br/>Keep an eye on the message log so you don't get caught off guard by an item picked up by an enemy.
 
 # Pokemon
 

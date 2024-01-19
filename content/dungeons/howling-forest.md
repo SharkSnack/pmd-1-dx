@@ -8,8 +8,6 @@ metaDescription: "Howling Forest dungeon guide for Pokemon Mystery Dungeon: Resc
   <img src="../images/areas/howling_forest.jpg"/><img src="../images/areas/howling_forest_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -64,11 +62,15 @@ metaDescription: "Howling Forest dungeon guide for Pokemon Mystery Dungeon: Resc
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_6.jpg"/></td>
     <th>Reward</th>
     <td>Smeargle joins</td>
   </tr>
 </table>
+
+Post-game dungeon that can be unlocked shortly after clearing the main story.<br/>Despite the ease of access and short length, it can be tricky to clear it immediately following Sky Tower.<br/>If you wish to do so, you'll likely want a move like Swords Dance or Nasty Plot to boost damage output.<br/>Magcargo (Magma Cavern) with Earth Power, Flame Burst, and Shell Smash is particularly good as an attacker.<br/>For support, Vileplume (Great Canyon) with Aromatherapy, Moonlight, and Stun Spore is a good choice.
+
+Evolution Crystals (1000 Poke) can appear in shops, so don't forget to bring some money.<br/>Most enemies resist Psychic type moves, and Uproar doesn't work against the Whismur line even with Steamroll.<br/>There's a guaranteed Mystery House on 10F, unless it gets overriden by a rescue job or fainted Pokemon.<br/>The Lv25 Smeargle who joins always has Own Tempo as an ability, and can't be released.
 
 # Needed Camps
 

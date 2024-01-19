@@ -8,8 +8,6 @@ metaDescription: "Wyvern Hill dungeon guide for Pokemon Mystery Dungeon: Rescue 
   <img src="../images/areas/wyvern_hill.jpg"/><img src="../images/areas/wyvern_hill_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,8 @@ metaDescription: "Wyvern Hill dungeon guide for Pokemon Mystery Dungeon: Rescue 
     <td>Deluxe Box x 5</td>
   </tr>
 </table>
+
+Optional post-game dungeon featuring lots of Dragon types, and a mediocre reward.<br/>Enemies besides Totodile and Ludicolo are weak to Ice type attacks, so Blizzard is very effective here.<br/>Exeggcute (Strong Foe) can know extremely dangerous moves like Barrage, Bullet Seed, and Uproar,<br/>so bring lots of Tiny Reviver Seeds if your party's stats are still on the low side.
 
 # Needed Camps
 

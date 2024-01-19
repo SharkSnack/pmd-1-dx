@@ -8,8 +8,6 @@ metaDescription: "Buried Relic dungeon guide for Pokemon Mystery Dungeon: Rescue
   <img src="../images/areas/buried_relic.jpg"/><img src="../images/areas/buried_relic_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -64,11 +62,31 @@ metaDescription: "Buried Relic dungeon guide for Pokemon Mystery Dungeon: Rescue
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_8.jpg"/></td>
     <th>Reward</th>
     <td>Deluxe Box x 4, Friend Bow x 1,<br/>Evolution Crystal x 8</td>
   </tr>
 </table>
+
+An easier 99F post-game dungeon that can be unlocked soon after clearing Stormy Sea.<br/>Apples and berries can be found on the floor, so there isn't a big risk of starvation unlike Silver Trench.<br/>Vitamins that permanently boost stats can be found within the dungeon's walls, similar to Unown Relic.<br/>However, <span class="redText">Apple Traps</span> can be generated, so avoid carrying a loose Mobile Scarf in your Toolbox.<br/>Mew can very rarely be encountered on 40, 60, 70, 90, or 98F until it's been recruited.<br/>There are boss fights on 15F (Regirock), 25F (Regice), and 35F (Registeel).
+
+HP, PP, and sticky items are restored on 15, 25, and 35F even after you've recruited the bosses.<br/>Ditto (Strong Foe) is often shiny when it's disguised as an item - Orbs on the ground are always Ditto.<br/>The fainted Pokemon list includes many Pokemon that are exclusive to level reset dungeons in the wild.<br/>For some reason, late game enemies also appear on 50-51F, giving you a chance to recruit them early.
+
+# Boss Strategy
+
+#### Regirock (1368 HP) - Rock Throw / Ancient Power / Bulldoze / Stomp
+
+- Only has close range attacks, so 4 tile Grass or Water type moves are great against it.
+
+#### Regice (1468 HP) - Icy Wind / Amnesia / Charge Beam / Stomp
+
+- Icy Wind is a 4 tile move, so consider using a Pounce Wand or Surround Wand to rush it down.
+- Amnesia raises Sp. Def by 2 stages, so physical attacks are best against it.
+
+#### Registeel (1568 HP) - Metal Claw / Curse / Iron Defense / Stomp
+
+- Only has close range attacks, but can boost its Defense and Attack stats.
+- Iron Defense raises Defense by 2 stages, so special attacks are best against it.
 
 # Needed Camps
 
@@ -177,7 +195,7 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 |32-37|![Ampharos](../images/pokemon/181.png)|Ampharos<br/>![Electric](../images/type/electric.gif)|14.4%|35|69<br/><span class="redText">120</span>|49<br/><span class="redText">54</span>|47<br/><span class="redText">44</span>|56<br/><span class="redText">61</span>|47<br/><span class="redText">45</span>|52<br/><span class="redText">52</span>|87|Static<br/>Thunder Punch / Zap Cannon / Charge /<br/>Electro Ball / Dragon Pulse / Fire Punch /<br/>Take Down / Cotton Spore / Ion Deluge /<br/>Growl / Confuse Ray / Thunder Shock /<br/>Tackle / Thunder Wave / Power Gem /<br/>Magnetic Flux<br/><span class="orangeText">※ Can Mega Evolve.</span>|
 |38-45|![Hitmonlee](../images/pokemon/106.png)|Hitmonlee<br/>![Fighting](../images/type/fighting.gif)|8.2%|35|63<br/><span class="redText">110</span>|69<br/><span class="redText">66</span>|42<br/><span class="redText">42</span>|42<br/><span class="redText">40</span>|62<br/><span class="redText">46</span>|58<br/><span class="redText">58</span>|88|Limber or Reckless<br/>Double Kick / Reversal / Close Combat /<br/>Mega Kick / Revenge / Meditate / Feint /<br/>Rolling Kick / Jump Kick / Brick Break /<br/>Focus Energy / High Jump Kick /<br/>Mind Reader|
 |40-47|![Wobbuffet](../images/pokemon/202.png)|Wobbuffet<br/>![Psychic](../images/type/psychic.gif)|8.2%|35|93<br/><span class="redText">150</span>|42<br/><span class="redText">58</span>|47<br/><span class="redText">42</span>|42<br/><span class="redText">58</span>|42<br/><span class="redText">41</span>|49<br/><span class="redText">49</span>|75|Shadow Tag<br/>Mirror Coat / Counter / Destiny Bond /<br/>Safeguard|
-|40<br/>50<br/>60<br/>70<br/>80<br/>90<br/>98|![Mew](../images/pokemon/151.png)|Mew<br/>![Psychic](../images/type/psychic.gif)|8.2%|35|78<br/><span class="redText">160</span>|63<br/><span class="redText">63</span>|52<br/><span class="redText">57</span>|63<br/><span class="redText">73</span>|52<br/><span class="redText">57</span>|58<br/><span class="redText">58</span>|100|Synchronize<br/>Metronome / Reflect Type / Transform /<br/>Mega Punch / Pound / Psychic<br/><span class="orangeText">※ Can also spawn after floor start.</span>|
+|40<br/>60<br/>70<br/>90<br/>98|![Mew](../images/pokemon/151.png)|Mew<br/>![Psychic](../images/type/psychic.gif)|8.2%|35|78<br/><span class="redText">160</span>|63<br/><span class="redText">63</span>|52<br/><span class="redText">57</span>|63<br/><span class="redText">73</span>|52<br/><span class="redText">57</span>|58<br/><span class="redText">58</span>|100|Synchronize<br/>Metronome / Reflect Type / Transform /<br/>Mega Punch / Pound / Psychic<br/><span class="orangeText">※ Can also spawn after floor start.</span>|
 |41-47|![Growlithe](../images/pokemon/058.png)|Growlithe<br/>![Fire](../images/type/fire.gif)|10.8%|35|78<br/><span class="redText">110</span>|69<br/><span class="redText">66</span>|52<br/><span class="redText">41</span>|63<br/><span class="redText">64</span>|47<br/><span class="redText">38</span>|58<br/><span class="redText">58</span>|84|Intimidate or Flash Fire<br/>Bite / Roar / Ember / Leer / Odor Sleuth /<br/>Helping Hand / Flame Wheel / Reversal /<br/>Fire Fang / Take Down / Flame Burst /<br/>Agility / Retaliate / Flamethrower|
 |40-49|![Machoke](../images/pokemon/067.png)|Machoke<br/>![Fighting](../images/type/fighting.gif)|8.2%|35|71<br/><span class="redText">113</span>|68<br/><span class="redText">61</span>|49<br/><span class="redText">41</span>|45<br/><span class="redText">60</span>|49<br/><span class="redText">42</span>|54<br/><span class="redText">54</span>|82|Guts or No Guard<br/>Low Kick / Leer / Revenge / Vital Throw /<br/>Karate Chop / Low Sweep / Knock Off /<br/>Dual Chop / Seismic Toss / Foresight /<br/>Wake-Up Slap / Focus Energy|
 |41-50|![Heracross](../images/pokemon/214.png)|Heracross<br/>![Bug](../images/type/bug.gif) ![Fighting](../images/type/fighting.gif)|10.8%|35|68<br/><span class="redText">112</span>|69<br/><span class="redText">72</span>|47<br/><span class="redText">41</span>|42<br/><span class="redText">55</span>|52<br/><span class="redText">46</span>|63<br/><span class="redText">63</span>|95|Swarm or Guts<br/>Arm Thrust / Bullet Seed / Night Slash /<br/>Tackle / Counter / Horn Attack / Endure /<br/>Leer / Feint / Aerial Ace / Chip Away /<br/>Take Down / Fury Attack / Brick Break /<br/>Pin Missile<br/><span class="orangeText">※ Can Mega Evolve.</span>|

@@ -8,8 +8,6 @@ metaDescription: "Grand Sea dungeon guide for Pokemon Mystery Dungeon: Rescue Te
   <img src="../images/areas/grand_sea.jpg"/><img src="../images/areas/grand_sea_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,8 @@ metaDescription: "Grand Sea dungeon guide for Pokemon Mystery Dungeon: Rescue Te
     <td>Deluxe Box x 2, Protein x 1, Iron x 1,<br/>Calcium x 1, Zinc x 1, Carbos x 1</td>
   </tr>
 </table>
+
+Optional post-game dungeon that can be unlocked right after clearing the main story.<br/>The lineup of enemies is similar to Stormy Sea, but rain doesn't occur so Swift Swim isn't an issue.<br/>Since it's a sea type dungeon, food items (including seeds and berries) can't be found on the ground.<br/>There are lots of Agility users and ranged attackers, so don't lower your guard even if there's distance.<br/>If you're worried, consider bringing room-wide attackers or an ally who knows Spore.
 
 # Needed Camps
 

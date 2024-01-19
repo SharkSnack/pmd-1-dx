@@ -8,8 +8,6 @@ metaDescription: "Darknight Relic dungeon guide for Pokemon Mystery Dungeon: Res
   <img src="../images/areas/darknight_relic.jpg"/><img src="../images/areas/darknight_relic_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,12 @@ metaDescription: "Darknight Relic dungeon guide for Pokemon Mystery Dungeon: Res
     <td>Deluxe Box x 1, Brutal Swing TM x 1,<br/>Sludge Bomb TM x 1, Snarl TM x 1,<br/>Shadow Ball TM x 1, Dark Pulse TM x 1</td>
   </tr>
 </table>
+
+Optional post-game dungeon that's short but surprisingly difficult if you're not prepared for it.<br/>The difficulty is mainly due to <span class="redText">Misdreavus</span> and <span class="redText">Shedinja</span>, along with nasty traps like Grudge and Summon traps.<br/>※ Misdreavus and Shedinja appear on all floors.
+
+Misdreavus is Lv46 in this dungeon, so Perish Song is one of its possible known moves.<br/>Perish Song has low accuracy but makes any Pokemon faint after 3 turns, and targets all party members.<br/>The status can be cured using moves (Refresh, Heal Bell, etc.) or items (Health Orb, Heal Seed, etc.),<br/>but if you have neither on hand, you're likely to quickly burn through your stock of Tiny Reviver Seeds.
+
+Other enemies will try to defeat Shedinja, often resulting in a Mega Evolved or Awakened enemy.<br/>Mega Gengar (Shadow Tag ability) can be a problem in particular if you only have Normal type moves,<br/>since you won't be able to deal damage (unless you have the Steamroll Rare Quality) or run away from it.
 
 # Needed Camps
 

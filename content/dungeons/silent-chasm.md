@@ -8,8 +8,6 @@ metaDescription: "Silent Chasm dungeon guide for Pokemon Mystery Dungeon: Rescue
   <img src="../images/areas/silent_chasm.jpg"/><img src="../images/areas/silent_chasm_2.jpg"/>
 </div>
 
-This time there isn't a boss fight, so the goal is to simply reach the target depth.<br/>Weedle can eat food and seed items (including Tiny Reviver Seeds) in your Toolbox using Bug Bite.<br/>Teddiursa, Farfetch'd, and Beedrill can have powerful multi-hit attacks that potentially one-shot you.<br/>Beedrill in particular can use Twineedle from up to 4 tiles away, so beware if you're a Grass type.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,8 @@ This time there isn't a boss fight, so the goal is to simply reach the target de
     <td>Unlock Mt. Thunder</td>
   </tr>
 </table>
+
+This time there isn't a boss fight, so the goal is to simply reach the target depth.<br/>Weedle can eat food and seed items (including Tiny Reviver Seeds) in your Toolbox using Bug Bite.<br/>Teddiursa, Farfetch'd, and Beedrill can have powerful multi-hit attacks that potentially one-shot you.<br/>Beedrill in particular can use Twineedle from up to 4 tiles away, so beware if you're a Grass type.
 
 # Needed Camps
 

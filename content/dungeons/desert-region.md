@@ -8,8 +8,6 @@ metaDescription: "Desert Region dungeon guide for Pokemon Mystery Dungeon: Rescu
   <img src="../images/areas/desert_region.jpg"/><img src="../images/areas/desert_region_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -30,7 +28,7 @@ metaDescription: "Desert Region dungeon guide for Pokemon Mystery Dungeon: Rescu
     <th>Radar / Scanning</th>
     <td>No</td>
     <th>Weather</th>
-    <td>Clear: 1-3, 5, 7-8, 11-14, 16, 19F<br/>Sandstorm: 4, 10, 17-18F<br/>Sunny: 6, 9, 15F</td>
+    <td>Sunny: 6, 9, 15F<br/>Sandstorm: 4, 10, 17-18F</td>
   </tr>
   <tr>
     <th>Dark Halls</th>
@@ -69,6 +67,10 @@ metaDescription: "Desert Region dungeon guide for Pokemon Mystery Dungeon: Rescu
     <td>Golden Fossil (10) x 2<br/>Golden Spike (10) x 2<br/>Deluxe Box x 1</td>
   </tr>
 </table>
+
+Optional post-game dungeon featuring mostly Ground, Rock, and Ghost type Pokemon.<br/>Grimy Food is the only proper food item that can be found on the ground, but Big Apples are common in shops.<br/>There seems to be a higher chance for Sparkling Tiles to generate in this dungeon compared to other places.<br/>The weather alternates between Clear, Sunny, and Sandstorm throughout the dungeon.<br/>Nosepass (1-6F) can also occasionally cause the weather to change by using Sandstorm.
+
+Overall, it shouldn't be too bad as long as you watch for room-wide attackers (Sandshrew, Sandslash, Trapinch).<br/>Remember that Rock type Pokemon gain a Sp. Def boost during Sandstorm weather.
 
 # Needed Camps
 

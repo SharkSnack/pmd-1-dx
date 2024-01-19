@@ -8,12 +8,6 @@ metaDescription: "Sky Tower dungeon guide for Pokemon Mystery Dungeon: Rescue Te
   <img src="../images/areas/sky_tower.jpg"/><img src="../images/areas/sky_tower_2.jpg"/>
 </div>
 
-The final dungeon of the main story which features a variety of weather effects and some meaner enemies.<br/>Ghost types and Levitate users appear, so starters like Cubone, Eevee, Meowth, and Skitty can have a harder time.<br/>If possible, bring a team member that has the Steamroll Rare Quality to alleviate type disadvantage issues.<br/>Otherwise, you could use TMs to learn moves that can damage Ghost types, or just throw projectiles.<br/>Dusclops (19-27F) and Aerodactyl (22-31F) both have the Pressure ability, so bring lots of Max Ethers.<br/>Forretress (1-6F) can know Bug Bite, so don't let it eat valuable apples, Oran Berries, Tiny Reviver Seeds, etc.
-
-Otherwise, you'll want to be careful around room-wide and ranged attackers.<br/>Room-wide attackers include Masquerain (1-8F), Ledian (12-20F), Venomoth (21-27F), and Flygon (25-31F).<br/>Ranged attackers include Weezing (8-16F), Altaria (12-20F), Tropius (25-32F), Claydol (31-33F), and Salamence (31-33F).<br/>Also be careful around Pursuit users when you have a bad status - Duskull, Dusclops, Scizor, Metagross.
-
-There's a checkpoint during the first clear between 25F and 26F, and Rayquaza appears as a boss on 34F.<br/>Damage dealt to Rayquaza carries forward even if you wipe out, so you'll eventually win if you just keep trying.<br/>Rayquaza's Hyper Beam pierces 10 tiles ahead and is 3 tiles wide, and Twister is also a wide-area attack.<br/>Therefore, try to split up instead of staying in a group to avoid the entire party taking damage.<br/>Unlike the DS version, orbs are effective during boss fights in this game.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -73,6 +67,37 @@ There's a checkpoint during the first clear between 25F and 26F, and Rayquaza ap
     <td>Pokemon can evolve.<br/>Rematch specific bosses.<br/>Begin post-game events, etc.</td>
   </tr>
 </table>
+
+The final dungeon of the main story, featuring a variety of weather effects and some meaner enemies.<br/>There's a checkpoint during the first clear between 25F and 26F, and Rayquaza appears as a boss on 34F.<br/>Ghost types and Levitate users appear, so starters like Cubone, Eevee, Meowth, and Skitty can have a harder time.<br/>If possible, bring a party member that has Steamroll (Rare Quality) to alleviate type disadvantage issues.<br/>Otherwise, you could use TMs to learn moves that can damage Ghost types, or just throw projectiles.<br/>Dusclops (19-27F) and Aerodactyl (22-31F) both have Pressure as a possible ability, so bring lots of Max Ethers.<br/>Forretress (1-6F) can know Bug Bite, so don't let it eat valuable apples, Oran Berries, Tiny Reviver Seeds, etc.
+
+There are also some room-wide and ranged attackers to watch out for.<br/>Room-wide attackers include Masquerain (1-8F), Ledian (12-20F), Venomoth (21-27F), and Flygon (25-31F).<br/>Ranged attackers include Weezing (8-16F), Altaria (12-20F), Tropius (25-32F), Claydol (31-33F), and Salamence (31-33F).<br/>Beware of Pursuit users when you have a bad status - Duskull, Dusclops, Scizor, Metagross.
+
+# Boss Strategy
+
+### First Clear
+
+#### Rayquaza (1576 HP) - Hyper Voice / Hyper Beam / Extreme Speed / Twister
+
+- Damage dealt to Rayquaza carries forward even if you wipe out, so you'll eventually win if you just keep trying.
+- Rayquaza's Hyper Beam pierces 10 tiles ahead and is 3 tiles wide, and Twister is also a wide-area attack,<br/>so split up instead of staying in a group to avoid the entire party taking damage.
+- Orbs are effective during boss fights in Rescue Team DX.
+
+### Rematch
+
+#### Rayquaza (2300 HP) - Dragon Ascent / Hyper Beam / Extreme Speed / Twister
+
+- The boss has 140 Attack and 110 Sp. Atk, so guest party members will likely faint very quickly.
+- Use moves like Nuzzle or Thunder Wave to keep Rayquaza status-locked while other party members attack.
+- Dragon Ascent is stronger than Hyper Beam, and hits all Pokemon in a 5 x 5 area in front of the user.
+- Pounce Wand or Surround Wand can be nice for when party members become separated by wind.
+
+#### Mega Rayquaza (2905 HP) - Dragon Ascent / Hyper Beam / Extreme Speed / Twister
+
+- Delta Stream removes Mega Rayquaza's Flying type related weaknesses.
+    - Rock, Electric, and Ice type attacks will deal less damage than the first phase.
+    - Counters include using a Nullify Orb or bringing a party member who has Steamroll (Rare Quality).
+- Again, aim to keep Mega Rayquaza status-locked while you let your other party members deal damage.
+- Orbs that buff the entire party like All Power-Up Orb and All Protect Orb are also effective.
 
 # Needed Camps
 

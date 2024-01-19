@@ -8,8 +8,6 @@ metaDescription: "Unown Relic dungeon guide for Pokemon Mystery Dungeon: Rescue 
   <img src="../images/areas/unown_relic.jpg"/><img src="../images/areas/unown_relic_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,8 @@ metaDescription: "Unown Relic dungeon guide for Pokemon Mystery Dungeon: Rescue 
     <td>Hidden Power TM x 1</td>
   </tr>
 </table>
+
+Optional post-game dungeon where only Unown and Ditto appear as enemies.<br/>Vitamins that permanently boost stats can be found within the dungeon's walls, similar to Buried Relic.<br/>However, <span class="redText">Apple Traps</span> can be generated, so avoid carrying a loose Mobile Scarf in your Toolbox.<br/>Unowns only know Hidden Power as an attack, so 4 tile ranged attacks are great against them.<br/>Orb, wand, and gold ribbon category items on the ground are always a disguised Ditto.<br/>Overall, it's a nice place to grind vitamins if you don't have a NSO subscription.
 
 # Needed Camps
 

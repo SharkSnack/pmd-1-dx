@@ -8,12 +8,6 @@ metaDescription: "Uproar Forest dungeon guide for Pokemon Mystery Dungeon: Rescu
   <img src="../images/areas/uproar_forest.jpg"/><img src="../images/areas/uproar_forest_2.jpg"/>
 </div>
 
-Shallow dungeon featuring the Chestnut food item and a boss fight with 3 Mankeys.<br/>Due to story events, you end up needing to collect 3 Chestnuts to progress after clearing this dungeon.<br/>You can almost always find 1 Chestnut on 3F, so at most it should only take 2 additional runs.
-
-Monster Houses - rooms packed with enemies and items - can be generated starting from this dungeon.<br/>They're a decent source of items and experience points if you have room-wide attacks to quickly clear them out,<br/>but otherwise it might be best to avoid entering them unless the stairs happens to be inside.
-
-Starting from this dungeon, Mystery Houses can appear which feature items and one Pokemon you can befriend.<br/>In order to enter a Mystery House, you'll need an Invitation which can be purchased from Kecleon in Pokemon Square.<br/>They're not always in stock at Kecleon's Shop, so it's best to stop by every day and buy any that you see.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -73,6 +67,12 @@ Starting from this dungeon, Mystery Houses can appear which feature items and on
     <td>Remodel Team Base<br/>Unlock Magma Cavern</td>
   </tr>
 </table>
+
+Shallow dungeon featuring the Chestnut food item and a boss fight with 3 Mankeys.<br/>Due to story events, you end up needing to collect 3 Chestnuts to progress after clearing this dungeon.<br/>You can almost always find 1 Chestnut on 3F, so at most it should only take 2 additional runs.
+
+Monster Houses - rooms packed with enemies and items - can be generated starting from this dungeon.<br/>They're a decent source of items and experience points if you have room-wide attacks to quickly clear them out,<br/>but otherwise it might be best to avoid entering them unless the stairs happens to be inside.
+
+Starting from this dungeon, Mystery Houses can appear which feature items and one Pokemon you can befriend.<br/>In order to enter a Mystery House, you'll need an Invitation which can be purchased from Kecleon in Pokemon Square.<br/>They're not always in stock at Kecleon's Shop, so it's best to stop by every day and buy any that you see.
 
 # Needed Camps
 

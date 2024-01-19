@@ -8,8 +8,6 @@ metaDescription: "Lightning Field dungeon guide for Pokemon Mystery Dungeon: Res
   <img src="../images/areas/lightning_field.jpg"/><img src="../images/areas/lightning_field_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -30,7 +28,7 @@ metaDescription: "Lightning Field dungeon guide for Pokemon Mystery Dungeon: Res
     <th>Radar / Scanning</th>
     <td>No</td>
     <th>Weather</th>
-    <td>Clear: 1, 3, 5-21, 25-29F<br/>Rain: 2, 4, 22-24F</td>
+    <td>Rain: 2, 4, 22-24F</td>
   </tr>
   <tr>
     <th>Dark Halls</th>
@@ -69,6 +67,16 @@ metaDescription: "Lightning Field dungeon guide for Pokemon Mystery Dungeon: Res
     <td>Unlock Northwind Field</td>
   </tr>
 </table>
+
+2nd dungeon in the Mirage Pokemon related series of events, featuring lots of Electric types.<br/>Most enemies have the possibility of knowing Discharge (room-wide attack that can cause paralysis).<br/>In addition, Magneton and Manectric can know Electric Terrain which boosts Electric type attacks.<br/>If you want a much easier time, bring a party member who has Lightning Rod as an ability.<br/>A Rhydon with Lightning Rod and Earth Power (taught by Gulpin) is particularly effective.
+
+# Boss Strategy
+
+#### Raikou (1887 HP) - Extrasensory / Bite / Discharge / Reflect
+
+- Lightning Rod makes Raikou's Discharge a non-issue - Again, Rhydon with Earth Power is great.
+- If you plan on using physical attacks, bring a Pokemon who knows Brick Break to remove Reflect.
+- The rematch version is the exact same fight, but with a 100% recruit rate.
 
 # Needed Camps
 

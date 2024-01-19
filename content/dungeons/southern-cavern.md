@@ -8,8 +8,6 @@ metaDescription: "Southern Cavern dungeon guide for Pokemon Mystery Dungeon: Res
   <img src="../images/areas/southern_cavern.jpg"/><img src="../images/areas/southern_cavern_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -66,9 +64,13 @@ metaDescription: "Southern Cavern dungeon guide for Pokemon Mystery Dungeon: Res
     <th>Clear Icon</th>
     <td>None</td>
     <th>Reward</th>
-    <td>Evolution Crystal x 5<br/>Focus Blast TM x 1<br/>Deluxe Box x 2</td>
+    <td>Deluxe Box x 2, Focus Blast TM,<br/>Evolution Crystal x 5</td>
   </tr>
 </table>
+
+Optional post-game dungeon featuring mostly Ground and Rock types.<br/>The depth is on the deeper side, but apples are pretty common so the risk of starvation is low.<br/>Don't forget to bring orbs in case you encounter a Monster House - Orbs are shop-exclusive here.<br/>Many enemies can know a wide-ranged Ground attack like Magnitude, Earth Power, Earthquake, or Bonemerang,<br/>so it's best to avoid bringing party members who are weak to Ground type attacks.
+
+Sandstorm users appear on 12-26F and 31-45F, so consider bringing a Pokemon with Cloud Nine or a Ban Seed.<br/>Otherwise, you'll have to deal with enemies who have boosted Sp. Def (Rock types) or evasion due to Sand Veil.<br/>Enemies with instant-KO attacks include Rhydon (40-49F).
 
 # Needed Camps
 

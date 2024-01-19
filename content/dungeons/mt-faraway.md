@@ -8,8 +8,6 @@ metaDescription: "Mt. Faraway dungeon guide for Pokemon Mystery Dungeon: Rescue 
   <img src="../images/areas/mt_faraway.jpg"/><img src="../images/areas/mt_faraway_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -64,11 +62,20 @@ metaDescription: "Mt. Faraway dungeon guide for Pokemon Mystery Dungeon: Rescue 
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_9.jpg"/></td>
     <th>Reward</th>
     <td>Unlock Western Cave</td>
   </tr>
 </table>
+
+4th dungeon in the Mirage Pokemon related series of events, featuring a mix of powerful foes.<br/>Most enemies are Lv55 and many of them can also Mega Evolve, so expect to get hit by powerful attacks.<br/>Tyranitar (20-30F) has Sand Stream as its ability which changes the floor's weather to Sandstorm,<br/>so there's risk of wiping out if your max HP is low and you didn't bring anything to counter weather damage.<br/>Absol (10-19F) can know <span class="redText">Perish Song</span>, and Glalie (30-40F) can know <span class="redText">Sheer Cold</span>.
+
+# Boss Strategy
+
+#### Ho-Oh (2094 HP) - Whirlwind / Fire Blast / Sacred Fire / Flamethrower
+
+- Similar to Entei, Ho-Oh might try to create distance with Whirlwind and follow up with long-ranged attacks.
+- Rainbow Light weather occurs during the fight, which gradually heals Ho-Oh and protects it from bad statuses.
 
 # Needed Camps
 

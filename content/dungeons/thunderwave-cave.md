@@ -1,5 +1,5 @@
 ---
-title: "Thunderwave"
+title: "Thunderwave Cave"
 metaTitle: "Thunderwave Cave - PMD1 DX Wiki"
 metaDescription: "Thunderwave Cave dungeon guide for Pokemon Mystery Dungeon: Rescue Team DX."
 ---
@@ -7,8 +7,6 @@ metaDescription: "Thunderwave Cave dungeon guide for Pokemon Mystery Dungeon: Re
 <div class="pageTopImage dungeonPageTopImage2">
   <img src="../images/areas/thunderwave_cave.jpg"/><img src="../images/areas/thunderwave_cave_2.jpg"/>
 </div>
-
-Dungeon that notably introduces some electric type Pokemon who can cause Paralyzed status.<br/>Unlike the DS version, most Electric types here can use Electric type attacks like Thunder Shock or Spark,<br/>so you might want to be a little careful around them if you chose a Water type starter or partner.<br/>Otherwise, the only thing to be careful of is Nidoran♀'s Poison Point ability.
 
 # Overview
 
@@ -69,6 +67,8 @@ Dungeon that notably introduces some electric type Pokemon who can cause Paralyz
     <td>Access to Pokemon Square<br/>Unlock Mt. Steel (2 days later)</td>
   </tr>
 </table>
+
+Dungeon that notably introduces some electric type Pokemon who can inflict Paralyzed status.<br/>Unlike the originals, most Electric types here can use Electric type attacks like Thunder Shock or Spark,<br/>so you might want to be a little careful around them if you chose a Water type starter or partner.<br/>Otherwise, the only thing to be careful of is Nidoran♀'s Poison Point ability.
 
 # Needed Camps
 

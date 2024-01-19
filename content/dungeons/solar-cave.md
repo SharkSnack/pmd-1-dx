@@ -8,8 +8,6 @@ metaDescription: "Solar Cave dungeon guide for Pokemon Mystery Dungeon: Rescue T
   <img src="../images/areas/solar_cave.jpg"/><img src="../images/areas/solar_cave_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -66,9 +64,13 @@ metaDescription: "Solar Cave dungeon guide for Pokemon Mystery Dungeon: Rescue T
     <th>Clear Icon</th>
     <td>None</td>
     <th>Reward</th>
-    <td>Deluxe Box x 2, Friend Bow x 1,<br/>Ice Beam TM x 1, Energy Ball TM x 1,<br/>Flamethrower TM x 1</td>
+    <td>Deluxe Box x 2, Friend Bow x 1,<br/>Ice Beam TM, Energy Ball TM, Flamethrower TM</td>
   </tr>
 </table>
+
+Optional post-game dungeon featuring Psychic types, along with good TMs and a Friend Bow at the end.<br/>Friend Bow boosts recruit rate by +12.8% (leader only), and also makes it possible to recruit shiny Strong Foes.<br/>Since it's a post-game dungeon, X-Ray Specs and Goggle Specs can be found in shops or on the ground.<br/>Heracross can appear as a fainted Pokemon - It's possible to reset until you get Rapid Bull's-Eyes (Rare Quality).<br/>Evolution Crystals (1000 Poke) can appear in shops, so don't forget to bring some money.
+
+Jynx (1-6F) can know <span class="redText">Perish Song</span>, so it's best to bring an ally with Refresh, Aromatherapy, or Heal Bell.<br/>Dark types with Brutal Swing or Ominous Wind users like Masquerain make for great attackers here,<br/>but keep in mind that Ominous Wind doesn't work on Girafarig or Aipom without Steamroll.
 
 # Needed Camps
 

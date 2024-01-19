@@ -8,8 +8,6 @@ metaDescription: "Joyous Tower dungeon guide for Pokemon Mystery Dungeon: Rescue
   <img src="../images/areas/joyous_tower.jpg"/><img src="../images/areas/joyous_tower_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,77 @@ metaDescription: "Joyous Tower dungeon guide for Pokemon Mystery Dungeon: Rescue
     <td>Joy Seed x 3, Deluxe Box x 12</td>
   </tr>
 </table>
+
+Optional post-game dungeon where your team starts at Lv5 and no carry-in items are allowed.<br/>The reward isn't worth the effort, but some Pokemon can only be encountered in the wild in this dungeon.<br/>That said, it's often easier to recruit the Joyous Tower species as fainted Pokemon in other dungeons.
+
+Enemies other than Shedinja will always catch thrown items, except for Silver Spikes.<br/>One option to get around this is to bring an ally who has Thrown Item Boost (Rare Quality).<br/>Keep an eye on the message log so you don't get caught off guard by an item picked up by an enemy.
+
+#### Joyous Tower Exclusives
+
+<table>
+  <tr>
+    <td class="highlightGray">Pichu</td>
+    <td>1-4F</td>
+    <td class="highlightGray">Treecko</td>
+    <td>1-4F</td>
+    <td class="highlightGray">Happiny</td>
+    <td>1-4F <sup><span class="redText">*1</span></sup></td>
+    <td class="highlightGray">Bulbasaur</td>
+    <td>1-5F</td>
+    <td class="highlightGray">Chikorita</td>
+    <td>4-7F</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Metapod</td>
+    <td>4-8F</td>
+    <td class="highlightGray">Psyduck</td>
+    <td>6-11F</td>
+    <td class="highlightGray">Torchic</td>
+    <td>7-10F</td>
+    <td class="highlightGray">Kakuna</td>
+    <td>9-13F</td>
+    <td class="highlightGray">Eevee</td>
+    <td>12-17F</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Cyndaquil</td>
+    <td>13-17F</td>
+    <td class="highlightGray">Smoochum</td>
+    <td>17-22F</td>
+    <td class="highlightGray">Skitty</td>
+    <td>20-25F</td>
+    <td class="highlightGray">Clefable</td>
+    <td>22-29F</td>
+    <td class="highlightGray">Gardevoir</td>
+    <td>30-36F</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Bellossom</td>
+    <td>30-38F</td>
+    <td class="highlightGray">Igglybuff</td>
+    <td>40-46F</td>
+    <td class="highlightGray">Wigglytuff</td>
+    <td>50-56F</td>
+    <td class="highlightGray">Chansey</td>
+    <td>50/60/77F</td>
+    <td class="highlightGray">Victreebel</td>
+    <td>51-55F</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">Kecleon</td>
+    <td>51-98F</td>
+    <td class="highlightGray">Granbull</td>
+    <td>60-69F</td>
+    <td class="highlightGray">Persian</td>
+    <td>76-79F <sup><span class="redText">*1</span></sup></td>
+    <td class="highlightGray">Kangaskhan</td>
+    <td>76-79F <sup><span class="redText">*1</span></sup></td>
+    <td class="highlightGray">Blissey</td>
+    <td>88F</td>
+  </tr>
+</table>
+
+<p><sup><span class="redText">*1</span></sup>: Also appears on 97-98F.</p>
 
 # Pokemon
 

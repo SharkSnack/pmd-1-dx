@@ -8,8 +8,6 @@ metaDescription: "Oddity Cave dungeon guide for Pokemon Mystery Dungeon: Rescue 
   <img src="../images/areas/oddity_cave.jpg"/><img src="../images/areas/oddity_cave_2.jpg"/>
 </div>
 
-Optional dungeon that is automatically unlocked after clearing Mt. Steel.<br/>It's a bit difficult if you enter it right after clearing Mt. Steel, so you might want to level up a bit first.<br/>Despite being a smaller dungeon, the selection of Pokemon that can be encountered is on the larger side.<br/>It's an easy spot to recruit a Gastly if you're in need of a Pokemon who can move through walls.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,8 @@ Optional dungeon that is automatically unlocked after clearing Mt. Steel.<br/>It
     <td>None</td>
   </tr>
 </table>
+
+Optional dungeon that is automatically unlocked after clearing Mt. Steel.<br/>It's a bit difficult if you enter it right after clearing Mt. Steel, so you might want to level up a bit first.<br/>Despite being a smaller dungeon, the selection of Pokemon that can be encountered is on the larger side.<br/>It's an easy spot to recruit a Gastly if you're in need of a Pokemon who can move through walls.
 
 # Needed Camps
 

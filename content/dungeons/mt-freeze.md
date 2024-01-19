@@ -8,8 +8,6 @@ metaDescription: "Mt. Freeze dungeon guide for Pokemon Mystery Dungeon: Rescue T
   <img src="../images/areas/mt_freeze.jpg"/><img src="../images/areas/mt_freeze_2.jpg"/>
 </div>
 
-Final dungeon of the fugitive arc, and this time there isn't a boss fight at the end.<br/>Once you clear this dungeon, you'll return to your Rescue Team base and can access Pokemon Square again.<br/>Hail and Sandstorm (via Pupitar) weather both appear, so consider bringing orbs or healing items as a counter.<br/>Pineco can know Bug Bite, so use ranged attacks to keep your Oran Berries and Tiny Reviver Seeds safe.<br/>Glalie can know Sheer Cold which instantly KOs a target, so don't let it act when adjacent.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,8 @@ Final dungeon of the fugitive arc, and this time there isn't a boss fight at the
     <td>Return to Team Base<br/>Unlock Uproar Forest</td>
   </tr>
 </table>
+
+Final dungeon of the fugitive arc, and this time there isn't a boss fight at the end.<br/>Once you clear this dungeon, you'll return to your Rescue Team base and can access Pokemon Square again.<br/>Hail and Sandstorm (via Pupitar) weather both appear, so consider bringing orbs or healing items as a counter.<br/>Pineco can know Bug Bite, so use ranged attacks to keep your Oran Berries and Tiny Reviver Seeds safe.<br/>Glalie can know Sheer Cold which instantly KOs a target, so don't let it act when adjacent.
 
 # Needed Camps
 

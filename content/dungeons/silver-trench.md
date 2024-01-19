@@ -8,8 +8,6 @@ metaDescription: "Silver Trench dungeon guide for Pokemon Mystery Dungeon: Rescu
   <img src="../images/areas/silver_trench.jpg"/><img src="../images/areas/silver_trench_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -64,11 +62,27 @@ metaDescription: "Silver Trench dungeon guide for Pokemon Mystery Dungeon: Rescu
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_14.jpg"/></td>
     <th>Reward</th>
     <td>Lugia joins.<br/>Unlock Meteor Cave.</td>
   </tr>
 </table>
+
+Deep and tedious post-game sea type dungeon that features Lugia as a boss at the end.<br/>Unlike the originals, floor-wide Monster Houses are not guaranteed to generate in Rescue Team DX.<br/><span class="redText">Remember to bring food</span> - Food items (including seeds and berries) can't be found on the ground.<br/>Shops never generate either, so your only hope for obtaining food in-dungeon is seeds from Sparkling Tiles,<br/>or apples from stepping on an Apple Trap or entering a Mystery House.
+
+Enemies with instant-KO attacks include Krabby, Kingler, Spheal, Sealeo, Walrein, and Dewgong.<br/>Watch out for enemies with Hydro Pump in hallways - Hydro Pump pierces 10 tiles in a straight line.<br/>Hydro Pump users appear right away on 1F (Tentacool, Omanyte, Qwilfish), so if you struggle against those,<br/>it's probably best to use an Escape Orb and come back to the dungeon later once you've gotten stronger.
+
+Rain or Hail doesn't naturally occur on any of the floors, but some enemies can change the weather:<br/>
+
+- Rain Dance - Slowpoke (6-14F), Slowbro (30-36F)
+- Hail - Seel (6-14F), Spheal (10-19F), Sealeo (35-44F), Walrein (60-69F)
+
+# Boss Strategy
+
+#### Lugia (1597 HP) - Dragon Rush / Aeroblast / Extrasensory / Gust
+
+- The boss has lower HP and doesn't know any support moves, so it should be on the easy side.
+- Aeroblast hits 10 tiles in a straight line and pierces through targets, similar to Hydro Pump.
 
 # Needed Camps
 
@@ -147,7 +161,7 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 |Floor|Image|Name|Rate|Lv|HP|Atk|Def|SpA|SpD|Spe|Exp|Ability + Moves|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |1-5|![Wingull](../images/pokemon/278.png)|Wingull<br/>![Water](../images/type/water.gif) ![Flying](../images/type/flying.gif)|8.2%|60|88<br/><span class="redText">155</span>|64<br/><span class="redText">70</span>|60<br/><span class="redText">64</span>|73<br/><span class="redText">81</span>|55<br/><span class="redText">58</span>|80<br/><span class="redText">91</span>|150|Keen Eye or Hydration<br/>Growl / Water Gun / Supersonic /<br/>Wing Attack / Water Pulse / Roost /<br/>Quick Attack / Air Cutter / Pursuit /<br/>Mist / Aerial Ace / Agility / Air Slash /<br/>Hurricane|
-|1-8|![Shellder](../images/pokemon/090.png)|Shellder<br/>![Water](../images/type/water.gif)|8.2%|60|83<br/><span class="redText">152</span>|83<br/><span class="redText">90</span>|85<br/><span class="redText">89</span>|73<br/><span class="redText">80</span>|50<br/><span class="redText">53</span>|91<br/><span class="redText">111</span>|150|Shell Armor or Skill Link<br/>Tackle / Water Gun / Protect / Brine /<br/>Supersonic / Icicle Spear / Withdraw /<br/>Whirlpool / Ice Shard / Razor Shell /<br/>Aurora Beam / Leer / Hydro Pump /<br/>Clamp / Iron Defense / Shell Smash /<br/>Ice Beam|
+|1-8|![Shellder](../images/pokemon/090.png)|Shellder<br/>![Water](../images/type/water.gif)|8.2%|60|83<br/><span class="redText">152</span>|83<br/><span class="redText">90</span>|85<br/><span class="redText">89</span>|73<br/><span class="redText">80</span>|50<br/><span class="redText">53</span>|91<br/><span class="redText">111</span>|150|Shell Armor or Skill Link<br/>Tackle / Water Gun / Protect / Brine /<br/>Supersonic / Icicle Spear / Withdraw /<br/>Whirlpool / Ice Shard / Razor Shell /<br/>Aurora Beam / Leer / Ice Beam /<br/>Clamp / Iron Defense / Shell Smash|
 |1-9|![Tentacool](../images/pokemon/072.png)|Tentacool<br/>![Water](../images/type/water.gif) ![Poison](../images/type/poison.gif)|8.2%|60|88<br/><span class="redText">160</span>|73<br/><span class="redText">80</span>|55<br/><span class="redText">59</span>|73<br/><span class="redText">80</span>|70<br/><span class="redText">73</span>|94<br/><span class="redText">114</span>|160|Clear Body or Liquid Ooze<br/>Poison Sting / Supersonic / Acid /<br/>Toxic Spikes / Bubble Beam / Wrap /<br/>Constrict / Water Pulse / Acid Spray /<br/>Screech / Poison Jab / Hydro Pump /<br/>Barrier / Sludge Wave / Wring Out /<br/>Hex / Brine|
 |1-9|![Omanyte](../images/pokemon/138.png)|Omanyte<br/>![Rock](../images/type/rock.gif) ![Water](../images/type/water.gif)|8.2%|60|88<br/><span class="redText">153</span>|64<br/><span class="redText">70</span>|70<br/><span class="redText">74</span>|91<br/><span class="redText">100</span>|55<br/><span class="redText">58</span>|77<br/><span class="redText">88</span>|153|Swift Swim or Shell Armor<br/>Constrict / Withdraw / Bite / Rollout /<br/>Water Gun / Leer / Mud Shot / Brine /<br/>Hydro Pump / Shell Smash / Protect /<br/>Rock Blast / Ancient Power / Tickle|
 |1-9|![Qwilfish](../images/pokemon/211.png)|Qwilfish<br/>![Water](../images/type/water.gif) ![Poison](../images/type/poison.gif)|8.2%|60|88<br/><span class="redText">165</span>|83<br/><span class="redText">90</span>|55<br/><span class="redText">59</span>|64<br/><span class="redText">70</span>|50<br/><span class="redText">53</span>|113<br/><span class="redText">133</span>|165|Poison Point or Swift Swim<br/>Toxic Spikes / Hydro Pump / Spikes /<br/>Destiny Bond / Minimize / Aqua Tail /<br/>Fell Stinger / Harden / Tackle / Brine /<br/>Bubble / Rollout / Revenge / Spit Up /<br/>Stockpile / Water Gun / Poison Sting /<br/>Take Down / Pin Missile / Poison Jab|
@@ -177,7 +191,7 @@ Rate = Recruit rate.<br/>Red stats = Stats as an enemy.<br/>Ability colors: <spa
 |45-54|![Luvdisc](../images/pokemon/370.png)|Luvdisc<br/>![Water](../images/type/water.gif)|8.2%|60|83<br/><span class="redText">162</span>|55<br/><span class="redText">60</span>|55<br/><span class="redText">59</span>|55<br/><span class="redText">60</span>|55<br/><span class="redText">58</span>|94<br/><span class="redText">114</span>|165|Swift Swim<br/>Tackle / Charm / Water Gun / Flail /<br/>Charm / Draining Kiss / Water Pulse /<br/>Lucky Chant / Attract / Sweet Kiss /<br/>Aqua Ring / Take Down / Captivate /<br/>Soak / Heart Stamp / Hydro Pump /<br/>Safeguard|
 |50-59|![Dratini](../images/pokemon/147.png)|Dratini<br/>![Dragon](../images/type/dragon.gif)|8.2%|60|91<br/><span class="redText">163</span>|96<br/><span class="redText">110</span>|55<br/><span class="redText">59</span>|79<br/><span class="redText">91</span>|55<br/><span class="redText">58</span>|91<br/><span class="redText">111</span>|197|Shed Skin<br/>Wrap / Leer / Thunder Wave / Slam /<br/>Dragon Tail / Dragon Rage / Agility /<br/>Aqua Tail / Twister / Dragon Rush /<br/>Safeguard / Dragon Dance / Outrage|
 |50-59|![Slowking](../images/pokemon/199.png)|Slowking<br/>![Water](../images/type/water.gif) ![Psychic](../images/type/psychic.gif)|8.2%|60|94<br/><span class="redText">175</span>|73<br/><span class="redText">80</span>|70<br/><span class="redText">74</span>|83<br/><span class="redText">90</span>|55<br/><span class="redText">58</span>|95<br/><span class="redText">105</span>|187|Oblivious or Own Tempo<br/>Swagger / Headbutt / Curse / Yawn /<br/>Power Gem / Water Pulse / Growl /<br/>Heal Pulse / Water Gun / Confusion /<br/>Disable / Hidden Power / Nasty Plot /<br/>Tackle / Zen Headbutt / Psych Up /<br/>Psychic / Trump Card|
-|55-64|![Dewgong](../images/pokemon/087.png)|Dewgong<br/>![Water](../images/type/water.gif) ![Ice](../images/type/ice.gif)|8.2%|60|94<br/><span class="redText">170</span>|73<br/><span class="redText">80</span>|60<br/><span class="redText">64</span>|64<br/><span class="redText">70</span>|60<br/><span class="redText">63</span>|110<br/><span class="redText">130</span>|180|Thick Fat or Hydration<br/>Encore / Growl / Signal Beam / Brine /<br/>Rest / Ice Shard / Aqua Jet / Icy Wind /<br/>Headbutt / Aurora Beam / Aqua Ring /<br/>Take Down / Sheer Cold / Aqua Tail /<br/>Dive / Ice Beam / Safeguard / Hail|
+|55-64|![Dewgong](../images/pokemon/087.png)|Dewgong<br/>![Water](../images/type/water.gif) ![Ice](../images/type/ice.gif)|8.2%|60|94<br/><span class="redText">170</span>|73<br/><span class="redText">80</span>|60<br/><span class="redText">64</span>|64<br/><span class="redText">70</span>|60<br/><span class="redText">63</span>|110<br/><span class="redText">130</span>|180|Thick Fat or Hydration<br/>Encore / Growl / Signal Beam / Brine /<br/>Rest / Ice Shard / Aqua Jet / Icy Wind /<br/>Headbutt / Aurora Beam / Aqua Ring /<br/>Take Down / Sheer Cold / Aqua Tail /<br/>Dive / Ice Beam|
 |55-64|![Octillery](../images/pokemon/224.png)|Octillery<br/>![Water](../images/type/water.gif)|8.2%|60|88<br/><span class="redText">175</span>|83<br/><span class="redText">90</span>|55<br/><span class="redText">59</span>|83<br/><span class="redText">90</span>|55<br/><span class="redText">58</span>|77<br/><span class="redText">118</span>|185|Suction Cups or Sniper<br/>Signal Beam / Gunk Shot / Rock Blast /<br/>Hyper Beam / Hydro Pump / Constrict /<br/>Wring Out / Aurora Beam / Water Gun /<br/>Focus Energy / Octazooka / Psybeam /<br/>Bullet Seed / Ice Beam / Bubble Beam|
 |60-69|![Muk](../images/pokemon/089.png)|Muk<br/>![Poison](../images/type/poison.gif)|8.2%|60|94<br/><span class="redText">171</span>|83<br/><span class="redText">90</span>|55<br/><span class="redText">59</span>|64<br/><span class="redText">70</span>|60<br/><span class="redText">63</span>|88<br/><span class="redText">108</span>|181|Stench or Sticky Hold<br/>Venom Drench / Pound / Poison Gas /<br/>Harden / Mud-Slap / Disable / Sludge /<br/>Mud Bomb / Minimize / Sludge Bomb /<br/>Screech / Sludge Wave / Gunk Shot /<br/>Fling / Acid Armor / Belch / Memento|
 |60-69|![Sharpedo](../images/pokemon/319.png)|Sharpedo<br/>![Water](../images/type/water.gif) ![Dark](../images/type/dark.gif)|8.2%|60|88<br/><span class="redText">180</span>|91<br/><span class="redText">100</span>|50<br/><span class="redText">54</span>|83<br/><span class="redText">90</span>|50<br/><span class="redText">53</span>|104<br/><span class="redText">124</span>|200|Rough Skin<br/>Rage / Leer / Bite / Ice Fang / Crunch /<br/>Scary Face / Slash / Feint / Aqua Jet /<br/>Swagger / Night Slash / Assurance /<br/>Focus Energy / Screech / Skull Bash /<br/>Agility / Poison Fang / Taunt<br/><span class="orangeText">※ Can Mega Evolve.</span>|

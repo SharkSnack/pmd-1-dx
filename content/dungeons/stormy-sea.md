@@ -8,8 +8,6 @@ metaDescription: "Stormy Sea dungeon guide for Pokemon Mystery Dungeon: Rescue T
   <img src="../images/areas/stormy_sea.jpg"/><img src="../images/areas/stormy_sea_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -30,7 +28,7 @@ metaDescription: "Stormy Sea dungeon guide for Pokemon Mystery Dungeon: Rescue T
     <th>Radar / Scanning</th>
     <td>No</td>
     <th>Weather</th>
-    <td>Clear: 1-4, 7-11, 14-18, 21-25, 28-39F<br/>Rain: 5-6, 12-13, 19-20, 26-27F</td>
+    <td>Rain: 5-6, 12-13, 19-20, 26-27F</td>
   </tr>
   <tr>
     <th>Dark Halls</th>
@@ -64,11 +62,32 @@ metaDescription: "Stormy Sea dungeon guide for Pokemon Mystery Dungeon: Rescue T
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>None</td>
+    <td><img src="../images/other/clear_7.jpg"/></td>
     <th>Reward</th>
     <td>Kyogre joins, Unlock Buried Relic</td>
   </tr>
 </table>
+
+Post-game dungeon featuring lots of Water types, and Kyogre as a tough boss at the end.<br/>Water type enemies often have ranged attacks, including moves that can inflict Slow or Confused status,<br/>so avoid lining up with them if possible - Room-wide attacks like Discharge can be used to still hit them.<br/>Enemies with Shell Armor or Battle Armor are common, so critical hit reliant strategies are less effective.<br/>Anorith (14-23F) and Armaldo (35-39F) can know Bug Bite, so don't let them act when adjacent.
+
+Since it's a sea type dungeon, food items (including seeds and berries) can't be found on the ground.<br/>It's recommended to bring a party member that has Notorious Fasting, Food Finder, or Small Stomach.<br/>※ Apples can still be obtained by stepping on an Apple Trap or by entering a Mystery House.
+
+# Boss Strategy
+
+#### Kyogre (1431 HP) - Origin Pulse / Hydro Pump / Body Slam / Water Spout
+
+- Kyogre's Water type attacks gain power while it's raining, and weaken when it's sunny.
+    - Kyogre's ability makes it rain, so use a Nullify Orb first if you want to use Sunny Day or a Sunny Orb.
+- Water Spout changes to a room-wide attack when used by a large Pokemon like Kyogre.
+    - Its power decreases when the user has lower HP, so it hits hardest at the start of the fight.
+- Hydro Pump pierces 10 tiles in a straight line, and Origin Pulse hits targets in a 1 tile radius.
+- Drought Orb can be used to remove the Slow status for non-Water types field effect.
+    - This field effect cannot be countered by moves like Agility or Tailwind that grant Quick status.
+
+#### Primal Kyogre (1236 HP) - Origin Pulse / Hydro Pump / Body Slam / Water Spout
+
+- Basically 1 more round of Kyogre, but Primordial Sea prevents the weather from changing.
+    - Again, use a Nullify Orb if you want to use Sunny Day or a Sunny Orb.
 
 # Needed Camps
 

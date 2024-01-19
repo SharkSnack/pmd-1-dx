@@ -8,8 +8,6 @@ metaDescription: "Snow Path dungeon guide for Pokemon Mystery Dungeon: Rescue Te
   <img src="../images/areas/frosty_forest_intro.jpg"/><img src="../images/areas/snow_path_2.jpg"/>
 </div>
 
-Optional dungeon you can challenge before you enter Frosty Forest or Mt. Freeze.<br/>You just return to the location before you entered Snow Path after clearing it, and there's no reward.<br/>Enemies offer more experience points compared to Rock Path, but that's about all there is to say about it.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -73,6 +71,8 @@ Optional dungeon you can challenge before you enter Frosty Forest or Mt. Freeze.
     <td>None</td>
   </tr>
 </table>
+
+Optional dungeon you can challenge before you enter Frosty Forest or Mt. Freeze.<br/>You just return to the location before you entered Snow Path after clearing it, and there's no reward.<br/>Enemies offer more experience points compared to Rock Path, but that's about all there is to say about it.
 
 # Needed Camps
 

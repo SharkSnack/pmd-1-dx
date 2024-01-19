@@ -8,8 +8,6 @@ metaDescription: "Mt. Thunder dungeon guide for Pokemon Mystery Dungeon: Rescue 
   <img src="../images/areas/mt_thunder.jpg"/><img src="../images/areas/mt_thunder_2.jpg"/>
 </div>
 
-Dungeon where there's a checkpoint between 10F and 11F, and boss fight with Zapdos on 13F.<br/>The checkpoint is only present during the first clear, so keep that in mind if you return afterwards.<br/>If you're struggling with the boss, recruit a Electrike or Manectric with Lightning Rod to have an easier time.<br/>It's probably best to use ranged attacks against Zapdos to avoid losing Tiny Reviver Seeds due to Pluck.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,27 @@ Dungeon where there's a checkpoint between 10F and 11F, and boss fight with Zapd
     <td>Unlock Great Canyon</td>
   </tr>
 </table>
+
+Dungeon where there's a checkpoint between 10F and 11F, and boss fight with Zapdos on 13F.<br/>The checkpoint is only present during the first clear, so keep that in mind if you return afterwards.<br/>If you're struggling with the boss, recruit an Electrike or Manectric with Lightning Rod for an easier time.<br/>It's probably best to use ranged attacks against Zapdos to avoid losing Tiny Reviver Seeds due to Pluck.
+
+# Boss Strategy
+
+### First Clear
+
+#### Zapdos (561 HP) - Thunder Shock / Peck / Pluck / Sky Attack
+
+- Zapdos is a large size Pokemon, so its single-target moves can hit multiple targets.
+- Use status-inflicting seeds or wands to buy free turns for your other party members to attack.
+- Electrike or Manectric with Lightning Rod makes Zapdos's Thunder Shock a non-issue.
+
+### Rematch
+
+#### Zapdos (2087 HP) - Rain Dance / Thunder / Drill Peck / Light Screen
+
+- Thunder has 100% accuracy in rainy weather.
+    - A Pokemon with Lightning Rod effectively shuts down Zapdos's main attack.
+- If you plan on using special attacks, bring a Pokemon who knows Brick Break to remove Light Screen.
+    - Rhydon can have Lightning Rod, learns Brick Break from a TM, and resists Flying type attacks.
 
 # Needed Camps
 

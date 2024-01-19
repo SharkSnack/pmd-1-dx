@@ -8,8 +8,6 @@ metaDescription: "Marvelous Sea dungeon guide for Pokemon Mystery Dungeon: Rescu
   <img src="../images/areas/marvelous_sea.jpg"/><img src="../images/areas/marvelous_sea_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,8 @@ metaDescription: "Marvelous Sea dungeon guide for Pokemon Mystery Dungeon: Rescu
     <td>Deluxe Box x 2, Evolution Crystal x 5</td>
   </tr>
 </table>
+
+Optional post-game dungeon where Kanto ~ Johto Pokemon appear in Pokedex order.<br/>Enemies are Lv60 and have inflated stats, so you're likely to struggle if you haven't used any vitamins.<br/>At first glance it probably looks like a handy place to fill in gaps if you're aiming to recruit all Pokemon,<br/>but each species only appears for a short time, so recruiting a specific Pokemon may require multiple runs.<br/>Potential <span class="redText">Perish Song</span> users include Misdreavus (10-13F) and Smoochum (16-17F).
 
 # Needed Camps
 

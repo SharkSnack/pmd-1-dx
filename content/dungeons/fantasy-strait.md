@@ -8,8 +8,6 @@ metaDescription: "Fantasy Strait dungeon guide for Pokemon Mystery Dungeon: Resc
   <img src="../images/areas/fantasy_strait.jpg"/><img src="../images/areas/fantasy_strait_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,8 @@ metaDescription: "Fantasy Strait dungeon guide for Pokemon Mystery Dungeon: Resc
     <td>Deluxe Box x 5, Blizzard TM, Thunder TM, Fire Blast TM,<br/>Power Drink x 1, PP-Up Drink x 1, Accuracy Drink x 1</td>
   </tr>
 </table>
+
+Optional post-game dungeon where Kanto ~ Hoenn Pokemon appear in Pokedex order.<br/>It's basically an extended version of Marvelous Sea, but enemies have higher HP and offer more exp.<br/>Enemies are Lv60 and have inflated stats, so you're likely to struggle if you haven't used any vitamins.<br/>At first glance it probably looks like a handy place to fill in gaps if you're aiming to recruit all Pokemon,<br/>but each species only appears for a short time, so recruiting a specific Pokemon may require multiple runs.<br/>Potential <span class="redText">Perish Song</span> users include Misdreavus (10-13F), Smoochum (16-19F), and Altaria (1-24F).
 
 # Needed Camps
 

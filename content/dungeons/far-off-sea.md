@@ -8,8 +8,6 @@ metaDescription: "Far-Off Sea dungeon guide for Pokemon Mystery Dungeon: Rescue 
   <img src="../images/areas/far_off_sea.jpg"/><img src="../images/areas/far_off_sea_2.jpg"/>
 </div>
 
-[Introduction]
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,10 @@ metaDescription: "Far-Off Sea dungeon guide for Pokemon Mystery Dungeon: Rescue 
     <td>Deluxe Box x 3, Life Seed x 2,<br/>Power Drink x 1, Accuracy Drink x 1, PP-Up Drink x 1</td>
   </tr>
 </table>
+
+Optional post-game dungeon that's easy to unlock but hard to clear right after the main story.<br/>Water type enemies often have ranged attacks, including moves that can inflict Slow or Confused status.<br/>Many enemies have the possibility of knowing Brine or Assurance, which deal more damage if HP &le; 50%.<br/>Floor numbers ending in 4 have Rain, so beware of Swift Swim Pokemon attacking twice on those floors.<br/>Enemies with instant-KO attacks include Krabby (1-10F) and Dewgong (55-64F).
+
+Since it's a sea type dungeon, food items (including seeds and berries) can't be found on the ground.<br/>It's highly recommended to bring a party member that has Notorious Fasting or Small Stomach.<br/>※ Apples can still be obtained by stepping on an Apple Trap or by entering a Mystery House.
 
 # Needed Camps
 

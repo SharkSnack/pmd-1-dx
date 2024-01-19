@@ -1621,7 +1621,7 @@ Location colors = Wild, <span class="boss">Boss</span>, <span class="redText">Fa
     <td>Synchronize</td>
     <td>Float</td>
     <td>Final Island</td>
-    <td>Buried Relic<br/>　40/50/60/70/80/90/98F</td>
+    <td>Buried Relic<br/>　40/60/70/90/98F</td>
     <td>-</td>
   </tr>
   <tr>
@@ -4178,7 +4178,7 @@ Location colors = Wild, <span class="boss">Boss</span>, <span class="redText">Fa
     <td>Technician<br/>Pickup</td>
     <td>Normal</td>
     <td>Vibrant Forest</td>
-    <td><span class="orangeText">Great Canyon</span><br/><span class="redText">Grand Sea</span></td>
+    <td><span class="orangeText">Great Canyon 3-12F</span><br/><span class="redText">Grand Sea</span></td>
     <td>-</td>
   </tr>
   <tr>

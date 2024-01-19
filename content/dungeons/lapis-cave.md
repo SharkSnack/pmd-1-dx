@@ -8,8 +8,6 @@ metaDescription: "Lapis Cave dungeon guide for Pokemon Mystery Dungeon: Rescue T
   <img src="../images/areas/lapis_cave.jpg"/><img src="../images/areas/lapis_cave_2.jpg"/>
 </div>
 
-First dungeon of the fugitive arc, and the player's visibility in hallways is limited to a 2 tile radius.<br/>However, story dungeons always have Radar and Scanning active, so you can still see enemies on the map.<br/>If you wipe out, you'll be given an option to challenge the easier optional dungeon Rock Path instead.<br/>A wider variety of items including orbs and Link Boxes can be found on the ground.
-
 # Overview
 
 <table class="dungeonOverview">
@@ -69,6 +67,8 @@ First dungeon of the fugitive arc, and the player's visibility in hallways is li
     <td>Unlock Mt. Blaze</td>
   </tr>
 </table>
+
+First dungeon of the fugitive arc, and the player's visibility in hallways is limited to a 2 tile radius.<br/>However, story dungeons always have Radar and Scanning active, so you can still see enemies on the map.<br/>If you wipe out, you'll be given an option to challenge the easier optional dungeon Rock Path instead.<br/>A wider variety of items including orbs and Link Boxes can be found on the ground.
 
 # Needed Camps
 
